@@ -38,7 +38,7 @@ public class WordListEntriesCombiner {
     public void loadFilesAndInvokeCombination() {
         String projectRoot = "../";
         Map<String, Entry> ospd5EntryWordOrInflectionToEntry =
-                ospd5FileToDomainObjectMapper.getOspd5EntryWordOrInflectionToEntry("/ospd5_with_my_edits.txt");
+                ospd5FileToDomainObjectMapper.getOspd5EntryWordOrInflectionToEntry(projectRoot + "/dictionaries/sowpods_with_my_edits.txt");
         Set<String> enable1 = wordListFileToStringSetMapper.getPerformantSet(projectRoot + "/wordlists/enable1.txt");
         Set<String> wwf4 = wordListFileToStringSetMapper.getPerformantSet(projectRoot + "/wordlists/greenworm_dot_net_wwf_v4point0.txt");
         Set<String> otcwl2 = wordListFileToStringSetMapper.getPerformantSet(projectRoot + "/wordlists/otcwl2.txt");
