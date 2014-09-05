@@ -4,8 +4,10 @@ import com.google.inject.Inject;
 import crosswords.flashcards.domain.Entry;
 import crosswords.flashcards.factories.AnnotatedEntryFactory;
 import crosswords.flashcards.factories.EntryFactory;
+import crosswords.flashcards.factories.bindingannotations.*;
 import crosswords.flashcards.io.Ospd5FileToDomainObjectMapper;
 import crosswords.flashcards.io.WordListFileToStringSetMapper;
+import crosswords.flashcards.io.WordListFileToStringSetMapperInterface;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -20,30 +22,37 @@ import java.util.TreeSet;
  */
 public class WordListEntriesCombiner {
     private final Ospd5FileToDomainObjectMapper ospd5FileToDomainObjectMapper;
-    private final WordListFileToStringSetMapper wordListFileToStringSetMapper;
     private final AnnotatedEntryFactory annotatedEntryFactory;
     private final EntryFactory entryFactory;
+    private final Set<String> enable1;
+    private final Set<String> wwf4;
+    private final Set<String> otcwl2;
+    private final Set<String> otcwl2014_2LW;
+    private final Set<String> otcwl2014_some3LW;
 
     @Inject
     public WordListEntriesCombiner(Ospd5FileToDomainObjectMapper ospd5FileToDomainObjectMapper,
-                                   WordListFileToStringSetMapper wordListFileToStringSetMapper,
                                    AnnotatedEntryFactory annotatedEntryFactory,
-                                   EntryFactory entryFactory) {
+                                   EntryFactory entryFactory,
+                                   @Enable1 Set<String> enable1,
+                                   @WordsWithFriends4 Set<String> wwf4,
+                                   @Otcwl2 Set<String> otcwl2,
+                                   @Otcwl2014TwoLetterWords Set<String> otcwl2014_2LW,
+                                   @Otcwl2014ThreeFromTwo Set<String> otcwl2014_some3LW) {
         this.ospd5FileToDomainObjectMapper = ospd5FileToDomainObjectMapper;
-        this.wordListFileToStringSetMapper = wordListFileToStringSetMapper;
         this.annotatedEntryFactory = annotatedEntryFactory;
         this.entryFactory = entryFactory;
+        this.enable1 = enable1;
+        this.wwf4 = wwf4;
+        this.otcwl2 = otcwl2;
+        this.otcwl2014_2LW = otcwl2014_2LW;
+        this.otcwl2014_some3LW = otcwl2014_some3LW;
     }
 
     public void loadFilesAndInvokeCombination() {
         String projectRoot = "../";
         Map<String, Entry> ospd5EntryWordOrInflectionToEntry =
                 ospd5FileToDomainObjectMapper.getOspd5EntryWordOrInflectionToEntry(projectRoot + "/dictionaries/sowpods_with_my_edits.txt");
-        Set<String> enable1 = wordListFileToStringSetMapper.getPerformantSet(projectRoot + "/wordlists/enable1.txt");
-        Set<String> wwf4 = wordListFileToStringSetMapper.getPerformantSet(projectRoot + "/wordlists/greenworm_dot_net_wwf_v4point0.txt");
-        Set<String> otcwl2 = wordListFileToStringSetMapper.getPerformantSet(projectRoot + "/wordlists/otcwl2.txt");
-        Set<String> otcwl2014_2LW = wordListFileToStringSetMapper.getPerformantSet(projectRoot + "/wordlists/otcwl2014_2LW.txt");
-        Set<String> otcwl2014_some3LW = wordListFileToStringSetMapper.getPerformantSet(projectRoot + "/wordlists/otcwl2014_some3LW.txt");
         SortedSet<String> union = new TreeSet<String>(enable1);
         union.addAll(wwf4);
         union.addAll(otcwl2);
@@ -63,9 +72,9 @@ public class WordListEntriesCombiner {
                 }
                 String toPrint;
                 if (word.equals(entry.getEntryWord())) {
-                    toPrint = annotatedEntryFactory.createForEntryWord(enable1, wwf4, otcwl2, otcwl2014_2LW, otcwl2014_some3LW, entry).formatForPrinting();
+                    toPrint = annotatedEntryFactory.createForEntryWord(entry).formatForPrinting();
                 } else {
-                    toPrint = annotatedEntryFactory.createForInflection(enable1, wwf4, otcwl2, otcwl2014_2LW, otcwl2014_some3LW, word, entry).formatForPrinting();
+                    toPrint = annotatedEntryFactory.createForInflection(word, entry).formatForPrinting();
                 }
                 bufferedWriter.write(toPrint + "\n");
                 if (++i % 10000 == 0) {

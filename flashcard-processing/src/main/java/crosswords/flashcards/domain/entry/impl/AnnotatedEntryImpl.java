@@ -3,6 +3,7 @@ package crosswords.flashcards.domain.entry.impl;
 import com.google.inject.Inject;
 import com.google.inject.assistedinject.Assisted;
 import crosswords.flashcards.domain.*;
+import crosswords.flashcards.factories.bindingannotations.*;
 
 import java.util.Arrays;
 import java.util.List;
@@ -22,15 +23,15 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
 
     @Inject
     // todo: add long list?
-    // todo: automate regeneration of all anki decks, ready for reimport w/ospd5 changes; use history!
+    // todo: add sowpods?
     // todo: study at home to be able to regenerate decks quickly!
     // todo: make cloze cards for inflection categories
 
-    public AnnotatedEntryImpl(@Assisted(value = "e") Set<String> e,
-                              @Assisted(value = "w") Set<String> w,
-                              @Assisted(value = "o2") Set<String> o2,
-                              @Assisted(value = "o3_2") Set<String> o3_2,
-                              @Assisted(value = "o3_some3") Set<String> o3_some3,
+    public AnnotatedEntryImpl(@Enable1 Set<String> e,
+                              @WordsWithFriends4 Set<String> w,
+                              @Otcwl2 Set<String> o2,
+                              @Otcwl2014TwoLetterWords Set<String> o3_2,
+                              @Otcwl2014ThreeFromTwo Set<String> o3_some3,
                               @Assisted Entry entry) {
         enable1 = e;
         wwf4 = w;

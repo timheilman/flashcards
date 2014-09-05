@@ -11,11 +11,10 @@ import crosswords.flashcards.domain.inflections.impl.InflectionFromSuffixImpl;
 import crosswords.flashcards.domain.inflections.impl.InflectionImpl;
 import crosswords.flashcards.domain.inflections.impl.InflectionsImpl;
 import crosswords.flashcards.factories.*;
+import crosswords.flashcards.factories.bindingannotations.*;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.SortedSet;
-import java.util.TreeSet;
+import java.lang.annotation.Annotation;
+import java.util.*;
 
 /**
  * Created by tim on 8/24/14.
@@ -45,5 +44,21 @@ public class GuiceModule extends AbstractModule {
         install(factoryModuleBuilder
                 .implement(new TypeLiteral<SortedSet<String>>(){}, new TypeLiteral<TreeSet<String>>(){})
                 .build(StringSortedSetFactory.class));
+
+        installWordList(Enable1.class, "../wordlists/enable1.txt");
+        installWordList(WordsWithFriends4.class, "../wordlists/greenworm_dot_net_wwf_v4point0.txt");
+        installWordList(Otcwl2.class, "../wordlists/otcwl2.txt");
+        installWordList(Otcwl2014TwoLetterWords.class, "../wordlists/otcwl2014_2LW.txt");
+        installWordList(Otcwl2014ThreeFromTwo.class, "../wordlists/otcwl2014_some3LW.txt");
+
+    }
+
+    private void installWordList(final Class<? extends Annotation> annotationClass, final String fileName) {
+        install(new WordListFileToStringSetMapperModule(annotationClass) {
+            @Override
+            void bindFileName() {
+                bindConstant().annotatedWith(Filename.class).to(fileName);
+            }
+        });
     }
 }

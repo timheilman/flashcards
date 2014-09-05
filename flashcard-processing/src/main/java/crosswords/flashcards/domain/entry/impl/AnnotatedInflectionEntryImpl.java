@@ -4,6 +4,7 @@ import com.google.inject.Inject;
 import com.google.inject.assistedinject.Assisted;
 import crosswords.flashcards.domain.AnnotatedInflectionEntry;
 import crosswords.flashcards.domain.Entry;
+import crosswords.flashcards.factories.bindingannotations.*;
 
 import java.util.Arrays;
 import java.util.List;
@@ -14,11 +15,11 @@ import java.util.Set;
  */
 public class AnnotatedInflectionEntryImpl extends AnnotatedEntryImpl implements AnnotatedInflectionEntry {
     @Inject
-    public AnnotatedInflectionEntryImpl(@Assisted(value = "e") Set<String> e,
-                                        @Assisted(value = "w") Set<String> w,
-                                        @Assisted(value = "o2") Set<String> o2,
-                                        @Assisted(value = "o3_2") Set<String> o3_2,
-                                        @Assisted(value = "o3_some3") Set<String> o3_some3,
+    public AnnotatedInflectionEntryImpl(@Enable1 Set<String> e,
+                                        @WordsWithFriends4 Set<String> w,
+                                        @Otcwl2 Set<String> o2,
+                                        @Otcwl2014TwoLetterWords Set<String> o3_2,
+                                        @Otcwl2014ThreeFromTwo Set<String> o3_some3,
                                         @Assisted String inflectionWord,
                                         @Assisted Entry entry) {
         super(e, w, o2, o3_2, o3_some3, entry);
