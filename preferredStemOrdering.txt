@@ -1,0 +1,302 @@
+Plurals and conjugations with S
+
+41808 -S
+2413 -ES
+38 -SES
+14 -ZES
+13 -NES
+37 -X
+
+Conjugations with ED and ING, including plurals, adverbifications, nounifications
+
+5958 -ED
+4375 -D
+211 -TED
+183 -LED
+179 -PED
+148 -GED
+87 -NED
+81 -BED
+73 -MED
+65 -DED
+62 -RED
+23 -KED
+19 -SED
+
+6180 -ING
+215 -TING
+165 -PING
+154 -LING
+144 -GING
+91 -NING
+78 -BING
+70 -MING
+65 -DING
+59 -RING
+20 -KING
+17 -SING
+
+795 -INGS
+45 -TINGS
+40 -PINGS
+13 -LINGS
+40 -GINGS
+26 -NINGS
+19 -BINGS
+15 -MINGS
+11 -DINGS
+11 -RINGS
+
+287 -INGLY
+14 -INGNESS
+44 -EDLY
+31 -DLY
+29 -EDNESS
+
+(Of Adjectives) Comparative and (of verbs) one-who, including plurals + (of adjectives) Superlative
+
+1793 -ER
+1397 -ERS
+1210 -R
+937 -RS
+70 -OR
+61 -ORS
+68 -LER
+48 -LERS
+46 -TER
+40 -TERS
+41 -GER
+31 -GERS
+33 -PER
+26 -PERS
+24 -MER
+18 -MERS
+24 -DER
+14 -DERS
+24 -BER
+19 -BERS
+16 -NER
+14 -NERS
+11 -RER
+10 -RERS
+
+391 -EST
+11 -TEST
+214 -ST
+14 -LEST
+11 -MEST
+10 -DEST
+
+Adverbification
+
+2245 -LY
+
+Adjectification with -Y, including plurals, adverbification, comparative, superlative, nounification, and plural-nounification
+
+464 -Y
+14 -GY
+13 -BY
+12 -TY
+22 -IES
+27 -ILY
+230 -IER
+11 -GIER
+11 -BIER
+220 -IEST
+11 -GIEST
+11 -BIEST
+47 -INESS
+13 -INESSES
+
+Adjectification with Less and Like, including adverbification, nounification, and plural-nounification
+
+729 -LESS
+20 -LESSLY
+30 -LESSNESS
+?? -LESSNESSES
+
+456 -LIKE
+
+Other Adjectification, including adverbification, nounification, and plural-nounification
+
+
+565 -ABLE
+17 -TABLE
+15 -PABLE
+40 -IBLE
+36 -ABLY
+12 -ABLENESS
+?? -ABILITY
+12 -ABILITIES
+
+399 -AL
+42 -IAL
+15 -ALS
+299 -ALLY
+
+310 -IC
+12 -ATIC
+35 -TIC
+21 -ICAL
+29 -ICALLY
+
+220 -ISH
+31 -ISHLY
+17 -ISHNESS
+
+82 -OUS
+26 -TOUS
+12 -CEOUS
+13 -OUSLY
+
+53 -IVE
+12 -ATIVE
+10 -IVELY
+
+28 -ARY
+23 -IAN
+15 -INE
+13 -SOME
+13 -OID
+
+*-FUL*: nounification OR adjectification, including pluralization, adverbification, and nounification
+
+131 -FUL
+28 -FULS
+31 -FULLY
+16 -FULNESS
+
+nounification : relating to people, including plural-nounification
+
+39 -DOM
+32 -DOMS
+113 -SHIP
+88 -SHIPS
+34 -HOOD
+24 -HOODS
+17 -ESS
+13 -ESSES
+13 -EE
+12 -EES
+10 -MAN
+12 -MEN
+
+other nounification, including plural-nounification
+
+1503 -NESS
+504 -NESSES
+14 -DNESS
+285 -MENT
+224 -MENTS
+197 -ITY
+78 -ITIES
+149 -ISM
+92 -ISMS
+100 -IST
+95 -ISTS
+56 -ION
+43 -IONS
+50 -RY
+10 -ERY
+24 -RIES
+36 -ATION
+32 -ATIONS
+35 -ABILITY
+24 -AGE
+17 -AGES
+16 -ATE
+
+miscellany
+
+519 -E
+150 -N
+148 -L
+84 -TA
+77 -T
+43 -H
+40 -EN
+37 -TE
+36 -IM
+32 -A
+26 -I
+24 -AN
+21 -NE
+15 -G
+11 -TH
+
+
+seen in whole stems:
+IES
+ANCE
+IC
+ALLY
+ES
+TION
+TIONS
+ING
+OR
+ORS
+IES
+ANCY
+ENCY
+IES
+ITY
+IST
+IC
+ABLE
+ING
+AL
+E
+I
+A
+ING
+INGLY
+INGS
+IER
+IEST
+ILY
+MAN
+MEN
+ER
+IES
+IG
+INGS
+ER
+IER
+IEST
+ING
+INGS
+S
+LY
+NESS
+NESSES
+IER
+IEST
+ILY
+INESS
+ING
+IER
+IEST
+ILY
+INESS
+IES
+ING
+IER
+IER
+IEST
+ILY
+INESS
+ABLE
+ING
+INGLY
+ING
+ING
+ING
+ING
+IED
+IES
+NESS
+
+
+good test example: PYGMY from no-aeiou vs ospd5
+take first two letters of exact stem into account?

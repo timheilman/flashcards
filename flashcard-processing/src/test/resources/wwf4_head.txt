@@ -1,0 +1,1000 @@
+AA	 +e1 +w4 _n_ *-S* volcanic rock consisting of angular blocks of lava with a very rough surface 
+AAH	 +e1 +w4 _vb_ *-ED*, *-ING*, *-S* exclaim in pleasure or surprise 
+AAHED	 +e1 +w4 +re1 +rw4 AAH _vb_ *-ED*, *-ING*, *-S* exclaim in pleasure or surprise 
+AAHING	 +e1 +w4 +re1 +rw4 AAH _vb_ *-ED*, *-ING*, *-S* exclaim in pleasure or surprise 
+AAHS	 +e1 +w4 +re1 +rw4 AAH _vb_ *-ED*, *-ING*, *-S* exclaim in pleasure or surprise 
+AAL	 +e1 +w4 _n_ *-S* Asian shrub or tree 
+AALII	 +e1 +w4 _n_ *-S* bushy sapindaceous shrub, _Dodonaea viscosa,_ of Australia, Hawaii, Africa, and tropical America, having small greenish flowers and sticky foliage 
+AALIIS	 +e1 +w4 +re1 +rw4 AALII _n_ *-S* bushy sapindaceous shrub, _Dodonaea viscosa,_ of Australia, Hawaii, Africa, and tropical America, having small greenish flowers and sticky foliage 
+AALS	 +e1 +w4 +re1 +rw4 AAL _n_ *-S* Asian shrub or tree 
+AARDVARK	 +e1 +w4 _n_ *-S* S African anteater with long ears and snout 
+AARDVARKS	 +e1 +w4 +re1 +rw4 AARDVARK _n_ *-S* S African anteater with long ears and snout 
+AARDWOLF	 +e1 +w4 _n_ *AARDWOLVES* nocturnal mammal, _Proteles cristatus,_ that inhabits the plains of southern Africa and feeds on termites and insect larvae: family _Hyaenidae_ (hyenas), order _Carnivora_ (carnivores) 
+AARDWOLVES	 +e1 +w4 +re1 +rw4 AARDWOLF _n_ *AARDWOLVES* nocturnal mammal, _Proteles cristatus,_ that inhabits the plains of southern Africa and feeds on termites and insect larvae: family _Hyaenidae_ (hyenas), order _Carnivora_ (carnivores) 
+AARGH	 +e1 +w4 _interj_ cry of pain 
+AARRGH	 +e1 +w4 _interj_ cry of pain -
+AARRGHH	 +e1 +w4 _interj_ cry of pain 
+AAS	 +e1 +w4 +re1 +rw4 AA _n_ *-S* volcanic rock consisting of angular blocks of lava with a very rough surface 
+AASVOGEL	 +e1 +w4 _n_ *-S* South African bird of prey 
+AASVOGELS	 +e1 +w4 +re1 +rw4 AASVOGEL _n_ *-S* South African bird of prey 
+AB	 +e1 +w4 _n_ *-S* abdominal muscle 
+ABA	 +e1 +w4 _n_ *-S* type of cloth from Syria, made of goat hair or camel hair 
+ABACA	 +e1 +w4 _n_ *-S* Philippine plant, _Musa textilis,_ related to the banana: family _Musaceae._ Its leafstalks are the source of Manila hemp 
+ABACAS	 +e1 +w4 +re1 +rw4 ABACA _n_ *-S* Philippine plant, _Musa textilis,_ related to the banana: family _Musaceae._ Its leafstalks are the source of Manila hemp 
+ABACI	 +e1 +w4 +re1 +rw4 ABACUS _n_ *ABACI*, *-ES* beads on a wire frame, used for doing calculations 
+ABACK	 +e1 +w4 _adv_ towards the back; backwards 
+ABACTERIAL	 +e1 +w4 _adj_ without bacteria :
+ABACUS	 +e1 +w4 _n_ *ABACI*, *-ES* beads on a wire frame, used for doing calculations 
+ABACUSES	 +e1 +w4 +re1 +rw4 ABACUS _n_ *ABACI*, *-ES* beads on a wire frame, used for doing calculations 
+ABAFT	 +e1 +w4 _adv_ closer to the rear of (a ship) 
+ABAKA	 +e1 +w4 _n_ *-S* abaca ='
+ABAKAS	 +e1 +w4 +re1 +rw4 ABAKA _n_ *-S* abaca ='
+ABALONE	 +e1 +w4 _n_ *-S* edible sea creature with a shell lined with mother of pearl 
+ABALONES	 +e1 +w4 +re1 +rw4 ABALONE _n_ *-S* edible sea creature with a shell lined with mother of pearl 
+ABAMP	 +e1 +w4 +re1 +rw4 ABAMPERE _n_ *ABAMP*, *-S* cgs unit of current in the electromagnetic system 
+ABAMPERE	 +e1 +w4 _n_ *ABAMP*, *-S* cgs unit of current in the electromagnetic system 
+ABAMPERES	 +e1 +w4 +re1 +rw4 ABAMPERE _n_ *ABAMP*, *-S* cgs unit of current in the electromagnetic system 
+ABAMPS	 +e1 +w4 -o5
+ABANDON	 +e1 +w4 _vb_ *-ER*, *-ERS*, *-ING*, *-MENT*, *-MENTS*, *-S* desert or leave (one's wife, children, etc) 
+ABANDONED	 +e1 +w4 _adj_ deserted 
+ABANDONER	 +e1 +w4 +re1 +rw4 ABANDON _vb_ *-ER*, *-ERS*, *-ING*, *-MENT*, *-MENTS*, *-S* desert or leave (one's wife, children, etc) 
+ABANDONERS	 +e1 +w4 +re1 +rw4 ABANDON _vb_ *-ER*, *-ERS*, *-ING*, *-MENT*, *-MENTS*, *-S* desert or leave (one's wife, children, etc) 
+ABANDONING	 +e1 +w4 +re1 +rw4 ABANDON _vb_ *-ER*, *-ERS*, *-ING*, *-MENT*, *-MENTS*, *-S* desert or leave (one's wife, children, etc) 
+ABANDONMENT	 +e1 +w4 +re1 +rw4 ABANDON _vb_ *-ER*, *-ERS*, *-ING*, *-MENT*, *-MENTS*, *-S* desert or leave (one's wife, children, etc) 
+ABANDONMENTS	 +e1 +w4 +re1 +rw4 ABANDON _vb_ *-ER*, *-ERS*, *-ING*, *-MENT*, *-MENTS*, *-S* desert or leave (one's wife, children, etc) 
+ABANDONS	 +e1 +w4 +re1 +rw4 ABANDON _vb_ *-ER*, *-ERS*, *-ING*, *-MENT*, *-MENTS*, *-S* desert or leave (one's wife, children, etc) 
+ABAPICAL	 +e1 +w4 _adj_ away from or opposite the apex 
+ABAS	 +e1 +w4 +re1 +rw4 ABA _n_ *-S* type of cloth from Syria, made of goat hair or camel hair 
+ABASE	 +e1 +w4 _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABASED	 +e1 +w4 +re1 +rw4 ABASE _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABASEDLY	 +e1 +w4 +re1 +rw4 ABASE _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABASEMENT	 +e1 +w4 +re1 +rw4 ABASE _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABASEMENTS	 +e1 +w4 +re1 +rw4 ABASE _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABASER	 +e1 +w4 +re1 +rw4 ABASE _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABASERS	 +e1 +w4 +re1 +rw4 ABASE _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABASES	 +e1 +w4 +re1 +rw4 ABASE _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABASH	 +e1 +w4 _vb_ *-ES*, *-ING*, *-MENT*, *-MENTS* cause to feel ill at ease, embarrassed, or confused 
+ABASHED	 +e1 +w4 _adj_ embarrassed and ashamed 
+ABASHES	 +e1 +w4 +re1 +rw4 ABASH _vb_ *-ES*, *-ING*, *-MENT*, *-MENTS* cause to feel ill at ease, embarrassed, or confused 
+ABASHING	 +e1 +w4 +re1 +rw4 ABASH _vb_ *-ES*, *-ING*, *-MENT*, *-MENTS* cause to feel ill at ease, embarrassed, or confused 
+ABASHMENT	 +e1 +w4 +re1 +rw4 ABASH _vb_ *-ES*, *-ING*, *-MENT*, *-MENTS* cause to feel ill at ease, embarrassed, or confused 
+ABASHMENTS	 +e1 +w4 +re1 +rw4 ABASH _vb_ *-ES*, *-ING*, *-MENT*, *-MENTS* cause to feel ill at ease, embarrassed, or confused 
+ABASIA	 +e1 +w4 _n_ *-S* disorder affecting ability to walk 
+ABASIAS	 +e1 +w4 +re1 +rw4 ABASIA _n_ *-S* disorder affecting ability to walk 
+ABASING	 +e1 +w4 +re1 +rw4 ABASE _vb_ *-D*, *-DLY*, *-MENT*, *-MENTS*, *-R*, *-RS*, *-S*, *ABASING* humiliate or degrade (oneself) C>
+ABATABLE	 +e1 +w4 +re1 +rw4 ABATE _vb_ *ABATABLE*, *-D*, *-R*, *-RS*, *-S*, *ABATING* make or become less strong 1R
+ABATE	 +e1 +w4 _vb_ *ABATABLE*, *-D*, *-R*, *-RS*, *-S*, *ABATING* make or become less strong 1R
+ABATED	 +e1 +w4 +re1 +rw4 ABATE _vb_ *ABATABLE*, *-D*, *-R*, *-RS*, *-S*, *ABATING* make or become less strong 1R
+ABATEMENT	 +e1 +w4 _n_ *-S* diminution or alleviation 
+ABATEMENTS	 +e1 +w4 +re1 +rw4 ABATEMENT _n_ *-S* diminution or alleviation 
+ABATER	 +e1 +w4 +re1 +rw4 ABATE _vb_ *ABATABLE*, *-D*, *-R*, *-RS*, *-S*, *ABATING* make or become less strong 1R
+ABATERS	 +e1 +w4 +re1 +rw4 ABATE _vb_ *ABATABLE*, *-D*, *-R*, *-RS*, *-S*, *ABATING* make or become less strong 1R
+ABATES	 +e1 +w4 +re1 +rw4 ABATE _vb_ *ABATABLE*, *-D*, *-R*, *-RS*, *-S*, *ABATING* make or become less strong 1R
+ABATING	 +e1 +w4 +re1 +rw4 ABATE _vb_ *ABATABLE*, *-D*, *-R*, *-RS*, *-S*, *ABATING* make or become less strong 1R
+ABATIS	 +e1 +w4 _n_ *-ES*, *ABATTIS* rampart of felled trees bound together, placed with their branches outwards 
+ABATISES	 +e1 +w4 +re1 +rw4 ABATIS _n_ *-ES*, *ABATTIS* rampart of felled trees bound together, placed with their branches outwards 
+ABATOR	 +e1 +w4 _n_ *-S* person who effects an abatement 
+ABATORS	 +e1 +w4 +re1 +rw4 ABATOR _n_ *-S* person who effects an abatement 
+ABATTIS	 +e1 +w4 +re1 +rw4 ABATIS _n_ *-ES*, *ABATTIS* rampart of felled trees bound together, placed with their branches outwards 
+ABATTISES	 +e1 +w4 -o5
+ABATTOIR	 +e1 +w4 _n_ *-S* place where animals are killed for food 
+ABATTOIRS	 +e1 +w4 +re1 +rw4 ABATTOIR _n_ *-S* place where animals are killed for food 
+ABAXIAL	 +e1 +w4 _adj_ facing away from the axis, as the surface of a leaf 
+ABAXILE	 +e1 +w4 _adj_ away from the axis Wf
+ABBA	 +e1 +w4 _n_ *-S* title for a bishop in the Coptic Church 
+ABBACIES	 +e1 +w4 +re1 +rw4 ABBACY _n_ *ABBACIES* office or jurisdiction of an abbot or abbess 
+ABBACY	 +e1 +w4 _n_ *ABBACIES* office or jurisdiction of an abbot or abbess 
+ABBAS	 +e1 +w4 +re1 +rw4 ABBA _n_ *-S* title for a bishop in the Coptic Church 
+ABBATIAL	 +e1 +w4 _adj_ of or relating to an abbot, abbess, or abbey 
+ABBE	 +e1 +w4 _n_ *-S* French abbot Rp
+ABBES	 +e1 +w4 +re1 +rw4 ABBE _n_ *-S* French abbot Rp
+ABBESS	 +e1 +w4 _n_ *-ES* nun in charge of a convent Ks
+ABBESSES	 +e1 +w4 +re1 +rw4 ABBESS _n_ *-ES* nun in charge of a convent Ks
+ABBEY	 +e1 +w4 _n_ *-S* dwelling place of, or a church belonging to, a community of monks or nuns 
+ABBEYS	 +e1 +w4 +re1 +rw4 ABBEY _n_ *-S* dwelling place of, or a church belonging to, a community of monks or nuns 
+ABBOT	 +e1 +w4 _n_ *-CIES*, *-CY*, *-S* head of an abbey of monks 
+ABBOTCIES	 +e1 +w4 +re1 +rw4 ABBOT _n_ *-CIES*, *-CY*, *-S* head of an abbey of monks 
+ABBOTCY	 +e1 +w4 +re1 +rw4 ABBOT _n_ *-CIES*, *-CY*, *-S* head of an abbey of monks 
+ABBOTS	 +e1 +w4 +re1 +rw4 ABBOT _n_ *-CIES*, *-CY*, *-S* head of an abbey of monks 
+ABBREVIATE	 +e1 +w4 -o5
+ABBREVIATED	 +e1 +w4 -o5
+ABBREVIATES	 +e1 +w4 -o5
+ABBREVIATING	 +e1 +w4 -o5
+ABBREVIATION	 +e1 +w4 -o5
+ABBREVIATIONS	 +e1 +w4 -o5
+ABBREVIATOR	 +e1 +w4 -o5
+ABBREVIATORS	 +e1 +w4 -o5
+ABDICABLE	 +e1 +w4 +re1 +rw4 ABDICATE _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDICATE	 +e1 +w4 _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDICATED	 +e1 +w4 +re1 +rw4 ABDICATE _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDICATES	 +e1 +w4 +re1 +rw4 ABDICATE _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDICATING	 +e1 +w4 +re1 +rw4 ABDICATE _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDICATION	 +e1 +w4 +re1 +rw4 ABDICATE _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDICATIONS	 +e1 +w4 +re1 +rw4 ABDICATE _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDICATOR	 +e1 +w4 +re1 +rw4 ABDICATE _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDICATORS	 +e1 +w4 +re1 +rw4 ABDICATE _vb_ *ABDICABLE*, *-D*, *-S*, *ABDICATING*, *ABDICATION*, *ABDICATIONS*, *ABDICATOR*, *ABDICATORS* give up (the throne or a responsibility) 5
+ABDOMEN	 +e1 +w4 _n_ *-S*, *ABDOMINA*, *ABDOMINAL*, *ABDOMINALLY* part of the body containing the stomach and intestines 
+ABDOMENS	 +e1 +w4 +re1 +rw4 ABDOMEN _n_ *-S*, *ABDOMINA*, *ABDOMINAL*, *ABDOMINALLY* part of the body containing the stomach and intestines 
+ABDOMINA	 +e1 +w4 +re1 +rw4 ABDOMEN _n_ *-S*, *ABDOMINA*, *ABDOMINAL*, *ABDOMINALLY* part of the body containing the stomach and intestines 
+ABDOMINAL	 +e1 +w4 +re1 +rw4 ABDOMEN _n_ *-S*, *ABDOMINA*, *ABDOMINAL*, *ABDOMINALLY* part of the body containing the stomach and intestines 
+ABDOMINALLY	 +e1 +w4 +re1 +rw4 ABDOMEN _n_ *-S*, *ABDOMINA*, *ABDOMINAL*, *ABDOMINALLY* part of the body containing the stomach and intestines 
+ABDUCE	 +e1 +w4 _vb_ *-D*, *-S*, *ABDUCING* abduct 
+ABDUCED	 +e1 +w4 +re1 +rw4 ABDUCE _vb_ *-D*, *-S*, *ABDUCING* abduct 
+ABDUCENS	 +e1 +w4 *ABDUCENTES* as in _abducens nerve_. either of the sixth pair of cranial nerves, which supply the lateral rectus muscle of the eye 
+ABDUCENT	 +e1 +w4 _adj_ (of a muscle) abducting 
+ABDUCENTES	 +e1 +w4 +re1 +rw4 ABDUCENS *ABDUCENTES* as in _abducens nerve_. either of the sixth pair of cranial nerves, which supply the lateral rectus muscle of the eye 
+ABDUCES	 +e1 +w4 +re1 +rw4 ABDUCE _vb_ *-D*, *-S*, *ABDUCING* abduct 
+ABDUCING	 +e1 +w4 +re1 +rw4 ABDUCE _vb_ *-D*, *-S*, *ABDUCING* abduct 
+ABDUCT	 +e1 +w4 _vb_ *-ED*, *-ING*, *-OR*, *-ORES*, *-ORS*, *-S* carry off, kidnap >
+ABDUCTED	 +e1 +w4 +re1 +rw4 ABDUCT _vb_ *-ED*, *-ING*, *-OR*, *-ORES*, *-ORS*, *-S* carry off, kidnap >
+ABDUCTING	 +e1 +w4 +re1 +rw4 ABDUCT _vb_ *-ED*, *-ING*, *-OR*, *-ORES*, *-ORS*, *-S* carry off, kidnap >
+ABDUCTION	 +e1 +w4 _n_ *-S* act of taking someone away by force or cunning 
+ABDUCTIONS	 +e1 +w4 +re1 +rw4 ABDUCTION _n_ *-S* act of taking someone away by force or cunning 
+ABDUCTOR	 +e1 +w4 +re1 +rw4 ABDUCT _vb_ *-ED*, *-ING*, *-OR*, *-ORES*, *-ORS*, *-S* carry off, kidnap >
+ABDUCTORES	 +e1 +w4 +re1 +rw4 ABDUCT _vb_ *-ED*, *-ING*, *-OR*, *-ORES*, *-ORS*, *-S* carry off, kidnap >
+ABDUCTORS	 +e1 +w4 +re1 +rw4 ABDUCT _vb_ *-ED*, *-ING*, *-OR*, *-ORES*, *-ORS*, *-S* carry off, kidnap >
+ABDUCTS	 +e1 +w4 +re1 +rw4 ABDUCT _vb_ *-ED*, *-ING*, *-OR*, *-ORES*, *-ORS*, *-S* carry off, kidnap >
+ABEAM	 +e1 +w4 _adj_ at right angles to the length of a ship or aircraft 
+ABECEDARIAN	 +e1 +w4 -o5
+ABECEDARIANS	 +e1 +w4 -o5
+ABED	 +e1 +w4 _adv_ in bed 
+ABELE	 +e1 +w4 _n_ *-S* white poplar tree (
+ABELES	 +e1 +w4 +re1 +rw4 ABELE _n_ *-S* white poplar tree (
+ABELIA	 +e1 +w4 _n_ *-N*, *-S* garden plant with pink or white flowers 
+ABELIAN	 +e1 +w4 +re1 +rw4 ABELIA _n_ *-N*, *-S* garden plant with pink or white flowers 
+ABELIAS	 +e1 +w4 +re1 +rw4 ABELIA _n_ *-N*, *-S* garden plant with pink or white flowers 
+ABELMOSK	 +e1 +w4 _n_ *-S* tropical bushy malvaceous plant, _Hibiscus abelmoschus,_ cultivated for its yellow-and-crimson flowers and for its musk-scented seeds, which yield an oil used in perfumery 
+ABELMOSKS	 +e1 +w4 +re1 +rw4 ABELMOSK _n_ *-S* tropical bushy malvaceous plant, _Hibiscus abelmoschus,_ cultivated for its yellow-and-crimson flowers and for its musk-scented seeds, which yield an oil used in perfumery 
+ABERRANCE	 +e1 +w4 +re1 +rw4 ABERRANT _adj_ *ABERRANCE*, *ABERRANCES*, *ABERRANCIES*, *ABERRANCY*, *-LY*, *-S* showing aberration 
+ABERRANCES	 +e1 +w4 +re1 +rw4 ABERRANT _adj_ *ABERRANCE*, *ABERRANCES*, *ABERRANCIES*, *ABERRANCY*, *-LY*, *-S* showing aberration 
+ABERRANCIES	 +e1 +w4 +re1 +rw4 ABERRANT _adj_ *ABERRANCE*, *ABERRANCES*, *ABERRANCIES*, *ABERRANCY*, *-LY*, *-S* showing aberration 
+ABERRANCY	 +e1 +w4 +re1 +rw4 ABERRANT _adj_ *ABERRANCE*, *ABERRANCES*, *ABERRANCIES*, *ABERRANCY*, *-LY*, *-S* showing aberration 
+ABERRANT	 +e1 +w4 _adj_ *ABERRANCE*, *ABERRANCES*, *ABERRANCIES*, *ABERRANCY*, *-LY*, *-S* showing aberration 
+ABERRANTLY	 +e1 +w4 +re1 +rw4 ABERRANT _adj_ *ABERRANCE*, *ABERRANCES*, *ABERRANCIES*, *ABERRANCY*, *-LY*, *-S* showing aberration 
+ABERRANTS	 +e1 +w4 +re1 +rw4 ABERRANT _adj_ *ABERRANCE*, *ABERRANCES*, *ABERRANCIES*, *ABERRANCY*, *-LY*, *-S* showing aberration 
+ABERRATED	 +e1 +w4 -re1 -rw4 ABERRATE _vb_ *-D* deviate from what is normal or correct 
+ABERRATION	 +e1 +w4 -o5
+ABERRATIONAL	 +e1 +w4 -o5
+ABERRATIONS	 +e1 +w4 -o5
+ABET	 +e1 +w4 _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETMENT	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETMENTS	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETS	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETTAL	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETTALS	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETTED	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETTER	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETTERS	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETTING	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETTOR	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABETTORS	 +e1 +w4 +re1 +rw4 ABET _vb_ *-MENT*, *-MENTS*, *-S*, *-TAL*, *-TALS*, *-TED*, *-TER*, *-TERS*, *-TING*, *-TOR*, *-TORS* help or encourage in wrongdoing 
+ABEYANCE	 +e1 +w4 _n_ *-S*, *ABEYANT* state of being suspended or put aside temporarily 
+ABEYANCES	 +e1 +w4 +re1 +rw4 ABEYANCE _n_ *-S*, *ABEYANT* state of being suspended or put aside temporarily 
+ABEYANCIES	 +e1 +w4 +re1 +rw4 ABEYANCY _n_ *ABEYANCIES* abeyance 
+ABEYANCY	 +e1 +w4 _n_ *ABEYANCIES* abeyance 
+ABEYANT	 +e1 +w4 +re1 +rw4 ABEYANCE _n_ *-S*, *ABEYANT* state of being suspended or put aside temporarily 
+ABFARAD	 +e1 +w4 _n_ *-S* cgs unit of capacitance in the electromagnetic system 
+ABFARADS	 +e1 +w4 +re1 +rw4 ABFARAD _n_ *-S* cgs unit of capacitance in the electromagnetic system 
+ABHENRIES	 +e1 +w4 +re1 +rw4 ABHENRY _n_ *ABHENRIES*, *-S* cgs unit of inductance in the electromagnetic system 
+ABHENRY	 +e1 +w4 _n_ *ABHENRIES*, *-S* cgs unit of inductance in the electromagnetic system 
+ABHENRYS	 +e1 +w4 +re1 +rw4 ABHENRY _n_ *ABHENRIES*, *-S* cgs unit of inductance in the electromagnetic system 
+ABHOR	 +e1 +w4 _vb_ *-RED*, *-RER*, *-RERS*, *-RING*, *-S* detest utterly 7
+ABHORRED	 +e1 +w4 +re1 +rw4 ABHOR _vb_ *-RED*, *-RER*, *-RERS*, *-RING*, *-S* detest utterly 7
+ABHORRENCE	 +e1 +w4 -o5
+ABHORRENCES	 +e1 +w4 -o5
+ABHORRENT	 +e1 +w4 _adj_ *-LY* hateful, loathsome 
+ABHORRENTLY	 +e1 +w4 +re1 +rw4 ABHORRENT _adj_ *-LY* hateful, loathsome 
+ABHORRER	 +e1 +w4 +re1 +rw4 ABHOR _vb_ *-RED*, *-RER*, *-RERS*, *-RING*, *-S* detest utterly 7
+ABHORRERS	 +e1 +w4 +re1 +rw4 ABHOR _vb_ *-RED*, *-RER*, *-RERS*, *-RING*, *-S* detest utterly 7
+ABHORRING	 +e1 +w4 +re1 +rw4 ABHOR _vb_ *-RED*, *-RER*, *-RERS*, *-RING*, *-S* detest utterly 7
+ABHORS	 +e1 +w4 +re1 +rw4 ABHOR _vb_ *-RED*, *-RER*, *-RERS*, *-RING*, *-S* detest utterly 7
+ABIDANCE	 +e1 +w4 +re1 +rw4 ABIDE _vb_ *ABIDANCE*, *ABIDANCES*, *-D*, *-R*, *-RS*, *-S* endure, put up with 
+ABIDANCES	 +e1 +w4 +re1 +rw4 ABIDE _vb_ *ABIDANCE*, *ABIDANCES*, *-D*, *-R*, *-RS*, *-S* endure, put up with 
+ABIDE	 +e1 +w4 _vb_ *ABIDANCE*, *ABIDANCES*, *-D*, *-R*, *-RS*, *-S* endure, put up with 
+ABIDED	 +e1 +w4 +re1 +rw4 ABIDE _vb_ *ABIDANCE*, *ABIDANCES*, *-D*, *-R*, *-RS*, *-S* endure, put up with 
+ABIDER	 +e1 +w4 +re1 +rw4 ABIDE _vb_ *ABIDANCE*, *ABIDANCES*, *-D*, *-R*, *-RS*, *-S* endure, put up with 
+ABIDERS	 +e1 +w4 +re1 +rw4 ABIDE _vb_ *ABIDANCE*, *ABIDANCES*, *-D*, *-R*, *-RS*, *-S* endure, put up with 
+ABIDES	 +e1 +w4 +re1 +rw4 ABIDE _vb_ *ABIDANCE*, *ABIDANCES*, *-D*, *-R*, *-RS*, *-S* endure, put up with 
+ABIDING	 +e1 +w4 _adj_ *-LY* lasting 
+ABIDINGLY	 +e1 +w4 +re1 +rw4 ABIDING _adj_ *-LY* lasting 
+ABIGAIL	 +e1 +w4 _n_ *-S* maid for a lady n
+ABIGAILS	 +e1 +w4 +re1 +rw4 ABIGAIL _n_ *-S* maid for a lady n
+ABILITIES	 +e1 +w4 +re1 +rw4 ABILITY _n_ *ABILITIES* competence, power 
+ABILITY	 +e1 +w4 _n_ *ABILITIES* competence, power 
+ABIOGENESES	 +e1 +w4 -o5
+ABIOGENESIS	 +e1 +w4 -o5
+ABIOGENIC	 +e1 +w4 _adj_ *-ALLY* abiogenetic 
+ABIOGENICALLY	 +e1 +w4 +re1 +rw4 ABIOGENIC _adj_ *-ALLY* abiogenetic 
+ABIOGENIST	 +e1 +w4 -o5
+ABIOGENISTS	 +e1 +w4 -o5
+ABIOLOGICAL	 +e1 +w4 _adj_ not involving living organisms 
+ABIOSES	 +e1 +w4 +re1 +rw4 ABIOSIS _n_ *ABIOSES*, *ABIOTIC*, *ABIOTICALLY* absence of life K
+ABIOSIS	 +e1 +w4 _n_ *ABIOSES*, *ABIOTIC*, *ABIOTICALLY* absence of life K
+ABIOTIC	 +e1 +w4 +re1 +rw4 ABIOSIS _n_ *ABIOSES*, *ABIOTIC*, *ABIOTICALLY* absence of life K
+ABIOTICALLY	 +e1 +w4 +re1 +rw4 ABIOSIS _n_ *ABIOSES*, *ABIOTIC*, *ABIOTICALLY* absence of life K
+ABJECT	 +e1 +w4 _adj_ *-ION*, *-IONS*, *-LY*, *-NESS*, *-NESSES* utterly miserable 
+ABJECTION	 +e1 +w4 +re1 +rw4 ABJECT _adj_ *-ION*, *-IONS*, *-LY*, *-NESS*, *-NESSES* utterly miserable 
+ABJECTIONS	 +e1 +w4 +re1 +rw4 ABJECT _adj_ *-ION*, *-IONS*, *-LY*, *-NESS*, *-NESSES* utterly miserable 
+ABJECTLY	 +e1 +w4 +re1 +rw4 ABJECT _adj_ *-ION*, *-IONS*, *-LY*, *-NESS*, *-NESSES* utterly miserable 
+ABJECTNESS	 +e1 +w4 +re1 +rw4 ABJECT _adj_ *-ION*, *-IONS*, *-LY*, *-NESS*, *-NESSES* utterly miserable 
+ABJECTNESSES	 +e1 +w4 +re1 +rw4 ABJECT _adj_ *-ION*, *-IONS*, *-LY*, *-NESS*, *-NESSES* utterly miserable 
+ABJURATION	 +e1 +w4 +re1 +rw4 ABJURE _vb_ *ABJURATION*, *ABJURATIONS*, *-D*, *-R*, *-RS*, *-S*, *ABJURING* deny or renounce on oath 
+ABJURATIONS	 +e1 +w4 +re1 +rw4 ABJURE _vb_ *ABJURATION*, *ABJURATIONS*, *-D*, *-R*, *-RS*, *-S*, *ABJURING* deny or renounce on oath 
+ABJURE	 +e1 +w4 _vb_ *ABJURATION*, *ABJURATIONS*, *-D*, *-R*, *-RS*, *-S*, *ABJURING* deny or renounce on oath 
+ABJURED	 +e1 +w4 +re1 +rw4 ABJURE _vb_ *ABJURATION*, *ABJURATIONS*, *-D*, *-R*, *-RS*, *-S*, *ABJURING* deny or renounce on oath 
+ABJURER	 +e1 +w4 +re1 +rw4 ABJURE _vb_ *ABJURATION*, *ABJURATIONS*, *-D*, *-R*, *-RS*, *-S*, *ABJURING* deny or renounce on oath 
+ABJURERS	 +e1 +w4 +re1 +rw4 ABJURE _vb_ *ABJURATION*, *ABJURATIONS*, *-D*, *-R*, *-RS*, *-S*, *ABJURING* deny or renounce on oath 
+ABJURES	 +e1 +w4 +re1 +rw4 ABJURE _vb_ *ABJURATION*, *ABJURATIONS*, *-D*, *-R*, *-RS*, *-S*, *ABJURING* deny or renounce on oath 
+ABJURING	 +e1 +w4 +re1 +rw4 ABJURE _vb_ *ABJURATION*, *ABJURATIONS*, *-D*, *-R*, *-RS*, *-S*, *ABJURING* deny or renounce on oath 
+ABLATE	 +e1 +w4 _vb_ *-D*, *-S*, *ABLATING* remove by ablation 
+ABLATED	 +e1 +w4 +re1 +rw4 ABLATE _vb_ *-D*, *-S*, *ABLATING* remove by ablation 
+ABLATES	 +e1 +w4 +re1 +rw4 ABLATE _vb_ *-D*, *-S*, *ABLATING* remove by ablation 
+ABLATING	 +e1 +w4 +re1 +rw4 ABLATE _vb_ *-D*, *-S*, *ABLATING* remove by ablation 
+ABLATION	 +e1 +w4 _n_ *-S* surgical removal of an organ or part 
+ABLATIONS	 +e1 +w4 +re1 +rw4 ABLATION _n_ *-S* surgical removal of an organ or part 
+ABLATIVE	 +e1 +w4 _n_ *-LY*, *-S* case of nouns in Latin and other languages, indicating source, agent, or instrument of action 
+ABLATIVELY	 +e1 +w4 +re1 +rw4 ABLATIVE _n_ *-LY*, *-S* case of nouns in Latin and other languages, indicating source, agent, or instrument of action 
+ABLATIVES	 +e1 +w4 +re1 +rw4 ABLATIVE _n_ *-LY*, *-S* case of nouns in Latin and other languages, indicating source, agent, or instrument of action 
+ABLAUT	 +e1 +w4 _n_ *-S* vowel gradation, esp in Indo-European languages 
+ABLAUTS	 +e1 +w4 +re1 +rw4 ABLAUT _n_ *-S* vowel gradation, esp in Indo-European languages 
+ABLAZE	 +e1 +w4 _adj_ burning fiercely 
+ABLE	 +e1 +w4 _adj_ *-R*, *-S*, *-ST* capable, competent 3
+ABLED	 -e1 +w4 _adj_ having a range of physical powers as specified 
+ABLEGATE	 +e1 +w4 _n_ *-S* papal envoy P
+ABLEGATES	 +e1 +w4 +re1 +rw4 ABLEGATE _n_ *-S* papal envoy P
+ABLER	 +e1 +w4 +re1 +rw4 ABLE _adj_ *-R*, *-S*, *-ST* capable, competent 3
+ABLES	 +e1 +w4 +re1 +rw4 ABLE _adj_ *-R*, *-S*, *-ST* capable, competent 3
+ABLEST	 +e1 +w4 +re1 +rw4 ABLE _adj_ *-R*, *-S*, *-ST* capable, competent 3
+ABLINGS	 +e1 +w4 _adv_ possibly 
+ABLINS	 +e1 +w4 _adv_ Scots word meaning perhaps -
+ABLOOM	 +e1 +w4 _adj_ in flower =
+ABLUENT	 +e1 +w4 _n_ *-S* substance used for cleansing 
+ABLUENTS	 +e1 +w4 +re1 +rw4 ABLUENT _n_ *-S* substance used for cleansing 
+ABLUSH	 +e1 +w4 _adj_ blushing 
+ABLUTED	 +e1 +w4 _adj_ washed thoroughly +
+ABLUTION	 +e1 +w4 _n_ *-ARY*, *-S* ritual washing of a priest's hands or of sacred vessels 6
+ABLUTIONARY	 +e1 +w4 +re1 +rw4 ABLUTION _n_ *-ARY*, *-S* ritual washing of a priest's hands or of sacred vessels 6
+ABLUTIONS	 +e1 +w4 +re1 +rw4 ABLUTION _n_ *-ARY*, *-S* ritual washing of a priest's hands or of sacred vessels 6
+ABLY	 +e1 +w4 _adv_ competently or skilfully 
+ABMHO	 +e1 +w4 _n_ *-S* unit of electrical conductance 7
+ABMHOS	 +e1 +w4 +re1 +rw4 ABMHO _n_ *-S* unit of electrical conductance 7
+ABNEGATE	 +e1 +w4 _vb_ *-D*, *-S*, *ABNEGATING*, *ABNEGATION*, *ABNEGATIONS*, *ABNEGATOR*, *ABNEGATORS* deny to oneself 
+ABNEGATED	 +e1 +w4 +re1 +rw4 ABNEGATE _vb_ *-D*, *-S*, *ABNEGATING*, *ABNEGATION*, *ABNEGATIONS*, *ABNEGATOR*, *ABNEGATORS* deny to oneself 
+ABNEGATES	 +e1 +w4 +re1 +rw4 ABNEGATE _vb_ *-D*, *-S*, *ABNEGATING*, *ABNEGATION*, *ABNEGATIONS*, *ABNEGATOR*, *ABNEGATORS* deny to oneself 
+ABNEGATING	 +e1 +w4 +re1 +rw4 ABNEGATE _vb_ *-D*, *-S*, *ABNEGATING*, *ABNEGATION*, *ABNEGATIONS*, *ABNEGATOR*, *ABNEGATORS* deny to oneself 
+ABNEGATION	 +e1 +w4 +re1 +rw4 ABNEGATE _vb_ *-D*, *-S*, *ABNEGATING*, *ABNEGATION*, *ABNEGATIONS*, *ABNEGATOR*, *ABNEGATORS* deny to oneself 
+ABNEGATIONS	 +e1 +w4 +re1 +rw4 ABNEGATE _vb_ *-D*, *-S*, *ABNEGATING*, *ABNEGATION*, *ABNEGATIONS*, *ABNEGATOR*, *ABNEGATORS* deny to oneself 
+ABNEGATOR	 +e1 +w4 +re1 +rw4 ABNEGATE _vb_ *-D*, *-S*, *ABNEGATING*, *ABNEGATION*, *ABNEGATIONS*, *ABNEGATOR*, *ABNEGATORS* deny to oneself 
+ABNEGATORS	 +e1 +w4 +re1 +rw4 ABNEGATE _vb_ *-D*, *-S*, *ABNEGATING*, *ABNEGATION*, *ABNEGATIONS*, *ABNEGATOR*, *ABNEGATORS* deny to oneself 
+ABNORMAL	 +e1 +w4 _adj_ *-LY*, *-S* not normal or usual 
+ABNORMALITIES	 +e1 +w4 -o5
+ABNORMALITY	 +e1 +w4 -o5
+ABNORMALLY	 +e1 +w4 +re1 +rw4 ABNORMAL _adj_ *-LY*, *-S* not normal or usual 
+ABNORMALS	 +e1 +w4 +re1 +rw4 ABNORMAL _adj_ *-LY*, *-S* not normal or usual 
+ABO	 +e1 +w4 *-S* offensive name for *ABORIGINE*. 
+ABOARD	 +e1 +w4 _adv_ on, in, onto, or into (a ship, train, or plane) 
+ABODE	 +e1 +w4 _n_ *-D*, *-S*, *ABODING* home, dwelling S
+ABODED	 +e1 +w4 +re1 +rw4 ABODE _n_ *-D*, *-S*, *ABODING* home, dwelling S
+ABODES	 +e1 +w4 +re1 +rw4 ABODE _n_ *-D*, *-S*, *ABODING* home, dwelling S
+ABODING	 +e1 +w4 +re1 +rw4 ABODE _n_ *-D*, *-S*, *ABODING* home, dwelling S
+ABOHM	 +e1 +w4 _n_ *-S* cgs unit of resistance in the electromagnetic system: equivalent to 10=9ohm 
+ABOHMS	 +e1 +w4 +re1 +rw4 ABOHM _n_ *-S* cgs unit of resistance in the electromagnetic system: equivalent to 10=9ohm 
+ABOIDEAU	 +e1 +w4 _n_ *-S*, *-X*, *ABOITEAU* dyke with a sluicegate that allows flood water to drain but keeps the sea water out 
+ABOIDEAUS	 +e1 +w4 +re1 +rw4 ABOIDEAU _n_ *-S*, *-X*, *ABOITEAU* dyke with a sluicegate that allows flood water to drain but keeps the sea water out 
+ABOIDEAUX	 +e1 +w4 +re1 +rw4 ABOIDEAU _n_ *-S*, *-X*, *ABOITEAU* dyke with a sluicegate that allows flood water to drain but keeps the sea water out 
+ABOIL	 +e1 +w4 _adj_ boiling 
+ABOITEAU	 +e1 +w4 +re1 +rw4 ABOIDEAU _n_ *-S*, *-X*, *ABOITEAU* dyke with a sluicegate that allows flood water to drain but keeps the sea water out 
+ABOITEAUS	 +e1 +w4 -o5
+ABOITEAUX	 +e1 +w4 -o5
+ABOLISH	 +e1 +w4 _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLISHABLE	 +e1 +w4 +re1 +rw4 ABOLISH _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLISHED	 +e1 +w4 +re1 +rw4 ABOLISH _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLISHER	 +e1 +w4 +re1 +rw4 ABOLISH _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLISHERS	 +e1 +w4 +re1 +rw4 ABOLISH _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLISHES	 +e1 +w4 +re1 +rw4 ABOLISH _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLISHING	 +e1 +w4 +re1 +rw4 ABOLISH _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLISHMENT	 +e1 +w4 +re1 +rw4 ABOLISH _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLISHMENTS	 +e1 +w4 +re1 +rw4 ABOLISH _vb_ *-ABLE*, *-ED*, *-ER*, *-ERS*, *-ES*, *-ING*, *-MENT*, *-MENTS* do away with (
+ABOLITION	 +e1 +w4 _n_ *-ARY*, *-ISM*, *-ISMS*, *-IST*, *-ISTS*, *-S* act of abolishing or the state of being abolished 
+ABOLITIONARY	 +e1 +w4 +re1 +rw4 ABOLITION _n_ *-ARY*, *-ISM*, *-ISMS*, *-IST*, *-ISTS*, *-S* act of abolishing or the state of being abolished 
+ABOLITIONISM	 +e1 +w4 +re1 +rw4 ABOLITION _n_ *-ARY*, *-ISM*, *-ISMS*, *-IST*, *-ISTS*, *-S* act of abolishing or the state of being abolished 
+ABOLITIONISMS	 +e1 +w4 +re1 +rw4 ABOLITION _n_ *-ARY*, *-ISM*, *-ISMS*, *-IST*, *-ISTS*, *-S* act of abolishing or the state of being abolished 
+ABOLITIONIST	 +e1 +w4 +re1 +rw4 ABOLITION _n_ *-ARY*, *-ISM*, *-ISMS*, *-IST*, *-ISTS*, *-S* act of abolishing or the state of being abolished 
+ABOLITIONISTS	 +e1 +w4 +re1 +rw4 ABOLITION _n_ *-ARY*, *-ISM*, *-ISMS*, *-IST*, *-ISTS*, *-S* act of abolishing or the state of being abolished 
+ABOLITIONS	 +e1 +w4 +re1 +rw4 ABOLITION _n_ *-ARY*, *-ISM*, *-ISMS*, *-IST*, *-ISTS*, *-S* act of abolishing or the state of being abolished 
+ABOLLA	 +e1 +w4 _n_ *-E* Roman cloak 
+ABOLLAE	 +e1 +w4 +re1 +rw4 ABOLLA _n_ *-E* Roman cloak 
+ABOMA	 +e1 +w4 _n_ *-S* South American snake 
+ABOMAS	 +e1 +w4 +re1 +rw4 ABOMA _n_ *-S* South American snake 
+ABOMASA	 +e1 +w4 +re1 +rw4 ABOMASUM _n_ *ABOMASA*, *ABOMASAL* fourth and last compartment of the stomach of ruminants, which receives and digests food from the psalterium and passes it on to the small intestine 
+ABOMASAL	 +e1 +w4 +re1 +rw4 ABOMASUM _n_ *ABOMASA*, *ABOMASAL* fourth and last compartment of the stomach of ruminants, which receives and digests food from the psalterium and passes it on to the small intestine 
+ABOMASI	 +e1 +w4 +re1 +rw4 ABOMASUS _n_ *ABOMASI* abomasum 
+ABOMASUM	 +e1 +w4 _n_ *ABOMASA*, *ABOMASAL* fourth and last compartment of the stomach of ruminants, which receives and digests food from the psalterium and passes it on to the small intestine 
+ABOMASUS	 +e1 +w4 _n_ *ABOMASI* abomasum 
+ABOMINABLE	 +e1 +w4 -o5
+ABOMINABLY	 +e1 +w4 -o5
+ABOMINATE	 +e1 +w4 _vb_ *-D*, *-S*, *ABOMINATING*, *ABOMINATOR*, *ABOMINATORS* dislike intensely 
+ABOMINATED	 +e1 +w4 +re1 +rw4 ABOMINATE _vb_ *-D*, *-S*, *ABOMINATING*, *ABOMINATOR*, *ABOMINATORS* dislike intensely 
+ABOMINATES	 +e1 +w4 +re1 +rw4 ABOMINATE _vb_ *-D*, *-S*, *ABOMINATING*, *ABOMINATOR*, *ABOMINATORS* dislike intensely 
+ABOMINATING	 +e1 +w4 +re1 +rw4 ABOMINATE _vb_ *-D*, *-S*, *ABOMINATING*, *ABOMINATOR*, *ABOMINATORS* dislike intensely 
+ABOMINATION	 +e1 +w4 -o5
+ABOMINATIONS	 +e1 +w4 -o5
+ABOMINATOR	 +e1 +w4 +re1 +rw4 ABOMINATE _vb_ *-D*, *-S*, *ABOMINATING*, *ABOMINATOR*, *ABOMINATORS* dislike intensely 
+ABOMINATORS	 +e1 +w4 +re1 +rw4 ABOMINATE _vb_ *-D*, *-S*, *ABOMINATING*, *ABOMINATOR*, *ABOMINATORS* dislike intensely 
+ABOON	 +e1 +w4 Scots word for *ABOVE*. 
+ABORAL	 +e1 +w4 _adj_ *-LY* away from or opposite the mouth 2
+ABORALLY	 +e1 +w4 +re1 +rw4 ABORAL _adj_ *-LY* away from or opposite the mouth 2
+ABORIGINAL	 +e1 +w4 -o5
+ABORIGINALLY	 +e1 +w4 -o5
+ABORIGINALS	 +e1 +w4 -o5
+ABORIGINE	 +e1 +w4 _n_ *-S* original inhabitant of a country or region, esp Australia 
+ABORIGINES	 +e1 +w4 +re1 +rw4 ABORIGINE _n_ *-S* original inhabitant of a country or region, esp Australia 
+ABORNING	 +e1 +w4 -re1 -rw4 ABEAR _vb_ *ABORNING* bear or behave U
+ABORT	 +e1 +w4 _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* have an abortion or perform an abortion on ?
+ABORTED	 +e1 +w4 +re1 +rw4 ABORT _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* have an abortion or perform an abortion on ?
+ABORTER	 +e1 +w4 +re1 +rw4 ABORT _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* have an abortion or perform an abortion on ?
+ABORTERS	 +e1 +w4 +re1 +rw4 ABORT _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* have an abortion or perform an abortion on ?
+ABORTIFACIENT	 +e1 +w4 -o5
+ABORTIFACIENTS	 +e1 +w4 -o5
+ABORTING	 +e1 +w4 +re1 +rw4 ABORT _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* have an abortion or perform an abortion on ?
+ABORTION	 +e1 +w4 _n_ *-S* operation to end a pregnancy 
+ABORTIONIST	 +e1 +w4 -o5
+ABORTIONISTS	 +e1 +w4 -o5
+ABORTIONS	 +e1 +w4 +re1 +rw4 ABORTION _n_ *-S* operation to end a pregnancy 
+ABORTIVE	 +e1 +w4 _adj_ *-LY*, *-NESS*, *-NESSES* unsuccessful 
+ABORTIVELY	 +e1 +w4 +re1 +rw4 ABORTIVE _adj_ *-LY*, *-NESS*, *-NESSES* unsuccessful 
+ABORTIVENESS	 +e1 +w4 +re1 +rw4 ABORTIVE _adj_ *-LY*, *-NESS*, *-NESSES* unsuccessful 
+ABORTIVENESSES	 +e1 +w4 +re1 +rw4 ABORTIVE _adj_ *-LY*, *-NESS*, *-NESSES* unsuccessful 
+ABORTS	 +e1 +w4 +re1 +rw4 ABORT _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* have an abortion or perform an abortion on ?
+ABOS	 +e1 +w4 +re1 +rw4 ABO *-S* offensive name for *ABORIGINE*. 
+ABOUGHT	 +e1 +w4 +re1 +rw4 ABY _vb_ *ABOUGHT*, *-E*, *-ING*, *-S* pay the penalty for 
+ABOULIA	 +e1 +w4 +re1 +rw4 ABULIA _n_ *ABOULIA*, *-S*, *ABULIC* pathological inability to take decisions 4
+ABOULIAS	 +e1 +w4 -o5
+ABOULIC	 +e1 +w4 -o5
+ABOUND	 +e1 +w4 _vb_ *-ED*, *-ING*, *-S* be plentiful 
+ABOUNDED	 +e1 +w4 +re1 +rw4 ABOUND _vb_ *-ED*, *-ING*, *-S* be plentiful 
+ABOUNDING	 +e1 +w4 +re1 +rw4 ABOUND _vb_ *-ED*, *-ING*, *-S* be plentiful 
+ABOUNDS	 +e1 +w4 +re1 +rw4 ABOUND _vb_ *-ED*, *-ING*, *-S* be plentiful 
+ABOUT	 +e1 +w4 _adv_ nearly, approximately 
+ABOVE	 +e1 +w4 _adv_ *-S* over or higher (than) )
+ABOVEBOARD	 +e1 +w4 -o5
+ABOVEGROUND	 +e1 +w4 _adj_ not under the ground 
+ABOVES	 +e1 +w4 +re1 +rw4 ABOVE _adv_ *-S* over or higher (than) )
+ABRACADABRA	 +e1 +w4 -o5
+ABRACADABRAS	 +e1 +w4 -o5
+ABRACHIA	 +e1 +w4 _n_ *-S* condition of having no arms A
+ABRACHIAS	 +e1 +w4 +re1 +rw4 ABRACHIA _n_ *-S* condition of having no arms A
+ABRADABLE	 +e1 +w4 +re1 +rw4 ABRADE _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRADANT	 +e1 +w4 +re1 +rw4 ABRADE _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRADANTS	 +e1 +w4 +re1 +rw4 ABRADE _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRADE	 +e1 +w4 _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRADED	 +e1 +w4 +re1 +rw4 ABRADE _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRADER	 +e1 +w4 +re1 +rw4 ABRADE _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRADERS	 +e1 +w4 +re1 +rw4 ABRADE _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRADES	 +e1 +w4 +re1 +rw4 ABRADE _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRADING	 +e1 +w4 +re1 +rw4 ABRADE _vb_ *ABRADABLE*, *ABRADANT*, *ABRADANTS*, *-D*, *-R*, *-RS*, *-S*, *ABRADING* scrape away or wear down by friction 
+ABRAID	 -e1 +w4 _vb_ *-ED*, *-ING*, *-S* awake 
+ABRAIDED	 -e1 +w4 -re1 +rw4 ABRAID _vb_ *-ED*, *-ING*, *-S* awake 
+ABRAIDEDLY	 -e1 +w4 -o5
+ABRAIDER	 -e1 +w4 -o5
+ABRAIDERS	 -e1 +w4 -o5
+ABRAIDING	 -e1 +w4 -re1 +rw4 ABRAID _vb_ *-ED*, *-ING*, *-S* awake 
+ABRAIDINGLY	 -e1 +w4 -o5
+ABRAIDS	 -e1 +w4 -re1 +rw4 ABRAID _vb_ *-ED*, *-ING*, *-S* awake 
+ABRASION	 +e1 +w4 _n_ *-S* scraped area on the skin '
+ABRASIONS	 +e1 +w4 +re1 +rw4 ABRASION _n_ *-S* scraped area on the skin '
+ABRASIVE	 +e1 +w4 _adj_ *-LY*, *-NESS*, *-NESSES*, *-S* harsh and unpleasant in manner 
+ABRASIVELY	 +e1 +w4 +re1 +rw4 ABRASIVE _adj_ *-LY*, *-NESS*, *-NESSES*, *-S* harsh and unpleasant in manner 
+ABRASIVENESS	 +e1 +w4 +re1 +rw4 ABRASIVE _adj_ *-LY*, *-NESS*, *-NESSES*, *-S* harsh and unpleasant in manner 
+ABRASIVENESSES	 +e1 +w4 +re1 +rw4 ABRASIVE _adj_ *-LY*, *-NESS*, *-NESSES*, *-S* harsh and unpleasant in manner 
+ABRASIVES	 +e1 +w4 +re1 +rw4 ABRASIVE _adj_ *-LY*, *-NESS*, *-NESSES*, *-S* harsh and unpleasant in manner 
+ABREACT	 +e1 +w4 _vb_ *-ED*, *-ING*, *-S* alleviate (emotional tension) through abreaction 
+ABREACTED	 +e1 +w4 +re1 +rw4 ABREACT _vb_ *-ED*, *-ING*, *-S* alleviate (emotional tension) through abreaction 
+ABREACTING	 +e1 +w4 +re1 +rw4 ABREACT _vb_ *-ED*, *-ING*, *-S* alleviate (emotional tension) through abreaction 
+ABREACTION	 +e1 +w4 -o5
+ABREACTIONS	 +e1 +w4 -o5
+ABREACTS	 +e1 +w4 +re1 +rw4 ABREACT _vb_ *-ED*, *-ING*, *-S* alleviate (emotional tension) through abreaction 
+ABREAST	 +e1 +w4 _adj_ side by side 
+ABRI	 +e1 +w4 _n_ *-S* shelter or place of refuge, esp in wartime 
+ABRIDGE	 +e1 +w4 _vb_ *-D*, *-R*, *-RS*, *-S*, *ABRIDGING* shorten by using fewer words 
+ABRIDGED	 +e1 +w4 +re1 +rw4 ABRIDGE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABRIDGING* shorten by using fewer words 
+ABRIDGEMENT	 +e1 +w4 -o5
+ABRIDGEMENTS	 +e1 +w4 -o5
+ABRIDGER	 +e1 +w4 +re1 +rw4 ABRIDGE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABRIDGING* shorten by using fewer words 
+ABRIDGERS	 +e1 +w4 +re1 +rw4 ABRIDGE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABRIDGING* shorten by using fewer words 
+ABRIDGES	 +e1 +w4 +re1 +rw4 ABRIDGE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABRIDGING* shorten by using fewer words 
+ABRIDGING	 +e1 +w4 +re1 +rw4 ABRIDGE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABRIDGING* shorten by using fewer words 
+ABRIDGMENT	 +e1 +w4 -o5
+ABRIDGMENTS	 +e1 +w4 -o5
+ABRIS	 +e1 +w4 +re1 +rw4 ABRI _n_ *-S* shelter or place of refuge, esp in wartime 
+ABROACH	 +e1 +w4 _adj_ (of a cask, barrel, etc) tapped 
+ABROAD	 +e1 +w4 _adv_ in a foreign country D
+ABROGATE	 +e1 +w4 _vb_ *-D*, *-S*, *ABROGATING*, *ABROGATION*, *ABROGATIONS* cancel (a law or agreement) formally =
+ABROGATED	 +e1 +w4 +re1 +rw4 ABROGATE _vb_ *-D*, *-S*, *ABROGATING*, *ABROGATION*, *ABROGATIONS* cancel (a law or agreement) formally =
+ABROGATES	 +e1 +w4 +re1 +rw4 ABROGATE _vb_ *-D*, *-S*, *ABROGATING*, *ABROGATION*, *ABROGATIONS* cancel (a law or agreement) formally =
+ABROGATING	 +e1 +w4 +re1 +rw4 ABROGATE _vb_ *-D*, *-S*, *ABROGATING*, *ABROGATION*, *ABROGATIONS* cancel (a law or agreement) formally =
+ABROGATION	 +e1 +w4 +re1 +rw4 ABROGATE _vb_ *-D*, *-S*, *ABROGATING*, *ABROGATION*, *ABROGATIONS* cancel (a law or agreement) formally =
+ABROGATIONS	 +e1 +w4 +re1 +rw4 ABROGATE _vb_ *-D*, *-S*, *ABROGATING*, *ABROGATION*, *ABROGATIONS* cancel (a law or agreement) formally =
+ABROSIA	 +e1 +w4 _n_ *-S* condition involving refusal to eat 
+ABROSIAS	 +e1 +w4 +re1 +rw4 ABROSIA _n_ *-S* condition involving refusal to eat 
+ABRUPT	 +e1 +w4 _adj_ *-ER*, *-EST*, *-LY*, *-NESS*, *-NESSES* sudden, unexpected 
+ABRUPTER	 +e1 +w4 +re1 +rw4 ABRUPT _adj_ *-ER*, *-EST*, *-LY*, *-NESS*, *-NESSES* sudden, unexpected 
+ABRUPTEST	 +e1 +w4 +re1 +rw4 ABRUPT _adj_ *-ER*, *-EST*, *-LY*, *-NESS*, *-NESSES* sudden, unexpected 
+ABRUPTION	 +e1 +w4 _n_ *-S* breaking off of a part or parts from a mass 
+ABRUPTIONS	 +e1 +w4 +re1 +rw4 ABRUPTION _n_ *-S* breaking off of a part or parts from a mass 
+ABRUPTLY	 +e1 +w4 +re1 +rw4 ABRUPT _adj_ *-ER*, *-EST*, *-LY*, *-NESS*, *-NESSES* sudden, unexpected 
+ABRUPTNESS	 +e1 +w4 +re1 +rw4 ABRUPT _adj_ *-ER*, *-EST*, *-LY*, *-NESS*, *-NESSES* sudden, unexpected 
+ABRUPTNESSES	 +e1 +w4 +re1 +rw4 ABRUPT _adj_ *-ER*, *-EST*, *-LY*, *-NESS*, *-NESSES* sudden, unexpected 
+ABS	 +e1 +w4 +re1 +rw4 AB _n_ *-S* abdominal muscle 
+ABSCESS	 +e1 +w4 _n_ *-ED*, *-ES*, *-ING* inflamed swelling containing pus 
+ABSCESSED	 +e1 +w4 +re1 +rw4 ABSCESS _n_ *-ED*, *-ES*, *-ING* inflamed swelling containing pus 
+ABSCESSES	 +e1 +w4 +re1 +rw4 ABSCESS _n_ *-ED*, *-ES*, *-ING* inflamed swelling containing pus 
+ABSCESSING	 +e1 +w4 +re1 +rw4 ABSCESS _n_ *-ED*, *-ES*, *-ING* inflamed swelling containing pus 
+ABSCISE	 +e1 +w4 _vb_ *-D*, *-S*, *ABSCISING* separate or be separated by abscission 
+ABSCISED	 +e1 +w4 +re1 +rw4 ABSCISE _vb_ *-D*, *-S*, *ABSCISING* separate or be separated by abscission 
+ABSCISES	 +e1 +w4 +re1 +rw4 ABSCISE _vb_ *-D*, *-S*, *ABSCISING* separate or be separated by abscission 
+ABSCISIN	 +e1 +w4 _n_ *-S* plant hormone 
+ABSCISING	 +e1 +w4 +re1 +rw4 ABSCISE _vb_ *-D*, *-S*, *ABSCISING* separate or be separated by abscission 
+ABSCISINS	 +e1 +w4 +re1 +rw4 ABSCISIN _n_ *-S* plant hormone 
+ABSCISSA	 +e1 +w4 _n_ *-E*, *-S* cutting off .
+ABSCISSAE	 +e1 +w4 +re1 +rw4 ABSCISSA _n_ *-E*, *-S* cutting off .
+ABSCISSAS	 +e1 +w4 +re1 +rw4 ABSCISSA _n_ *-E*, *-S* cutting off .
+ABSCISSION	 +e1 +w4 _n_ *-S* cutting off 
+ABSCISSIONS	 +e1 +w4 +re1 +rw4 ABSCISSION _n_ *-S* cutting off 
+ABSCOND	 +e1 +w4 _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* leave secretly 
+ABSCONDED	 +e1 +w4 +re1 +rw4 ABSCOND _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* leave secretly 
+ABSCONDER	 +e1 +w4 +re1 +rw4 ABSCOND _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* leave secretly 
+ABSCONDERS	 +e1 +w4 +re1 +rw4 ABSCOND _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* leave secretly 
+ABSCONDING	 +e1 +w4 +re1 +rw4 ABSCOND _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* leave secretly 
+ABSCONDS	 +e1 +w4 +re1 +rw4 ABSCOND _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* leave secretly 
+ABSEIL	 +e1 +w4 _vb_ *-ED*, *-ING*, *-S* go down a steep drop by a rope fastened at the top and tied around one's body 
+ABSEILED	 +e1 +w4 +re1 +rw4 ABSEIL _vb_ *-ED*, *-ING*, *-S* go down a steep drop by a rope fastened at the top and tied around one's body 
+ABSEILING	 +e1 +w4 +re1 +rw4 ABSEIL _vb_ *-ED*, *-ING*, *-S* go down a steep drop by a rope fastened at the top and tied around one's body 
+ABSEILS	 +e1 +w4 +re1 +rw4 ABSEIL _vb_ *-ED*, *-ING*, *-S* go down a steep drop by a rope fastened at the top and tied around one's body 
+ABSENCE	 +e1 +w4 _n_ *-S* being away 
+ABSENCES	 +e1 +w4 +re1 +rw4 ABSENCE _n_ *-S* being away 
+ABSENT	 +e1 +w4 _adj_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* not present 
+ABSENTED	 +e1 +w4 +re1 +rw4 ABSENT _adj_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* not present 
+ABSENTEE	 +e1 +w4 _n_ *-S* person who should be present but is not 
+ABSENTEEISM	 +e1 +w4 -o5
+ABSENTEEISMS	 +e1 +w4 -o5
+ABSENTEES	 +e1 +w4 +re1 +rw4 ABSENTEE _n_ *-S* person who should be present but is not 
+ABSENTER	 +e1 +w4 +re1 +rw4 ABSENT _adj_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* not present 
+ABSENTERS	 +e1 +w4 +re1 +rw4 ABSENT _adj_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* not present 
+ABSENTING	 +e1 +w4 +re1 +rw4 ABSENT _adj_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* not present 
+ABSENTLY	 +e1 +w4 _adv_ in an absent-minded or preoccupied manner 
+ABSENTMINDED	 +e1 +w4 -o5
+ABSENTMINDEDLY	 +e1 +w4 -o5
+ABSENTMINDEDNESS	 +e1 +w4 -o5
+ABSENTMINDEDNESSES	 +e1 +w4 -o5
+ABSENTS	 +e1 +w4 +re1 +rw4 ABSENT _adj_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* not present 
+ABSINTH	 +e1 +w4 +re1 +rw4 ABSINTHE _n_ *ABSINTH*, *-S* strong green aniseed-flavoured liqueur 
+ABSINTHE	 +e1 +w4 _n_ *ABSINTH*, *-S* strong green aniseed-flavoured liqueur 
+ABSINTHES	 +e1 +w4 +re1 +rw4 ABSINTHE _n_ *ABSINTH*, *-S* strong green aniseed-flavoured liqueur 
+ABSINTHS	 +e1 +w4 -o5
+ABSOLUTE	 +e1 +w4 _adj_ *-NESS*, *-NESSES*, *-R*, *-S*, *-ST* complete, perfect 
+ABSOLUTELY	 +e1 +w4 -o5
+ABSOLUTENESS	 +e1 +w4 +re1 +rw4 ABSOLUTE _adj_ *-NESS*, *-NESSES*, *-R*, *-S*, *-ST* complete, perfect 
+ABSOLUTENESSES	 +e1 +w4 +re1 +rw4 ABSOLUTE _adj_ *-NESS*, *-NESSES*, *-R*, *-S*, *-ST* complete, perfect 
+ABSOLUTER	 +e1 +w4 +re1 +rw4 ABSOLUTE _adj_ *-NESS*, *-NESSES*, *-R*, *-S*, *-ST* complete, perfect 
+ABSOLUTES	 +e1 +w4 +re1 +rw4 ABSOLUTE _adj_ *-NESS*, *-NESSES*, *-R*, *-S*, *-ST* complete, perfect 
+ABSOLUTEST	 +e1 +w4 +re1 +rw4 ABSOLUTE _adj_ *-NESS*, *-NESSES*, *-R*, *-S*, *-ST* complete, perfect 
+ABSOLUTION	 +e1 +w4 -o5
+ABSOLUTIONS	 +e1 +w4 -o5
+ABSOLUTISM	 +e1 +w4 -o5
+ABSOLUTISMS	 +e1 +w4 -o5
+ABSOLUTIST	 +e1 +w4 -o5
+ABSOLUTISTIC	 +e1 +w4 -o5
+ABSOLUTISTS	 +e1 +w4 -o5
+ABSOLUTIVE	 +e1 +w4 _n_ grammatical case 
+ABSOLUTIZE	 +e1 +w4 _vb_ *-D*, *-S*, *ABSOLUTIZING* make absolute 9
+ABSOLUTIZED	 +e1 +w4 +re1 +rw4 ABSOLUTIZE _vb_ *-D*, *-S*, *ABSOLUTIZING* make absolute 9
+ABSOLUTIZES	 +e1 +w4 +re1 +rw4 ABSOLUTIZE _vb_ *-D*, *-S*, *ABSOLUTIZING* make absolute 9
+ABSOLUTIZING	 +e1 +w4 +re1 +rw4 ABSOLUTIZE _vb_ *-D*, *-S*, *ABSOLUTIZING* make absolute 9
+ABSOLVE	 +e1 +w4 _vb_ *-D*, *-R*, *-RS*, *-S*, *ABSOLVING* declare to be free from blame or sin 
+ABSOLVED	 +e1 +w4 +re1 +rw4 ABSOLVE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABSOLVING* declare to be free from blame or sin 
+ABSOLVER	 +e1 +w4 +re1 +rw4 ABSOLVE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABSOLVING* declare to be free from blame or sin 
+ABSOLVERS	 +e1 +w4 +re1 +rw4 ABSOLVE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABSOLVING* declare to be free from blame or sin 
+ABSOLVES	 +e1 +w4 +re1 +rw4 ABSOLVE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABSOLVING* declare to be free from blame or sin 
+ABSOLVING	 +e1 +w4 +re1 +rw4 ABSOLVE _vb_ *-D*, *-R*, *-RS*, *-S*, *ABSOLVING* declare to be free from blame or sin 
+ABSONANT	 +e1 +w4 _adj_ unnatural and unreasonable 
+ABSORB	 +e1 +w4 _vb_ *-ABILITY*, *-ABLE*, *-S* soak up (a liquid) A
+ABSORBABILITIES	 +e1 +w4 -o5
+ABSORBABILITY	 +e1 +w4 +re1 +rw4 ABSORB _vb_ *-ABILITY*, *-ABLE*, *-S* soak up (a liquid) A
+ABSORBABLE	 +e1 +w4 +re1 +rw4 ABSORB _vb_ *-ABILITY*, *-ABLE*, *-S* soak up (a liquid) A
+ABSORBANCE	 +e1 +w4 -o5
+ABSORBANCES	 +e1 +w4 -o5
+ABSORBANCIES	 +e1 +w4 +re1 +rw4 ABSORBANT _n_ *ABSORBANCIES*, *ABSORBANCY*, *-S* absorbent substance 
+ABSORBANCY	 +e1 +w4 +re1 +rw4 ABSORBANT _n_ *ABSORBANCIES*, *ABSORBANCY*, *-S* absorbent substance 
+ABSORBANT	 +e1 +w4 _n_ *ABSORBANCIES*, *ABSORBANCY*, *-S* absorbent substance 
+ABSORBANTS	 +e1 +w4 +re1 +rw4 ABSORBANT _n_ *ABSORBANCIES*, *ABSORBANCY*, *-S* absorbent substance 
+ABSORBED	 +e1 +w4 _adj_ engrossed 
+ABSORBENCIES	 +e1 +w4 +re1 +rw4 ABSORBENT _adj_ *ABSORBENCIES*, *ABSORBENCY*, *-S* able to absorb liquid 
+ABSORBENCY	 +e1 +w4 +re1 +rw4 ABSORBENT _adj_ *ABSORBENCIES*, *ABSORBENCY*, *-S* able to absorb liquid 
+ABSORBENT	 +e1 +w4 _adj_ *ABSORBENCIES*, *ABSORBENCY*, *-S* able to absorb liquid 
+ABSORBENTS	 +e1 +w4 +re1 +rw4 ABSORBENT _adj_ *ABSORBENCIES*, *ABSORBENCY*, *-S* able to absorb liquid 
+ABSORBER	 +e1 +w4 _n_ *-S* person or thing that absorbs 
+ABSORBERS	 +e1 +w4 +re1 +rw4 ABSORBER _n_ *-S* person or thing that absorbs 
+ABSORBING	 +e1 +w4 _adj_ *-LY* occupying one's interest or attention 
+ABSORBINGLY	 +e1 +w4 +re1 +rw4 ABSORBING _adj_ *-LY* occupying one's interest or attention 
+ABSORBS	 +e1 +w4 +re1 +rw4 ABSORB _vb_ *-ABILITY*, *-ABLE*, *-S* soak up (a liquid) A
+ABSORPTANCE	 +e1 +w4 -o5
+ABSORPTANCES	 +e1 +w4 -o5
+ABSORPTION	 +e1 +w4 -o5
+ABSORPTIONS	 +e1 +w4 -o5
+ABSORPTIVE	 +e1 +w4 -o5
+ABSORPTIVITIES	 +e1 +w4 -o5
+ABSORPTIVITY	 +e1 +w4 -o5
+ABSQUATULATE	 +e1 +w4 -o5
+ABSQUATULATED	 +e1 +w4 -o5
+ABSQUATULATES	 +e1 +w4 -o5
+ABSQUATULATING	 +e1 +w4 -o5
+ABSTAIN	 +e1 +w4 _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* choose not to do something e
+ABSTAINED	 +e1 +w4 +re1 +rw4 ABSTAIN _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* choose not to do something e
+ABSTAINER	 +e1 +w4 +re1 +rw4 ABSTAIN _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* choose not to do something e
+ABSTAINERS	 +e1 +w4 +re1 +rw4 ABSTAIN _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* choose not to do something e
+ABSTAINING	 +e1 +w4 +re1 +rw4 ABSTAIN _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* choose not to do something e
+ABSTAINS	 +e1 +w4 +re1 +rw4 ABSTAIN _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* choose not to do something e
+ABSTEMIOUS	 +e1 +w4 -o5
+ABSTEMIOUSLY	 +e1 +w4 -o5
+ABSTEMIOUSNESS	 +e1 +w4 -o5
+ABSTEMIOUSNESSES	 +e1 +w4 -o5
+ABSTENTION	 +e1 +w4 -o5
+ABSTENTIONS	 +e1 +w4 -o5
+ABSTENTIOUS	 +e1 +w4 -o5
+ABSTERGE	 +e1 +w4 _vb_ *-D*, *-S*, *ABSTERGING* cleanse 
+ABSTERGED	 +e1 +w4 +re1 +rw4 ABSTERGE _vb_ *-D*, *-S*, *ABSTERGING* cleanse 
+ABSTERGES	 +e1 +w4 +re1 +rw4 ABSTERGE _vb_ *-D*, *-S*, *ABSTERGING* cleanse 
+ABSTERGING	 +e1 +w4 +re1 +rw4 ABSTERGE _vb_ *-D*, *-S*, *ABSTERGING* cleanse 
+ABSTINENCE	 +e1 +w4 -o5
+ABSTINENCES	 +e1 +w4 -o5
+ABSTINENT	 +e1 +w4 _adj_ refraining from a certain activity 
+ABSTINENTLY	 +e1 +w4 -o5
+ABSTRACT	 +e1 +w4 _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTABLE	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTED	 +e1 +w4 -o5
+ABSTRACTEDLY	 +e1 +w4 -o5
+ABSTRACTEDNESS	 +e1 +w4 -o5
+ABSTRACTEDNESSES	 +e1 +w4 -o5
+ABSTRACTER	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTERS	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTEST	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTING	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTION	 +e1 +w4 -o5
+ABSTRACTIONAL	 +e1 +w4 -o5
+ABSTRACTIONISM	 +e1 +w4 -o5
+ABSTRACTIONISMS	 +e1 +w4 -o5
+ABSTRACTIONIST	 +e1 +w4 -o5
+ABSTRACTIONISTS	 +e1 +w4 -o5
+ABSTRACTIONS	 +e1 +w4 -o5
+ABSTRACTIVE	 +e1 +w4 -o5
+ABSTRACTLY	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTNESS	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTNESSES	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRACTOR	 +e1 +w4 _n_ *-S* person making abstracts 
+ABSTRACTORS	 +e1 +w4 +re1 +rw4 ABSTRACTOR _n_ *-S* person making abstracts 
+ABSTRACTS	 +e1 +w4 +re1 +rw4 ABSTRACT _adj_ *-ABLE*, *-ER*, *-ERS*, *-EST*, *-ING*, *-LY*, *-NESS*, *-NESSES*, *-S* existing as a quality or idea rather than a material object K
+ABSTRICT	 +e1 +w4 _vb_ *-ED*, *-ING*, *-S* release 
+ABSTRICTED	 +e1 +w4 +re1 +rw4 ABSTRICT _vb_ *-ED*, *-ING*, *-S* release 
+ABSTRICTING	 +e1 +w4 +re1 +rw4 ABSTRICT _vb_ *-ED*, *-ING*, *-S* release 
+ABSTRICTS	 +e1 +w4 +re1 +rw4 ABSTRICT _vb_ *-ED*, *-ING*, *-S* release 
+ABSTRUSE	 +e1 +w4 _adj_ *-LY*, *-NESS*, *-NESSES*, *-R*, *-ST*, *ABSTRUSITIES*, *ABSTRUSITY* not easy to understand 
+ABSTRUSELY	 +e1 +w4 +re1 +rw4 ABSTRUSE _adj_ *-LY*, *-NESS*, *-NESSES*, *-R*, *-ST*, *ABSTRUSITIES*, *ABSTRUSITY* not easy to understand 
+ABSTRUSENESS	 +e1 +w4 +re1 +rw4 ABSTRUSE _adj_ *-LY*, *-NESS*, *-NESSES*, *-R*, *-ST*, *ABSTRUSITIES*, *ABSTRUSITY* not easy to understand 
+ABSTRUSENESSES	 +e1 +w4 +re1 +rw4 ABSTRUSE _adj_ *-LY*, *-NESS*, *-NESSES*, *-R*, *-ST*, *ABSTRUSITIES*, *ABSTRUSITY* not easy to understand 
+ABSTRUSER	 +e1 +w4 +re1 +rw4 ABSTRUSE _adj_ *-LY*, *-NESS*, *-NESSES*, *-R*, *-ST*, *ABSTRUSITIES*, *ABSTRUSITY* not easy to understand 
+ABSTRUSEST	 +e1 +w4 +re1 +rw4 ABSTRUSE _adj_ *-LY*, *-NESS*, *-NESSES*, *-R*, *-ST*, *ABSTRUSITIES*, *ABSTRUSITY* not easy to understand 
+ABSTRUSITIES	 +e1 +w4 +re1 +rw4 ABSTRUSE _adj_ *-LY*, *-NESS*, *-NESSES*, *-R*, *-ST*, *ABSTRUSITIES*, *ABSTRUSITY* not easy to understand 
+ABSTRUSITY	 +e1 +w4 +re1 +rw4 ABSTRUSE _adj_ *-LY*, *-NESS*, *-NESSES*, *-R*, *-ST*, *ABSTRUSITIES*, *ABSTRUSITY* not easy to understand 
+ABSURD	 +e1 +w4 _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDER	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDEST	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDISM	 +e1 +w4 _n_ *-S*, *ABSURDIST* belief that life is meaningless 
+ABSURDISMS	 +e1 +w4 +re1 +rw4 ABSURDISM _n_ *-S*, *ABSURDIST* belief that life is meaningless 
+ABSURDIST	 +e1 +w4 +re1 +rw4 ABSURDISM _n_ *-S*, *ABSURDIST* belief that life is meaningless 
+ABSURDISTS	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDITIES	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDITY	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDLY	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDNESS	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDNESSES	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABSURDS	 +e1 +w4 +re1 +rw4 ABSURD _adj_ *-ER*, *-EST*, *-ISTS*, *-ITIES*, *-ITY*, *-LY*, *-NESS*, *-NESSES*, *-S* incongruous or ridiculous 
+ABUBBLE	 +e1 +w4 _adj_ bubbling 
+ABUILDING	 +e1 +w4 _adj_ being built -
+ABULIA	 +e1 +w4 _n_ *ABOULIA*, *-S*, *ABULIC* pathological inability to take decisions 4
+ABULIAS	 +e1 +w4 +re1 +rw4 ABULIA _n_ *ABOULIA*, *-S*, *ABULIC* pathological inability to take decisions 4
+ABULIC	 +e1 +w4 +re1 +rw4 ABULIA _n_ *ABOULIA*, *-S*, *ABULIC* pathological inability to take decisions 4
+ABUNDANCE	 +e1 +w4 _n_ *-S* copious supply 
+ABUNDANCES	 +e1 +w4 +re1 +rw4 ABUNDANCE _n_ *-S* copious supply 
+ABUNDANT	 +e1 +w4 _adj_ plentiful 
+ABUNDANTLY	 +e1 +w4 -o5
+ABUSABLE	 +e1 +w4 +re1 +rw4 ABUSE _vb_ *ABUSABLE*, *-D*, *-R*, *-RS*, *-S*, *ABUSING* use wrongly 
+ABUSE	 +e1 +w4 _vb_ *ABUSABLE*, *-D*, *-R*, *-RS*, *-S*, *ABUSING* use wrongly 
+ABUSED	 +e1 +w4 +re1 +rw4 ABUSE _vb_ *ABUSABLE*, *-D*, *-R*, *-RS*, *-S*, *ABUSING* use wrongly 
+ABUSER	 +e1 +w4 +re1 +rw4 ABUSE _vb_ *ABUSABLE*, *-D*, *-R*, *-RS*, *-S*, *ABUSING* use wrongly 
+ABUSERS	 +e1 +w4 +re1 +rw4 ABUSE _vb_ *ABUSABLE*, *-D*, *-R*, *-RS*, *-S*, *ABUSING* use wrongly 
+ABUSES	 +e1 +w4 +re1 +rw4 ABUSE _vb_ *ABUSABLE*, *-D*, *-R*, *-RS*, *-S*, *ABUSING* use wrongly 
+ABUSING	 +e1 +w4 +re1 +rw4 ABUSE _vb_ *ABUSABLE*, *-D*, *-R*, *-RS*, *-S*, *ABUSING* use wrongly 
+ABUSIVE	 +e1 +w4 _adj_ *-LY*, *-NESS*, *-NESSES* rude or insulting 
+ABUSIVELY	 +e1 +w4 +re1 +rw4 ABUSIVE _adj_ *-LY*, *-NESS*, *-NESSES* rude or insulting 
+ABUSIVENESS	 +e1 +w4 +re1 +rw4 ABUSIVE _adj_ *-LY*, *-NESS*, *-NESSES* rude or insulting 
+ABUSIVENESSES	 +e1 +w4 +re1 +rw4 ABUSIVE _adj_ *-LY*, *-NESS*, *-NESSES* rude or insulting 
+ABUT	 +e1 +w4 _vb_ *-S*, *-TED*, *-TING* be next to or touching 
+ABUTILON	 +e1 +w4 _n_ *-S* any shrub or herbaceous plant of the malvaceous genus _Abutilon,_ such as the flowering maple, that have showy white, yellow, or red flowers 
+ABUTILONS	 +e1 +w4 +re1 +rw4 ABUTILON _n_ *-S* any shrub or herbaceous plant of the malvaceous genus _Abutilon,_ such as the flowering maple, that have showy white, yellow, or red flowers 
+ABUTMENT	 +e1 +w4 _n_ *-S*, *ABUTTAL* construction that supports the end of a bridge 
+ABUTMENTS	 +e1 +w4 +re1 +rw4 ABUTMENT _n_ *-S*, *ABUTTAL* construction that supports the end of a bridge 
+ABUTS	 +e1 +w4 +re1 +rw4 ABUT _vb_ *-S*, *-TED*, *-TING* be next to or touching 
+ABUTTAL	 +e1 +w4 +re1 +rw4 ABUTMENT _n_ *-S*, *ABUTTAL* construction that supports the end of a bridge 
+ABUTTALS	 +e1 +w4 -o5
+ABUTTED	 +e1 +w4 +re1 +rw4 ABUT _vb_ *-S*, *-TED*, *-TING* be next to or touching 
+ABUTTER	 +e1 +w4 _n_ *-S* owner of adjoining property 
+ABUTTERS	 +e1 +w4 +re1 +rw4 ABUTTER _n_ *-S* owner of adjoining property 
+ABUTTING	 +e1 +w4 +re1 +rw4 ABUT _vb_ *-S*, *-TED*, *-TING* be next to or touching 
+ABUZZ	 +e1 +w4 _adj_ noisy, busy with activity etc 
+ABVOLT	 +e1 +w4 _n_ *-S* cgs unit of potential difference in the electromagnetic system >
+ABVOLTS	 +e1 +w4 +re1 +rw4 ABVOLT _n_ *-S* cgs unit of potential difference in the electromagnetic system >
+ABWATT	 +e1 +w4 _n_ *-S* cgs unit of power in the electromagnetic system, equal to the power dissipated when a current of 1 abampere flows across a potential difference of 1 abvolt: equivalent to 10
+ABWATTS	 +e1 +w4 +re1 +rw4 ABWATT _n_ *-S* cgs unit of power in the electromagnetic system, equal to the power dissipated when a current of 1 abampere flows across a potential difference of 1 abvolt: equivalent to 10
+ABY	 +e1 +w4 _vb_ *ABOUGHT*, *-E*, *-ING*, *-S* pay the penalty for 
+ABYE	 +e1 +w4 +re1 +rw4 ABY _vb_ *ABOUGHT*, *-E*, *-ING*, *-S* pay the penalty for 
+ABYES	 +e1 +w4 -o5
+ABYING	 +e1 +w4 +re1 +rw4 ABY _vb_ *ABOUGHT*, *-E*, *-ING*, *-S* pay the penalty for 
+ABYS	 +e1 +w4 +re1 +rw4 ABY _vb_ *ABOUGHT*, *-E*, *-ING*, *-S* pay the penalty for 
+ABYSM	 +e1 +w4 *-S* archaic word for *ABYSS*. 
+ABYSMAL	 +e1 +w4 _adj_ *-LY* extremely bad, awful 
+ABYSMALLY	 +e1 +w4 +re1 +rw4 ABYSMAL _adj_ *-LY* extremely bad, awful 
+ABYSMS	 +e1 +w4 +re1 +rw4 ABYSM *-S* archaic word for *ABYSS*. 
+ABYSS	 +e1 +w4 _n_ *-ES* very deep hole or chasm 
+ABYSSAL	 +e1 +w4 _adj_ of or belonging to the ocean depths, esp below 2000 metres (6500 feet) 
+ABYSSES	 +e1 +w4 +re1 +rw4 ABYSS _n_ *-ES* very deep hole or chasm 
+ACACIA	 +e1 +w4 _n_ *-S* tree or shrub with yellow or white flowers l
+ACACIAS	 +e1 +w4 +re1 +rw4 ACACIA _n_ *-S* tree or shrub with yellow or white flowers l
+ACADEME	 +e1 +w4 _n_ *-S* place of learning 
+ACADEMES	 +e1 +w4 +re1 +rw4 ACADEME _n_ *-S* place of learning 
+ACADEMIA	 +e1 +w4 _n_ *-S* academic world 
+ACADEMIAS	 +e1 +w4 +re1 +rw4 ACADEMIA _n_ *-S* academic world 
+ACADEMIC	 +e1 +w4 _adj_ *-ALLY*, *-S* of an academy or university 
+ACADEMICAL	 +e1 +w4 _n_ pupil of an academy 
+ACADEMICALLY	 +e1 +w4 +re1 +rw4 ACADEMIC _adj_ *-ALLY*, *-S* of an academy or university 
+ACADEMICIAN	 +e1 +w4 -o5
+ACADEMICIANS	 +e1 +w4 -o5
+ACADEMICISM	 +e1 +w4 -o5
+ACADEMICISMS	 +e1 +w4 -o5
+ACADEMICS	 +e1 +w4 +re1 +rw4 ACADEMIC _adj_ *-ALLY*, *-S* of an academy or university 
+ACADEMIES	 +e1 +w4 +re1 +rw4 ACADEMY _n_ *ACADEMIES* society to advance arts or sciences 
+ACADEMISM	 +e1 +w4 _n_ *-S* adherence to rules and traditions in art, literature, etc <
+ACADEMISMS	 +e1 +w4 +re1 +rw4 ACADEMISM _n_ *-S* adherence to rules and traditions in art, literature, etc <
+ACADEMY	 +e1 +w4 _n_ *ACADEMIES* society to advance arts or sciences 
+ACAJOU	 +e1 +w4 _n_ *-S* type of mahogany used by cabinet-makers in France 
+ACAJOUS	 +e1 +w4 +re1 +rw4 ACAJOU _n_ *-S* type of mahogany used by cabinet-makers in France 
+ACALEPH	 +e1 +w4 _n_ *-AE*, *-S* any of the coelenterates of the former taxonomic group _Acalephae,_ which included the jellyfishes 
+ACALEPHAE	 +e1 +w4 +re1 +rw4 ACALEPH _n_ *-AE*, *-S* any of the coelenterates of the former taxonomic group _Acalephae,_ which included the jellyfishes 
+ACALEPHE	 +e1 +w4 _n_ *-S* acaleph 
+ACALEPHES	 +e1 +w4 +re1 +rw4 ACALEPHE _n_ *-S* acaleph 
+ACALEPHS	 +e1 +w4 +re1 +rw4 ACALEPH _n_ *-AE*, *-S* any of the coelenterates of the former taxonomic group _Acalephae,_ which included the jellyfishes 
+ACANTHI	 +e1 +w4 +re1 +rw4 ACANTHUS _n_ *ACANTHI*, *-ES* prickly plant 7
+ACANTHOCEPHALAN	 +e1 +w4 -o5
+ACANTHOCEPHALANS	 +e1 +w4 -o5
+ACANTHUS	 +e1 +w4 _n_ *ACANTHI*, *-ES* prickly plant 7
+ACANTHUSES	 +e1 +w4 +re1 +rw4 ACANTHUS _n_ *ACANTHI*, *-ES* prickly plant 7
+ACAPNIA	 +e1 +w4 _n_ *-S* lack of carbon dioxide 
+ACAPNIAS	 +e1 +w4 +re1 +rw4 ACAPNIA _n_ *-S* lack of carbon dioxide 
+ACARI	 +e1 +w4 +re1 +rw4 ACARUS _n_ *ACARI* any of the free-living mites of the widely distributed genus _Acarus,_ several of which, esp _A. siro,_ are serious pests of stored flour, grain, etc E
+ACARIASES	 +e1 +w4 +re1 +rw4 ACARIASIS _n_ *ACARIASES* infestation of the hair follicles and skin with acarids, esp mites 
+ACARIASIS	 +e1 +w4 _n_ *ACARIASES* infestation of the hair follicles and skin with acarids, esp mites 
+ACARICIDAL	 +e1 +w4 +re1 +rw4 ACARICIDE _n_ *ACARICIDAL*, *-S* any drug or formulation for killing acarids 
+ACARICIDE	 +e1 +w4 _n_ *ACARICIDAL*, *-S* any drug or formulation for killing acarids 
+ACARICIDES	 +e1 +w4 +re1 +rw4 ACARICIDE _n_ *ACARICIDAL*, *-S* any drug or formulation for killing acarids 
+ACARID	 +e1 +w4 _n_ *-AN*, *-S* any of the small arachnids of the order _Acarina_ (or _Acari_), which includes the ticks and mites 
+ACARIDAN	 +e1 +w4 +re1 +rw4 ACARID _n_ *-AN*, *-S* any of the small arachnids of the order _Acarina_ (or _Acari_), which includes the ticks and mites 
+ACARIDANS	 +e1 +w4 -o5
+ACARIDS	 +e1 +w4 +re1 +rw4 ACARID _n_ *-AN*, *-S* any of the small arachnids of the order _Acarina_ (or _Acari_), which includes the ticks and mites 
+ACARINE	 +e1 +w4 _n_ *-S* acarid 
+ACARINES	 +e1 +w4 +re1 +rw4 ACARINE _n_ *-S* acarid 
+ACAROID	 +e1 +w4 _adj_ resembling a mite or tick 
+ACARPOUS	 +e1 +w4 _adj_ (of plants) producing no fruit 
+ACARUS	 +e1 +w4 _n_ *ACARI* any of the free-living mites of the widely distributed genus _Acarus,_ several of which, esp _A. siro,_ are serious pests of stored flour, grain, etc E
+ACATALECTIC	 +e1 +w4 -o5
+ACATALECTICS	 +e1 +w4 -o5
+ACAUDAL	 +e1 +w4 _adj_ *ACAUDATE* having no tail 
+ACAUDATE	 +e1 +w4 +re1 +rw4 ACAUDAL _adj_ *ACAUDATE* having no tail 
+ACAULESCENT	 +e1 +w4 -o5
+ACAULINE	 +e1 +w4 _adj_ *ACAULOSE* having no stem 
+ACAULOSE	 +e1 +w4 +re1 +rw4 ACAULINE _adj_ *ACAULOSE* having no stem 
+ACAULOUS	 +e1 +w4 _adj_ having a short stem or no stem 
+ACCEDE	 +e1 +w4 _vb_ *-D*, *-R*, *-RS*, *-S*, *ACCEDING* consent or agree (to) 7
+ACCEDED	 +e1 +w4 +re1 +rw4 ACCEDE _vb_ *-D*, *-R*, *-RS*, *-S*, *ACCEDING* consent or agree (to) 7
+ACCEDER	 +e1 +w4 +re1 +rw4 ACCEDE _vb_ *-D*, *-R*, *-RS*, *-S*, *ACCEDING* consent or agree (to) 7
+ACCEDERS	 +e1 +w4 +re1 +rw4 ACCEDE _vb_ *-D*, *-R*, *-RS*, *-S*, *ACCEDING* consent or agree (to) 7
+ACCEDES	 +e1 +w4 +re1 +rw4 ACCEDE _vb_ *-D*, *-R*, *-RS*, *-S*, *ACCEDING* consent or agree (to) 7
+ACCEDING	 +e1 +w4 +re1 +rw4 ACCEDE _vb_ *-D*, *-R*, *-RS*, *-S*, *ACCEDING* consent or agree (to) 7
+ACCELERANDO	 +e1 +w4 -o5
+ACCELERANDOS	 +e1 +w4 -o5
+ACCELERANT	 +e1 +w4 -o5
+ACCELERANTS	 +e1 +w4 -o5
+ACCELERATE	 +e1 +w4 -o5
+ACCELERATED	 +e1 +w4 -o5
+ACCELERATES	 +e1 +w4 -o5
+ACCELERATING	 +e1 +w4 -o5
+ACCELERATINGLY	 +e1 +w4 -o5
+ACCELERATION	 +e1 +w4 -o5
+ACCELERATIONS	 +e1 +w4 -o5
+ACCELERATIVE	 +e1 +w4 -o5
+ACCELERATOR	 +e1 +w4 -o5
+ACCELERATORS	 +e1 +w4 -o5
+ACCELEROMETER	 +e1 +w4 -o5
+ACCELEROMETERS	 +e1 +w4 -o5
+ACCENT	 +e1 +w4 _n_ *-ED*, *-ING*, *-LESS*, *-S* distinctive style of pronunciation of a local, national, or social group 
+ACCENTED	 +e1 +w4 +re1 +rw4 ACCENT _n_ *-ED*, *-ING*, *-LESS*, *-S* distinctive style of pronunciation of a local, national, or social group 
+ACCENTING	 +e1 +w4 +re1 +rw4 ACCENT _n_ *-ED*, *-ING*, *-LESS*, *-S* distinctive style of pronunciation of a local, national, or social group 
+ACCENTLESS	 +e1 +w4 +re1 +rw4 ACCENT _n_ *-ED*, *-ING*, *-LESS*, *-S* distinctive style of pronunciation of a local, national, or social group 
+ACCENTOR	 +e1 +w4 _n_ *-S* any small sparrow-like songbird of the genus _Prunella,_ family _Prunellidae,_ which inhabit mainly mountainous regions of Europe and Asia 
+ACCENTORS	 +e1 +w4 +re1 +rw4 ACCENTOR _n_ *-S* any small sparrow-like songbird of the genus _Prunella,_ family _Prunellidae,_ which inhabit mainly mountainous regions of Europe and Asia 
+ACCENTS	 +e1 +w4 +re1 +rw4 ACCENT _n_ *-ED*, *-ING*, *-LESS*, *-S* distinctive style of pronunciation of a local, national, or social group 
+ACCENTUAL	 +e1 +w4 _adj_ *-LY* of, relating to, or having accents 
+ACCENTUALLY	 +e1 +w4 +re1 +rw4 ACCENTUAL _adj_ *-LY* of, relating to, or having accents 
+ACCENTUATE	 +e1 +w4 -o5
+ACCENTUATED	 +e1 +w4 -o5
+ACCENTUATES	 +e1 +w4 -o5
+ACCENTUATING	 +e1 +w4 -o5
+ACCENTUATION	 +e1 +w4 -o5
+ACCENTUATIONS	 +e1 +w4 -o5
+ACCEPT	 +e1 +w4 _vb_ *-ER*, *-ERS*, *-ING*, *-INGLY*, *-INGNESS*, *-S* receive willingly 
+ACCEPTABILITIES	 +e1 +w4 -o5
+ACCEPTABILITY	 +e1 +w4 -o5
+ACCEPTABLE	 +e1 +w4 -o5
+ACCEPTABLENESS	 +e1 +w4 -o5
+ACCEPTABLENESSES	 +e1 +w4 -o5
+ACCEPTABLY	 +e1 +w4 -o5
+ACCEPTANCE	 +e1 +w4 -o5
+ACCEPTANCES	 +e1 +w4 -o5
+ACCEPTANT	 +e1 +w4 _adj_ receiving willingly 
+ACCEPTATION	 +e1 +w4 -o5
+ACCEPTATIONS	 +e1 +w4 -o5
+ACCEPTED	 +e1 +w4 _adj_ *-LY* generally approved 
+ACCEPTEDLY	 +e1 +w4 +re1 +rw4 ACCEPTED _adj_ *-LY* generally approved 
+ACCEPTEE	 +e1 +w4 _n_ *-S* person who has been accepted 
+ACCEPTEES	 +e1 +w4 +re1 +rw4 ACCEPTEE _n_ *-S* person who has been accepted 
+ACCEPTER	 +e1 +w4 +re1 +rw4 ACCEPT _vb_ *-ER*, *-ERS*, *-ING*, *-INGLY*, *-INGNESS*, *-S* receive willingly 
+ACCEPTERS	 +e1 +w4 +re1 +rw4 ACCEPT _vb_ *-ER*, *-ERS*, *-ING*, *-INGLY*, *-INGNESS*, *-S* receive willingly 
+ACCEPTING	 +e1 +w4 +re1 +rw4 ACCEPT _vb_ *-ER*, *-ERS*, *-ING*, *-INGLY*, *-INGNESS*, *-S* receive willingly 
+ACCEPTINGLY	 +e1 +w4 +re1 +rw4 ACCEPT _vb_ *-ER*, *-ERS*, *-ING*, *-INGLY*, *-INGNESS*, *-S* receive willingly 
+ACCEPTINGNESS	 +e1 +w4 +re1 +rw4 ACCEPT _vb_ *-ER*, *-ERS*, *-ING*, *-INGLY*, *-INGNESS*, *-S* receive willingly 
+ACCEPTINGNESSES	 +e1 +w4 -o5
+ACCEPTIVE	 +e1 +w4 _adj_ ready to accept 
+ACCEPTOR	 +e1 +w4 _n_ *-S* person or organization on which a draft or bill of exchange is drawn after liability has been accepted, usually by signature 
+ACCEPTORS	 +e1 +w4 +re1 +rw4 ACCEPTOR _n_ *-S* person or organization on which a draft or bill of exchange is drawn after liability has been accepted, usually by signature 
+ACCEPTS	 +e1 +w4 +re1 +rw4 ACCEPT _vb_ *-ER*, *-ERS*, *-ING*, *-INGLY*, *-INGNESS*, *-S* receive willingly 
+ACCESS	 +e1 +w4 _n_ *-ED*, *-ES*, *-ING* means of or right to approach or enter 
+ACCESSARIES	 +e1 +w4 -o5
+ACCESSARY	 +e1 +w4 +re1 +rw4 ACCESSORY _n_ *ACCESSARY*, *ACCESSORIAL*, *ACCESSORIES* supplementary part or object 
+ACCESSED	 +e1 +w4 +re1 +rw4 ACCESS _n_ *-ED*, *-ES*, *-ING* means of or right to approach or enter 
+ACCESSES	 +e1 +w4 +re1 +rw4 ACCESS _n_ *-ED*, *-ES*, *-ING* means of or right to approach or enter 
+ACCESSIBILITIES	 +e1 +w4 -o5
+ACCESSIBILITY	 +e1 +w4 -o5
+ACCESSIBLE	 +e1 +w4 -o5
+ACCESSIBLENESS	 +e1 +w4 -o5
+ACCESSIBLENESSES	 +e1 +w4 -o5
+ACCESSIBLY	 +e1 +w4 -o5
+ACCESSING	 +e1 +w4 +re1 +rw4 ACCESS _n_ *-ED*, *-ES*, *-ING* means of or right to approach or enter 
+ACCESSION	 +e1 +w4 _n_ *-AL*, *-ED*, *-ING*, *-S* taking up of an office or position 
+ACCESSIONAL	 +e1 +w4 +re1 +rw4 ACCESSION _n_ *-AL*, *-ED*, *-ING*, *-S* taking up of an office or position 
+ACCESSIONED	 +e1 +w4 +re1 +rw4 ACCESSION _n_ *-AL*, *-ED*, *-ING*, *-S* taking up of an office or position 
+ACCESSIONING	 +e1 +w4 +re1 +rw4 ACCESSION _n_ *-AL*, *-ED*, *-ING*, *-S* taking up of an office or position 
+ACCESSIONS	 +e1 +w4 +re1 +rw4 ACCESSION _n_ *-AL*, *-ED*, *-ING*, *-S* taking up of an office or position 
+ACCESSORIAL	 +e1 +w4 +re1 +rw4 ACCESSORY _n_ *ACCESSARY*, *ACCESSORIAL*, *ACCESSORIES* supplementary part or object 
+ACCESSORIES	 +e1 +w4 +re1 +rw4 ACCESSORY _n_ *ACCESSARY*, *ACCESSORIAL*, *ACCESSORIES* supplementary part or object 
+ACCESSORISE	 +e1 +w4 -o5
+ACCESSORISED	 +e1 +w4 -o5
+ACCESSORISES	 +e1 +w4 -o5
+ACCESSORISING	 +e1 +w4 -o5
+ACCESSORIZE	 +e1 +w4 -o5
+ACCESSORIZED	 +e1 +w4 -o5
+ACCESSORIZES	 +e1 +w4 -o5
+ACCESSORIZING	 +e1 +w4 -o5
+ACCESSORY	 +e1 +w4 _n_ *ACCESSARY*, *ACCESSORIAL*, *ACCESSORIES* supplementary part or object 
+ACCIACCATURA	 +e1 +w4 -o5
+ACCIACCATURAS	 +e1 +w4 -o5
+ACCIDENCE	 +e1 +w4 _n_ *-S* inflectional morphology 
+ACCIDENCES	 +e1 +w4 +re1 +rw4 ACCIDENCE _n_ *-S* inflectional morphology 
+ACCIDENT	 +e1 +w4 _n_ *-S* mishap, often causing injury 
+ACCIDENTAL	 +e1 +w4 -o5
+ACCIDENTALLY	 +e1 +w4 -o5
+ACCIDENTALNESS	 +e1 +w4 -o5
+ACCIDENTALNESSES	 +e1 +w4 -o5
+ACCIDENTALS	 +e1 +w4 -o5
+ACCIDENTLY	 +e1 +w4 _adv_ accidentally K
+ACCIDENTS	 +e1 +w4 +re1 +rw4 ACCIDENT _n_ *-S* mishap, often causing injury 
+ACCIDIA	 +e1 +w4 +re1 +rw4 ACCIDIE _n_ *ACCIDIA*, *-S*, *ACEDIA* spiritual sloth 7
+ACCIDIAS	 +e1 +w4 -o5
+ACCIDIE	 +e1 +w4 _n_ *ACCIDIA*, *-S*, *ACEDIA* spiritual sloth 7
+ACCIDIES	 +e1 +w4 +re1 +rw4 ACCIDIE _n_ *ACCIDIA*, *-S*, *ACEDIA* spiritual sloth 7
+ACCIPITER	 +e1 +w4 _n_ *-S* any hawk of the genus _Accipiter,_ typically having short rounded wings and a long tail 
+ACCIPITERS	 +e1 +w4 +re1 +rw4 ACCIPITER _n_ *-S* any hawk of the genus _Accipiter,_ typically having short rounded wings and a long tail 
+ACCIPITRINE	 +e1 +w4 -o5
+ACCIPITRINES	 +e1 +w4 -o5
+ACCLAIM	 +e1 +w4 _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* applaud, praise 
+ACCLAIMED	 +e1 +w4 +re1 +rw4 ACCLAIM _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* applaud, praise 
+ACCLAIMER	 +e1 +w4 +re1 +rw4 ACCLAIM _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* applaud, praise 
+ACCLAIMERS	 +e1 +w4 +re1 +rw4 ACCLAIM _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* applaud, praise 
+ACCLAIMING	 +e1 +w4 +re1 +rw4 ACCLAIM _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* applaud, praise 
+ACCLAIMS	 +e1 +w4 +re1 +rw4 ACCLAIM _vb_ *-ED*, *-ER*, *-ERS*, *-ING*, *-S* applaud, praise 
+ACCLAMATION	 +e1 +w4 -o5
+ACCLAMATIONS	 +e1 +w4 -o5
+ACCLIMATE	 +e1 +w4 _vb_ *-D*, *-S*, *ACCLIMATING* adapt or become accustomed to a new climate or environment 
+ACCLIMATED	 +e1 +w4 +re1 +rw4 ACCLIMATE _vb_ *-D*, *-S*, *ACCLIMATING* adapt or become accustomed to a new climate or environment 
+ACCLIMATES	 +e1 +w4 +re1 +rw4 ACCLIMATE _vb_ *-D*, *-S*, *ACCLIMATING* adapt or become accustomed to a new climate or environment 
+ACCLIMATING	 +e1 +w4 +re1 +rw4 ACCLIMATE _vb_ *-D*, *-S*, *ACCLIMATING* adapt or become accustomed to a new climate or environment 
+ACCLIMATION	 +e1 +w4 -o5
+ACCLIMATIONS	 +e1 +w4 -o5
+ACCLIMATISE	 +e1 +w4 -o5
+ACCLIMATISED	 +e1 +w4 -o5
+ACCLIMATISES	 +e1 +w4 -o5
+ACCLIMATISING	 +e1 +w4 -o5
+ACCLIMATIZATION	 +e1 +w4 -o5
+ACCLIMATIZATIONS	 +e1 +w4 -o5
+ACCLIMATIZE	 +e1 +w4 -o5
+ACCLIMATIZED	 +e1 +w4 -o5
+ACCLIMATIZER	 +e1 +w4 -o5
+ACCLIMATIZERS	 +e1 +w4 -o5
+ACCLIMATIZES	 +e1 +w4 -o5
+ACCLIMATIZING	 +e1 +w4 -o5
+ACCLIVITIES	 +e1 +w4 +re1 +rw4 ACCLIVITY _n_ *ACCLIVITIES* upward slope, esp of the ground 
+ACCLIVITY	 +e1 +w4 _n_ *ACCLIVITIES* upward slope, esp of the ground 
+ACCOLADE	 +e1 +w4 _n_ *-S* award or praise 
+ACCOLADES	 +e1 +w4 +re1 +rw4 ACCOLADE _n_ *-S* award or praise 
+ACCOMMODATE	 +e1 +w4 -o5
+ACCOMMODATED	 +e1 +w4 -o5
+ACCOMMODATES	 +e1 +w4 -o5
+ACCOMMODATING	 +e1 +w4 -o5
+ACCOMMODATINGLY	 +e1 +w4 -o5
+ACCOMMODATION	 +e1 +w4 -o5
+ACCOMMODATIONAL	 +e1 +w4 -o5
+ACCOMMODATIONIST	 +e1 +w4 -o5
+ACCOMMODATIONISTS	 +e1 +w4 -o5
+ACCOMMODATIONS	 +e1 +w4 -o5
+ACCOMMODATIVE	 +e1 +w4 -o5
+ACCOMMODATIVENESS	 +e1 +w4 -o5
+ACCOMMODATIVENESSES	 +e1 +w4 -o5
+ACCOMMODATOR	 +e1 +w4 -o5
+ACCOMMODATORS	 +e1 +w4 -o5
+ACCOMPANIED	 +e1 +w4 +re1 +rw4 ACCOMPANY _vb_ *ACCOMPANIED*, *ACCOMPANIES*, *-ING* go along with 
+ACCOMPANIES	 +e1 +w4 +re1 +rw4 ACCOMPANY _vb_ *ACCOMPANIED*, *ACCOMPANIES*, *-ING* go along with 
+ACCOMPANIMENT	 +e1 +w4 -o5
+ACCOMPANIMENTS	 +e1 +w4 -o5
+ACCOMPANIST	 +e1 +w4 -o5
+ACCOMPANISTS	 +e1 +w4 -o5
+ACCOMPANY	 +e1 +w4 _vb_ *ACCOMPANIED*, *ACCOMPANIES*, *-ING* go along with 
+ACCOMPANYING	 +e1 +w4 +re1 +rw4 ACCOMPANY _vb_ *ACCOMPANIED*, *ACCOMPANIES*, *-ING* go along with 
+ACCOMPLICE	 +e1 +w4 -o5
+ACCOMPLICES	 +e1 +w4 -o5
+ACCOMPLISH	 +e1 +w4 -o5
+ACCOMPLISHABLE	 +e1 +w4 -o5
+ACCOMPLISHED	 +e1 +w4 -o5
+ACCOMPLISHER	 +e1 +w4 -o5
+ACCOMPLISHERS	 +e1 +w4 -o5
+ACCOMPLISHES	 +e1 +w4 -o5
+ACCOMPLISHING	 +e1 +w4 -o5
+ACCOMPLISHMENT	 +e1 +w4 -o5
+ACCOMPLISHMENTS	 +e1 +w4 -o5
+ACCORD	 +e1 +w4 _n_ *-ED*, *-ER*, *-ERS*, *-S* agreement, harmony 
+ACCORDANCE	 +e1 +w4 -o5
+ACCORDANCES	 +e1 +w4 -o5
+ACCORDANT	 +e1 +w4 _adj_ *-LY* in conformity or harmony 
+ACCORDANTLY	 +e1 +w4 +re1 +rw4 ACCORDANT _adj_ *-LY* in conformity or harmony 
+ACCORDED	 +e1 +w4 +re1 +rw4 ACCORD _n_ *-ED*, *-ER*, *-ERS*, *-S* agreement, harmony 
+ACCORDER	 +e1 +w4 +re1 +rw4 ACCORD _n_ *-ED*, *-ER*, *-ERS*, *-S* agreement, harmony 
+ACCORDERS	 +e1 +w4 +re1 +rw4 ACCORD _n_ *-ED*, *-ER*, *-ERS*, *-S* agreement, harmony 
+ACCORDING	 +e1 +w4 _adj_ in proportion 
+ACCORDINGLY	 +e1 +w4 -o5
+ACCORDION	 +e1 +w4 _n_ *-IST*, *-ISTS*, *-S* portable musical instrument played by moving the two sides apart and together, and pressing a keyboard or buttons to produce the notes 6
+ACCORDIONIST	 +e1 +w4 +re1 +rw4 ACCORDION _n_ *-IST*, *-ISTS*, *-S* portable musical instrument played by moving the two sides apart and together, and pressing a keyboard or buttons to produce the notes 6
+ACCORDIONISTS	 +e1 +w4 +re1 +rw4 ACCORDION _n_ *-IST*, *-ISTS*, *-S* portable musical instrument played by moving the two sides apart and together, and pressing a keyboard or buttons to produce the notes 6
+ACCORDIONS	 +e1 +w4 +re1 +rw4 ACCORDION _n_ *-IST*, *-ISTS*, *-S* portable musical instrument played by moving the two sides apart and together, and pressing a keyboard or buttons to produce the notes 6
+ACCORDS	 +e1 +w4 +re1 +rw4 ACCORD _n_ *-ED*, *-ER*, *-ERS*, *-S* agreement, harmony 
+ACCOST	 +e1 +w4 _vb_ *-ED*, *-ING*, *-S* approach and speak to, often aggressively 
+ACCOSTED	 +e1 +w4 +re1 +rw4 ACCOST _vb_ *-ED*, *-ING*, *-S* approach and speak to, often aggressively 
+ACCOSTING	 +e1 +w4 +re1 +rw4 ACCOST _vb_ *-ED*, *-ING*, *-S* approach and speak to, often aggressively 
+ACCOSTS	 +e1 +w4 +re1 +rw4 ACCOST _vb_ *-ED*, *-ING*, *-S* approach and speak to, often aggressively 
+ACCOUCHEMENT	 +e1 +w4 _n_ *-S* childbirth or the period of confinement 
+ACCOUCHEMENTS	 +e1 +w4 +re1 +rw4 ACCOUCHEMENT _n_ *-S* childbirth or the period of confinement 
+ACCOUCHEUR	 +e1 +w4 _n_ *-S* male obstetrician or midwife 
+ACCOUCHEURS	 +e1 +w4 +re1 +rw4 ACCOUCHEUR _n_ *-S* male obstetrician or midwife 
+ACCOUNT	 +e1 +w4 _n_ *-ED*, *-S* report, description 
+ACCOUNTABILITIES	 +e1 +w4 -o5
+ACCOUNTABILITY	 +e1 +w4 -o5
+ACCOUNTABLE	 +e1 +w4 -o5
+ACCOUNTABLENESS	 +e1 +w4 -o5
+ACCOUNTABLENESSES	 +e1 +w4 -o5
+ACCOUNTABLY	 +e1 +w4 -o5
+ACCOUNTANCIES	 +e1 +w4 -o5
+ACCOUNTANCY	 +e1 +w4 -o5
+ACCOUNTANT	 +e1 +w4 -o5
+ACCOUNTANTS	 +e1 +w4 -o5
+ACCOUNTANTSHIP	 +e1 +w4 -o5
+ACCOUNTANTSHIPS	 +e1 +w4 -o5
+ACCOUNTED	 +e1 +w4 +re1 +rw4 ACCOUNT _n_ *-ED*, *-S* report, description 
+ACCOUNTING	 +e1 +w4 -o5
+ACCOUNTINGS	 +e1 +w4 -o5
+ACCOUNTS	 +e1 +w4 +re1 +rw4 ACCOUNT _n_ *-ED*, *-S* report, description 
+ACCOUTER	 +e1 +w4 +re1 +rw4 ACCOUTRE _vb_ *ACCOUTER*, *-D*, *-S*, *ACCOUTRING* provide with equipment or dress, esp military 
+ACCOUTERED	 +e1 +w4 -o5
+ACCOUTERING	 +e1 +w4 -o5
+ACCOUTERMENT	 +e1 +w4 -o5
+ACCOUTERMENTS	 +e1 +w4 -o5
+ACCOUTERS	 +e1 +w4 -o5
+ACCOUTRE	 +e1 +w4 _vb_ *ACCOUTER*, *-D*, *-S*, *ACCOUTRING* provide with equipment or dress, esp military 
+ACCOUTRED	 +e1 +w4 +re1 +rw4 ACCOUTRE _vb_ *ACCOUTER*, *-D*, *-S*, *ACCOUTRING* provide with equipment or dress, esp military 
+ACCOUTREMENT	 +e1 +w4 -o5
+ACCOUTREMENTS	 +e1 +w4 -o5
+ACCOUTRES	 +e1 +w4 +re1 +rw4 ACCOUTRE _vb_ *ACCOUTER*, *-D*, *-S*, *ACCOUTRING* provide with equipment or dress, esp military 
+ACCOUTRING	 +e1 +w4 +re1 +rw4 ACCOUTRE _vb_ *ACCOUTER*, *-D*, *-S*, *ACCOUTRING* provide with equipment or dress, esp military 
+ACCREDIT	 +e1 +w4 _vb_ *-ABLE*, *-ATION*, *-ATIONS*, *-ED*, *-ING*, *-S* give official recognition to 
+ACCREDITABLE	 +e1 +w4 +re1 +rw4 ACCREDIT _vb_ *-ABLE*, *-ATION*, *-ATIONS*, *-ED*, *-ING*, *-S* give official recognition to 
+ACCREDITATION	 +e1 +w4 +re1 +rw4 ACCREDIT _vb_ *-ABLE*, *-ATION*, *-ATIONS*, *-ED*, *-ING*, *-S* give official recognition to 
+ACCREDITATIONS	 +e1 +w4 +re1 +rw4 ACCREDIT _vb_ *-ABLE*, *-ATION*, *-ATIONS*, *-ED*, *-ING*, *-S* give official recognition to 
+ACCREDITED	 +e1 +w4 +re1 +rw4 ACCREDIT _vb_ *-ABLE*, *-ATION*, *-ATIONS*, *-ED*, *-ING*, *-S* give official recognition to 
+ACCREDITING	 +e1 +w4 +re1 +rw4 ACCREDIT _vb_ *-ABLE*, *-ATION*, *-ATIONS*, *-ED*, *-ING*, *-S* give official recognition to 
+ACCREDITS	 +e1 +w4 +re1 +rw4 ACCREDIT _vb_ *-ABLE*, *-ATION*, *-ATIONS*, *-ED*, *-ING*, *-S* give official recognition to 
+ACCRETE	 +e1 +w4 _vb_ *-D*, *-S*, *ACCRETING* grow or cause to grow together 
+ACCRETED	 +e1 +w4 +re1 +rw4 ACCRETE _vb_ *-D*, *-S*, *ACCRETING* grow or cause to grow together 
+ACCRETES	 +e1 +w4 +re1 +rw4 ACCRETE _vb_ *-D*, *-S*, *ACCRETING* grow or cause to grow together 
+ACCRETING	 +e1 +w4 +re1 +rw4 ACCRETE _vb_ *-D*, *-S*, *ACCRETING* grow or cause to grow together 
+ACCRETION	 +e1 +w4 _n_ *-ARY*, *-S*, *ACCRETIVE* gradual growth 
+ACCRETIONARY	 +e1 +w4 +re1 +rw4 ACCRETION _n_ *-ARY*, *-S*, *ACCRETIVE* gradual growth 
+ACCRETIONS	 +e1 +w4 +re1 +rw4 ACCRETION _n_ *-ARY*, *-S*, *ACCRETIVE* gradual growth 
+ACCRETIVE	 +e1 +w4 +re1 +rw4 ACCRETION _n_ *-ARY*, *-S*, *ACCRETIVE* gradual growth 
+ACCRUABLE	 +e1 +w4 +re1 +rw4 ACCRUE _vb_ *ACCRUABLE*, *-D*, *-MENT*, *-MENTS*, *-S*, *ACCRUING* increase gradually 
+ACCRUAL	 +e1 +w4 _n_ *-S* act of accruing 
+ACCRUALS	 +e1 +w4 +re1 +rw4 ACCRUAL _n_ *-S* act of accruing 
+ACCRUE	 +e1 +w4 _vb_ *ACCRUABLE*, *-D*, *-MENT*, *-MENTS*, *-S*, *ACCRUING* increase gradually 
+ACCRUED	 +e1 +w4 +re1 +rw4 ACCRUE _vb_ *ACCRUABLE*, *-D*, *-MENT*, *-MENTS*, *-S*, *ACCRUING* increase gradually 
+ACCRUEMENT	 +e1 +w4 +re1 +rw4 ACCRUE _vb_ *ACCRUABLE*, *-D*, *-MENT*, *-MENTS*, *-S*, *ACCRUING* increase gradually 
+ACCRUEMENTS	 +e1 +w4 +re1 +rw4 ACCRUE _vb_ *ACCRUABLE*, *-D*, *-MENT*, *-MENTS*, *-S*, *ACCRUING* increase gradually 
+ACCRUES	 +e1 +w4 +re1 +rw4 ACCRUE _vb_ *ACCRUABLE*, *-D*, *-MENT*, *-MENTS*, *-S*, *ACCRUING* increase gradually 
+ACCRUING	 +e1 +w4 +re1 +rw4 ACCRUE _vb_ *ACCRUABLE*, *-D*, *-MENT*, *-MENTS*, *-S*, *ACCRUING* increase gradually 
+ACCULTURATE	 +e1 +w4 -o5
+ACCULTURATED	 +e1 +w4 -o5
+ACCULTURATES	 +e1 +w4 -o5
+ACCULTURATING	 +e1 +w4 -o5
+ACCULTURATION	 +e1 +w4 -o5
+ACCULTURATIONAL	 +e1 +w4 -o5
+ACCULTURATIONS	 +e1 +w4 -o5
+ACCULTURATIVE	 +e1 +w4 -o5
+ACCUMULATE	 +e1 +w4 -o5
+ACCUMULATED	 +e1 +w4 -o5
+ACCUMULATES	 +e1 +w4 -o5
+ACCUMULATING	 +e1 +w4 -o5
+ACCUMULATION	 +e1 +w4 -o5
+ACCUMULATIONS	 +e1 +w4 -o5
+ACCUMULATIVE	 +e1 +w4 -o5
+ACCUMULATIVELY	 +e1 +w4 -o5
+ACCUMULATIVENESS	 +e1 +w4 -o5
+ACCUMULATIVENESSES	 +e1 +w4 -o5
+ACCUMULATOR	 +e1 +w4 -o5
+ACCUMULATORS	 +e1 +w4 -o5
+ACCURACIES	 +e1 +w4 +re1 +rw4 ACCURACY _n_ *ACCURACIES* faithful representation of the truth 
+ACCURACY	 +e1 +w4 _n_ *ACCURACIES* faithful representation of the truth 
+ACCURATE	 +e1 +w4 _adj_ *-LY*, *-NESS*, *-NESSES* exact, correct 
+ACCURATELY	 +e1 +w4 +re1 +rw4 ACCURATE _adj_ *-LY*, *-NESS*, *-NESSES* exact, correct 
+ACCURATENESS	 +e1 +w4 +re1 +rw4 ACCURATE _adj_ *-LY*, *-NESS*, *-NESSES* exact, correct 
+ACCURATENESSES	 +e1 +w4 +re1 +rw4 ACCURATE _adj_ *-LY*, *-NESS*, *-NESSES* exact, correct 
+ACCURSED	 +e1 +w4 _adj_ *-LY*, *-NESS*, *-NESSES*, *ACCURST* under a curse 
+ACCURSEDLY	 +e1 +w4 +re1 +rw4 ACCURSED _adj_ *-LY*, *-NESS*, *-NESSES*, *ACCURST* under a curse 
+ACCURSEDNESS	 +e1 +w4 +re1 +rw4 ACCURSED _adj_ *-LY*, *-NESS*, *-NESSES*, *ACCURST* under a curse 
+ACCURSEDNESSES	 +e1 +w4 +re1 +rw4 ACCURSED _adj_ *-LY*, *-NESS*, *-NESSES*, *ACCURST* under a curse 
+ACCURST	 +e1 +w4 +re1 +rw4 ACCURSED _adj_ *-LY*, *-NESS*, *-NESSES*, *ACCURST* under a curse 
+ACCUSAL	 +e1 +w4 _n_ *-S* accusation 
+ACCUSALS	 +e1 +w4 +re1 +rw4 ACCUSAL _n_ *-S* accusation 
+ACCUSANT	 +e1 +w4 _n_ *-S* person who accuses 
+ACCUSANTS	 +e1 +w4 +re1 +rw4 ACCUSANT _n_ *-S* person who accuses 
+ACCUSATION	 +e1 +w4 -o5
+ACCUSATIONS	 +e1 +w4 -o5
+ACCUSATIVE	 +e1 +w4 -o5
+ACCUSATIVES	 +e1 +w4 -o5
+ACCUSATORY	 +e1 +w4 -o5
+ACCUSE	 +e1 +w4 _vb_ *-R*, *-RS*, *-S*, *ACCUSING*, *ACCUSINGLY* charge with wrongdoing 
+ACCUSED	 +e1 +w4 _n_ person or people accused of a crime in a court 
+ACCUSER	 +e1 +w4 +re1 +rw4 ACCUSE _vb_ *-R*, *-RS*, *-S*, *ACCUSING*, *ACCUSINGLY* charge with wrongdoing 
+ACCUSERS	 +e1 +w4 +re1 +rw4 ACCUSE _vb_ *-R*, *-RS*, *-S*, *ACCUSING*, *ACCUSINGLY* charge with wrongdoing 
