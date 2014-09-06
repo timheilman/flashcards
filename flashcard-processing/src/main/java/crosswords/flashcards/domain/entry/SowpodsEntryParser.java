@@ -5,7 +5,7 @@ import crosswords.flashcards.domain.Entry;
 import crosswords.flashcards.domain.PartOfSpeech;
 import crosswords.flashcards.domain.Inflections;
 import crosswords.flashcards.factories.EntryFactory;
-import crosswords.flashcards.domain.inflections.InflectionsFieldFromOspd5EntryParser;
+import crosswords.flashcards.domain.inflections.InflectionsFieldFromSowpodsEntryParser;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -13,21 +13,21 @@ import java.util.regex.Pattern;
 /**
  * Created by tim on 8/24/14.
  */
-public class Ospd5EntryParser {
+public class SowpodsEntryParser {
     private static final Pattern startsWithPos = Pattern.compile("^ _([^_]*)_");
     private static final Pattern startsWithInflections = Pattern.compile("^ (\\*[-A-Z, *]*\\*)");
     private static final Pattern startsWithSpaces = Pattern.compile("^ *");
     private static final Pattern endsWithWhitespace = Pattern.compile("\\s*$");
     private final EntryFactory entryFactory;
-    private final InflectionsFieldFromOspd5EntryParser inflectionsFieldFromOspd5EntryParser;
+    private final InflectionsFieldFromSowpodsEntryParser inflectionsFieldFromSowpodsEntryParser;
     private final PartOfSpeechParser partOfSpeechParser;
 
     @Inject
-    public Ospd5EntryParser(EntryFactory entryFactory,
-                            InflectionsFieldFromOspd5EntryParser inflectionsFieldFromOspd5EntryParser,
-                            PartOfSpeechParser partOfSpeechParser) {
+    public SowpodsEntryParser(EntryFactory entryFactory,
+                              InflectionsFieldFromSowpodsEntryParser inflectionsFieldFromSowpodsEntryParser,
+                              PartOfSpeechParser partOfSpeechParser) {
         this.entryFactory = entryFactory;
-        this.inflectionsFieldFromOspd5EntryParser = inflectionsFieldFromOspd5EntryParser;
+        this.inflectionsFieldFromSowpodsEntryParser = inflectionsFieldFromSowpodsEntryParser;
         this.partOfSpeechParser = partOfSpeechParser;
     }
 
@@ -46,7 +46,7 @@ public class Ospd5EntryParser {
         Inflections inflections = null;
         Matcher startsWithInflectionsMatcher = startsWithInflections.matcher(remainder);
         if (startsWithInflectionsMatcher.find()) {
-            inflections = inflectionsFieldFromOspd5EntryParser.parse(entryWord, startsWithInflectionsMatcher.group(1));
+            inflections = inflectionsFieldFromSowpodsEntryParser.parse(entryWord, startsWithInflectionsMatcher.group(1));
             remainder = remainder.substring(startsWithInflectionsMatcher.end());
         }
 

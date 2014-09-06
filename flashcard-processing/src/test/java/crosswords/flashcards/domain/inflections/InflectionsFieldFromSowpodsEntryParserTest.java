@@ -16,7 +16,7 @@ import static org.mockito.Mockito.*;
 /**
  * Created by tim on 8/23/14.
  */
-public class InflectionsFieldFromOspd5EntryParserTest {
+public class InflectionsFieldFromSowpodsEntryParserTest {
 
     public static final String ENTRY_WORD_DUMMY = "PYGMY";
     public static final String INFLECTIONS_FIELD_DUMMY = "*PIGMY*, *PYGMAEAN*, *PYGMEAN*, *PYGMIES*, *-ISH*, *-ISM*, *-ISMS*";
@@ -28,13 +28,13 @@ public class InflectionsFieldFromOspd5EntryParserTest {
     private InflectionsFactory inflectionsFactoryMock;
     @Mock
     private Inflections inflectionsMock;
-    private InflectionsFieldFromOspd5EntryParser inflectionsFieldFromOspd5EntryParserSut;
+    private InflectionsFieldFromSowpodsEntryParser inflectionsFieldFromSowpodsEntryParserSut;
 
     @Before
     public void init() {
         MockitoAnnotations.initMocks(this);
         when(inflectionsFactoryMock.create()).thenReturn(inflectionsMock);
-        inflectionsFieldFromOspd5EntryParserSut = new InflectionsFieldFromOspd5EntryParser(inflectionMakerFromEntryAndStringInAsterisksMock, inflectionsFactoryMock);
+        inflectionsFieldFromSowpodsEntryParserSut = new InflectionsFieldFromSowpodsEntryParser(inflectionMakerFromEntryAndStringInAsterisksMock, inflectionsFactoryMock);
     }
 
     @Test
@@ -43,7 +43,7 @@ public class InflectionsFieldFromOspd5EntryParserTest {
         List<Inflection> expectedInflectionDummies = makeExpectedInflectionDummies();
 
         // INVOKE SUT
-        Inflections actualInflectionsNoWhitespace = inflectionsFieldFromOspd5EntryParserSut.parse(ENTRY_WORD_DUMMY, INFLECTIONS_FIELD_DUMMY);
+        Inflections actualInflectionsNoWhitespace = inflectionsFieldFromSowpodsEntryParserSut.parse(ENTRY_WORD_DUMMY, INFLECTIONS_FIELD_DUMMY);
 
         // VERIFICATION
         verifyStuff(expectedInflectionDummies, actualInflectionsNoWhitespace);
@@ -55,7 +55,7 @@ public class InflectionsFieldFromOspd5EntryParserTest {
         List<Inflection> expectedInflectionDummies = makeExpectedInflectionDummies();
 
         // INVOKE SUT
-        Inflections actualInflectionsWithWhitespace = inflectionsFieldFromOspd5EntryParserSut.parse(ENTRY_WORD_DUMMY, INFLECTIONS_FIELD_DUMMY_LEADTRAIL_WHITESPACE);
+        Inflections actualInflectionsWithWhitespace = inflectionsFieldFromSowpodsEntryParserSut.parse(ENTRY_WORD_DUMMY, INFLECTIONS_FIELD_DUMMY_LEADTRAIL_WHITESPACE);
 
         // VERIFICATION
         verifyStuff(expectedInflectionDummies, actualInflectionsWithWhitespace);

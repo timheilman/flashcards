@@ -207,7 +207,7 @@ public class InflectionCategorizer {
         String entryWord = inflection.getEntryWord();
 
         SuffixAndCategory suffixAndCategoryMatchingCompleteInflection = findSuffixCategoryMatchingCompleteInflection(completeInflection);
-        if (MISC_FREQ_10_OR_UNDER_OSPD5.equals(suffixAndCategoryMatchingCompleteInflection.inflectionCategory)) {
+        if (MISC_FREQ_10_OR_UNDER_SOWPODS.equals(suffixAndCategoryMatchingCompleteInflection.inflectionCategory)) {
             return ALTERNATE_SPELLING;
         }
 
@@ -221,7 +221,7 @@ public class InflectionCategorizer {
             if (entryWord.endsWith("Y") && Y_THEN_PLURALS_LY_ER_EST_NOUN.equals(suffixAndCategoryMatchingCompleteInflection.inflectionCategory)
                     && guessedSuffix.contains("I")) {
                 suffixAndCategoryMatchingCompleteInflection = findSuffixCategoryMatchingCompleteInflection(guessedSuffix.substring(guessedSuffix.indexOf("I") + 1, guessedSuffix.length()));
-                if (MISC_FREQ_10_OR_UNDER_OSPD5.equals(suffixAndCategoryMatchingCompleteInflection.inflectionCategory)) {
+                if (MISC_FREQ_10_OR_UNDER_SOWPODS.equals(suffixAndCategoryMatchingCompleteInflection.inflectionCategory)) {
                     return ALTERNATE_SPELLING;
                 } else {
                     return suffixAndCategoryMatchingCompleteInflection.inflectionCategory;
@@ -487,9 +487,9 @@ public class InflectionCategorizer {
                 || "G".equals(suffix)
                 || "TH".equals(suffix)
                 ) {
-            return InflectionCategory.MISC_FREQ_OVER_10_OSPD5;
+            return InflectionCategory.MISC_FREQ_OVER_10_SOWPODS;
         }
-        return InflectionCategory.MISC_FREQ_10_OR_UNDER_OSPD5;
+        return InflectionCategory.MISC_FREQ_10_OR_UNDER_SOWPODS;
     }
 
     private class SuffixAndCategory {
@@ -509,6 +509,6 @@ public class InflectionCategorizer {
             }
         }
 
-        return new SuffixAndCategory("", MISC_FREQ_10_OR_UNDER_OSPD5);
+        return new SuffixAndCategory("", MISC_FREQ_10_OR_UNDER_SOWPODS);
     }
 }

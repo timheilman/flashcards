@@ -21,7 +21,7 @@ public class WordListFileToStringSetMapper implements Provider<Set<String>> {
     private final BufferedReaderFactory bufferedReaderFactory;
     private final FileReaderFactory fileReaderFactory;
     private final String fileName;
-    private Set<String> output = null;
+    private Set<String> output = new HashSet<String>();
 
     @Inject
     public WordListFileToStringSetMapper(StringSortedSetFactory stringSortedSetFactory,
@@ -40,8 +40,7 @@ public class WordListFileToStringSetMapper implements Provider<Set<String>> {
     }
 
     public Set<String> getPerformantSet(String fileName) {
-        Set<String> toReturn = new HashSet<String>();
-        return fillSet(fileName, toReturn);
+        return fillSet(fileName, output);
     }
 
     private <T extends Set<String>> T fillSet(String fileName, T wordList) {
@@ -69,10 +68,13 @@ public class WordListFileToStringSetMapper implements Provider<Set<String>> {
 
     @Override
     public Set<String> get() {
-        if (output == null) {
-            output = getPerformantSet(fileName);
+        // because this Provider is bound in singleton scope, it must be thread-safe:
+        synchronized (output) {
+            if (output.isEmpty()) {
+                output = getPerformantSet(fileName);
+            }
+            return output;
         }
-        return output;
     }
 
 }

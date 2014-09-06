@@ -3,6 +3,7 @@ package crosswords.flashcards;
 import com.google.inject.AbstractModule;
 import com.google.inject.TypeLiteral;
 import com.google.inject.assistedinject.FactoryModuleBuilder;
+import com.sun.xml.internal.xsom.XSWildcard;
 import crosswords.flashcards.domain.*;
 import crosswords.flashcards.domain.entry.impl.AnnotatedEntryImpl;
 import crosswords.flashcards.domain.entry.impl.AnnotatedInflectionEntryImpl;
@@ -12,6 +13,8 @@ import crosswords.flashcards.domain.inflections.impl.InflectionImpl;
 import crosswords.flashcards.domain.inflections.impl.InflectionsImpl;
 import crosswords.flashcards.factories.*;
 import crosswords.flashcards.factories.bindingannotations.*;
+import crosswords.flashcards.io.SowpodsFileToDomainObjectMapper;
+import crosswords.flashcards.io.WordlistUnionTaker;
 
 import java.lang.annotation.Annotation;
 import java.util.*;
@@ -51,6 +54,16 @@ public class GuiceModule extends AbstractModule {
         installWordList(Otcwl2014TwoLetterWords.class, "../wordlists/otcwl2014_2LW.txt");
         installWordList(Otcwl2014ThreeFromTwo.class, "../wordlists/otcwl2014_some3LW.txt");
 
+        installDictionary("../dictionaries/sowpods_with_my_edits.txt");
+
+        bind(new TypeLiteral<SortedSet<String>>(){}).annotatedWith(UnionNonSowpods.class).toProvider(WordlistUnionTaker.class);
+
+    }
+
+    private void installDictionary(String filename) {
+        bindConstant().annotatedWith(Filename2.class).to(filename);
+        bind(new TypeLiteral<Map<String, Entry>>() {
+        }).toProvider(SowpodsFileToDomainObjectMapper.class);
     }
 
     private void installWordList(final Class<? extends Annotation> annotationClass, final String fileName) {
