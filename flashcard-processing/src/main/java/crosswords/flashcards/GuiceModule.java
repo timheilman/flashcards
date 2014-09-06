@@ -3,7 +3,6 @@ package crosswords.flashcards;
 import com.google.inject.AbstractModule;
 import com.google.inject.TypeLiteral;
 import com.google.inject.assistedinject.FactoryModuleBuilder;
-import com.sun.xml.internal.xsom.XSWildcard;
 import crosswords.flashcards.domain.*;
 import crosswords.flashcards.domain.entry.impl.AnnotatedEntryImpl;
 import crosswords.flashcards.domain.entry.impl.AnnotatedInflectionEntryImpl;
@@ -16,6 +15,7 @@ import crosswords.flashcards.factories.bindingannotations.*;
 import crosswords.flashcards.io.SowpodsFileToDomainObjectMapper;
 import crosswords.flashcards.io.WordlistUnionTaker;
 
+import java.io.Writer;
 import java.lang.annotation.Annotation;
 import java.util.*;
 
@@ -53,15 +53,25 @@ public class GuiceModule extends AbstractModule {
         installWordList(Otcwl2.class, "../wordlists/otcwl2.txt");
         installWordList(Otcwl2014TwoLetterWords.class, "../wordlists/otcwl2014_2LW.txt");
         installWordList(Otcwl2014ThreeFromTwo.class, "../wordlists/otcwl2014_some3LW.txt");
+        installUnionWordList();
 
         installDictionary("../dictionaries/sowpods_with_my_edits.txt");
 
-        bind(new TypeLiteral<SortedSet<String>>(){}).annotatedWith(UnionNonSowpods.class).toProvider(WordlistUnionTaker.class);
+        installOutputWriter("../dictionaries/union_non_sowpods.txt");
 
     }
 
+    private void installOutputWriter(String filename) {
+        bindConstant().annotatedWith(OutputFileName.class).to(filename);
+        bind(Writer.class).toProvider(BufferedFileWriterFactory.class);
+    }
+
+    private void installUnionWordList() {
+        bind(new TypeLiteral<SortedSet<String>>(){}).annotatedWith(UnionNonSowpods.class).toProvider(WordlistUnionTaker.class);
+    }
+
     private void installDictionary(String filename) {
-        bindConstant().annotatedWith(Filename2.class).to(filename);
+        bindConstant().annotatedWith(SowpodsDictionaryFileName.class).to(filename);
         bind(new TypeLiteral<Map<String, Entry>>() {
         }).toProvider(SowpodsFileToDomainObjectMapper.class);
     }
@@ -70,7 +80,7 @@ public class GuiceModule extends AbstractModule {
         install(new WordListFileToStringSetMapperModule(annotationClass) {
             @Override
             void bindFileName() {
-                bindConstant().annotatedWith(Filename.class).to(fileName);
+                bindConstant().annotatedWith(WordListFileName.class).to(fileName);
             }
         });
     }

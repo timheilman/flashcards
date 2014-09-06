@@ -2,8 +2,6 @@ package crosswords.flashcards;
 
 import com.google.inject.PrivateModule;
 import com.google.inject.TypeLiteral;
-import crosswords.flashcards.factories.bindingannotations.Enable1;
-import crosswords.flashcards.factories.bindingannotations.Filename;
 import crosswords.flashcards.io.WordListFileToStringSetMapper;
 
 import javax.inject.Singleton;

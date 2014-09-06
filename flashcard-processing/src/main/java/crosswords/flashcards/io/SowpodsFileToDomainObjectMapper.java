@@ -8,7 +8,7 @@ import crosswords.flashcards.domain.entry.SowpodsEntryParser;
 import crosswords.flashcards.factories.BufferedReaderFactory;
 import crosswords.flashcards.factories.DictionaryFactory;
 import crosswords.flashcards.factories.FileReaderFactory;
-import crosswords.flashcards.factories.bindingannotations.Filename2;
+import crosswords.flashcards.factories.bindingannotations.SowpodsDictionaryFileName;
 
 import javax.inject.Provider;
 import java.io.BufferedReader;
@@ -31,7 +31,7 @@ public class SowpodsFileToDomainObjectMapper implements Provider<Map<String, Ent
                                            BufferedReaderFactory bufferedReaderFactory,
                                            FileReaderFactory fileReaderFactory,
                                            DictionaryFactory dictionaryFactory,
-                                           @Filename2 String fileName) {
+                                           @SowpodsDictionaryFileName String fileName) {
         this.sowpodsEntryParser = sowpodsEntryParser;
         this.bufferedReaderFactory = bufferedReaderFactory;
         this.fileReaderFactory = fileReaderFactory;

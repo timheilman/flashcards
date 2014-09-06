@@ -22,6 +22,7 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     protected final Set<String> o3_some3;
 
     @Inject
+    // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
     // todo: add long list?
     // todo: add sowpods?
     // todo: study at home to be able to regenerate decks quickly!

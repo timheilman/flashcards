@@ -4,7 +4,7 @@ import com.google.inject.Inject;
 import crosswords.flashcards.factories.BufferedReaderFactory;
 import crosswords.flashcards.factories.FileReaderFactory;
 import crosswords.flashcards.factories.StringSortedSetFactory;
-import crosswords.flashcards.factories.bindingannotations.Filename;
+import crosswords.flashcards.factories.bindingannotations.WordListFileName;
 
 import javax.inject.Provider;
 import java.io.BufferedReader;
@@ -27,7 +27,7 @@ public class WordListFileToStringSetMapper implements Provider<Set<String>> {
     public WordListFileToStringSetMapper(StringSortedSetFactory stringSortedSetFactory,
                                          BufferedReaderFactory bufferedReaderFactory,
                                          FileReaderFactory fileReaderFactory,
-                                         @Filename String fileName) {
+                                         @WordListFileName String fileName) {
         this.stringSortedSetFactory = stringSortedSetFactory;
         this.bufferedReaderFactory = bufferedReaderFactory;
         this.fileReaderFactory = fileReaderFactory;
