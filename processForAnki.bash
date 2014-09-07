@@ -2,7 +2,7 @@
 
 # invoke run to update dictionaries/union_non_sowpods.txt
 cd flashcard-processing
-/opt/apache-maven/bin/mvn clean test
+/opt/apache-maven/bin/mvn test exec:exec
 
 if [ $? -ne 0 ]; then
 echo mvn failed!
