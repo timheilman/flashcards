@@ -130,4 +130,4 @@ whid
 wich
 wive
 wost
-ARMFUL	 +e1 +w4 +o2 +o3 _n_ *-S*, *ARMSFUL* as much as can be held in the arms
+wych
