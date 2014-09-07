@@ -18,13 +18,11 @@ public class WordlistUnionTaker implements Provider<Iterator<String>> {
     public WordlistUnionTaker(@Enable1 Set<String> e,
                               @WordsWithFriends4 Set<String> w,
                               @Otcwl2 Set<String> otcwl2,
-                              @Otcwl2014TwoLetterWords Set<String> otcwl2014_2lw,
-                              @Otcwl2014ThreeFromTwo Set<String> otcwl2014_some3LW) {
+                              @Otcwl2014TwoToFourLetterWords Set<String> otcwl2014_2_to_4lw) {
         unionNonSowpods.addAll(e);
         unionNonSowpods.addAll(w);
         unionNonSowpods.addAll(otcwl2);
-        unionNonSowpods.addAll(otcwl2014_2lw);
-        unionNonSowpods.addAll(otcwl2014_some3LW);
+        unionNonSowpods.addAll(otcwl2014_2_to_4lw);
     }
 
     @Override

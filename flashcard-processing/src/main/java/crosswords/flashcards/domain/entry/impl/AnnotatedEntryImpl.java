@@ -18,8 +18,7 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     protected final Set<String> enable1;
     protected final Set<String> wwf4;
     protected final Set<String> o2;
-    protected final Set<String> o3_2;
-    protected final Set<String> o3_some3;
+    protected final Set<String> o3_2_to_4;
 
     @Inject
     // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
@@ -27,19 +26,16 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     // todo: add sowpods?
     // todo: study at home to be able to regenerate decks quickly!
     // todo: make cloze cards for inflection categories
-    // todo: complete otcwl2014-3LW and add otcwl2014-4LW from http://www.seattlescrabble.org/owl3.php#NewThrees
 
     public AnnotatedEntryImpl(@Enable1 Set<String> e,
                               @WordsWithFriends4 Set<String> w,
                               @Otcwl2 Set<String> o2,
-                              @Otcwl2014TwoLetterWords Set<String> o3_2,
-                              @Otcwl2014ThreeFromTwo Set<String> o3_some3,
+                              @Otcwl2014TwoToFourLetterWords Set<String> o3_2_to_4,
                               @Assisted Entry entry) {
         enable1 = e;
         wwf4 = w;
         this.o2 = o2;
-        this.o3_2 = o3_2;
-        this.o3_some3 = o3_some3;
+        this.o3_2_to_4 = o3_2_to_4;
         this.entryWord = entry.getEntryWord();
         this.entry = entry;
     }
@@ -64,10 +60,8 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
             potentiallyUnknownMembershipFlags.append(String.format(" +%so2 +%so3", prefix, prefix));
         } else {
             potentiallyUnknownMembershipFlags.append(String.format(" -%so2", prefix));
-            if (perhapsMember.length() == 2) {
-                potentiallyUnknownMembershipFlags.append(String.format(" %s%so3", o3_2.contains(perhapsMember) ? "+" : "-",  prefix));
-            } else if (perhapsMember.length() == 3 && o3_some3.contains(perhapsMember)) {
-                potentiallyUnknownMembershipFlags.append(String.format(" +%so3", prefix));
+            if (perhapsMember.length() >= 2 && perhapsMember.length() <= 4) {
+                potentiallyUnknownMembershipFlags.append(String.format(" %s%so3", o3_2_to_4.contains(perhapsMember) ? "+" : "-",  prefix));
             }
         }
         return String.format("%s%se1 %s%sw4%s",
@@ -87,7 +81,7 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
         for (Inflection inflection : inflections) {
             String completeInflection = inflection.getCompleteInflection();
             // INFLECTION INCLUSION DECISION:
-            if (o2.contains(completeInflection) || o3_2.contains(completeInflection) || o3_some3.contains(completeInflection)) {
+            if (o2.contains(completeInflection) || o3_2_to_4.contains(completeInflection)) {
                 if (stringBuilder.length() != 0) {
                     stringBuilder.append(", ");
                 }

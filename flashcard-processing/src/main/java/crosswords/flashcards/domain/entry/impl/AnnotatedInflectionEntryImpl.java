@@ -18,11 +18,10 @@ public class AnnotatedInflectionEntryImpl extends AnnotatedEntryImpl implements 
     public AnnotatedInflectionEntryImpl(@Enable1 Set<String> e,
                                         @WordsWithFriends4 Set<String> w,
                                         @Otcwl2 Set<String> o2,
-                                        @Otcwl2014TwoLetterWords Set<String> o3_2,
-                                        @Otcwl2014ThreeFromTwo Set<String> o3_some3,
+                                        @Otcwl2014TwoToFourLetterWords Set<String> o3_2_to_4,
                                         @Assisted String inflectionWord,
                                         @Assisted Entry entry) {
-        super(e, w, o2, o3_2, o3_some3, entry);
+        super(e, w, o2, o3_2_to_4, entry);
         entryWord = inflectionWord;
     }
 

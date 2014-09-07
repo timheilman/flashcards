@@ -14,5 +14,5 @@ import static java.lang.annotation.ElementType.METHOD;
  */
 @BindingAnnotation
 @Target({ FIELD, PARAMETER, METHOD }) @Retention(RUNTIME)
-public @interface Otcwl2014ThreeFromTwo {
+public @interface Otcwl2014TwoToFourLetterWords {
 }
