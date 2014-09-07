@@ -17,26 +17,18 @@ import java.util.SortedSet;
  * Created by tim on 8/25/14.
  */
 public class WordListFileToStringSetMapper implements Provider<Set<String>> {
-    private final StringSortedSetFactory stringSortedSetFactory;
     private final BufferedReaderFactory bufferedReaderFactory;
     private final FileReaderFactory fileReaderFactory;
     private final String fileName;
     private Set<String> output = new HashSet<String>();
 
     @Inject
-    public WordListFileToStringSetMapper(StringSortedSetFactory stringSortedSetFactory,
-                                         BufferedReaderFactory bufferedReaderFactory,
+    public WordListFileToStringSetMapper(BufferedReaderFactory bufferedReaderFactory,
                                          FileReaderFactory fileReaderFactory,
                                          @WordListFileName String fileName) {
-        this.stringSortedSetFactory = stringSortedSetFactory;
         this.bufferedReaderFactory = bufferedReaderFactory;
         this.fileReaderFactory = fileReaderFactory;
         this.fileName = fileName;
-    }
-
-    public SortedSet<String> getSortedStringSet(String fileName) {
-        SortedSet<String> wordList = stringSortedSetFactory.create();
-        return fillSet(fileName, wordList);
     }
 
     public Set<String> getPerformantSet(String fileName) {

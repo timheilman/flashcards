@@ -5,15 +5,12 @@ import crosswords.flashcards.factories.bindingannotations.*;
 
 import javax.inject.Inject;
 import javax.inject.Provider;
-import java.util.HashSet;
-import java.util.Set;
-import java.util.SortedSet;
-import java.util.TreeSet;
+import java.util.*;
 
 /**
  * Created by tim on 9/6/14.
  */
-public class WordlistUnionTaker implements Provider<SortedSet<String>> {
+public class WordlistUnionTaker implements Provider<Iterator<String>> {
 
     private final SortedSet<String> unionNonSowpods = new TreeSet<String>();
 
@@ -31,7 +28,7 @@ public class WordlistUnionTaker implements Provider<SortedSet<String>> {
     }
 
     @Override
-    public SortedSet<String> get() {
-        return unionNonSowpods;
+    public Iterator<String> get() {
+        return unionNonSowpods.iterator();
     }
 }

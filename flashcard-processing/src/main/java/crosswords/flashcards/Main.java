@@ -2,6 +2,7 @@ package crosswords.flashcards;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
+import crosswords.flashcards.domain.annotateddictionary.ThreadDelegator;
 import crosswords.flashcards.domain.annotateddictionary.WordListEntriesCombiner;
 
 /**
@@ -12,7 +13,7 @@ public class Main {
 
         Injector injector = Guice.createInjector(new GuiceModule());
 
-        WordListEntriesCombiner wordListEntriesCombiner = injector.getInstance(WordListEntriesCombiner.class);
-        wordListEntriesCombiner.loadFilesAndInvokeCombination();
+        ThreadDelegator threadDelegator = injector.getInstance(ThreadDelegator.class);
+        threadDelegator.delegate();
     }
 }

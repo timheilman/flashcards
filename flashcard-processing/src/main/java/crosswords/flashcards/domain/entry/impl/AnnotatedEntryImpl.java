@@ -27,6 +27,7 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     // todo: add sowpods?
     // todo: study at home to be able to regenerate decks quickly!
     // todo: make cloze cards for inflection categories
+    // todo: complete otcwl2014-3LW and add otcwl2014-4LW from http://www.seattlescrabble.org/owl3.php#NewThrees
 
     public AnnotatedEntryImpl(@Enable1 Set<String> e,
                               @WordsWithFriends4 Set<String> w,

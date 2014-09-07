@@ -4,6 +4,8 @@ import com.google.inject.AbstractModule;
 import com.google.inject.TypeLiteral;
 import com.google.inject.assistedinject.FactoryModuleBuilder;
 import crosswords.flashcards.domain.*;
+import crosswords.flashcards.domain.annotateddictionary.ThreadDelegator;
+import crosswords.flashcards.domain.annotateddictionary.WordListEntriesCombiner;
 import crosswords.flashcards.domain.entry.impl.AnnotatedEntryImpl;
 import crosswords.flashcards.domain.entry.impl.AnnotatedInflectionEntryImpl;
 import crosswords.flashcards.domain.entry.impl.EntryImpl;
@@ -15,9 +17,12 @@ import crosswords.flashcards.factories.bindingannotations.*;
 import crosswords.flashcards.io.SowpodsFileToDomainObjectMapper;
 import crosswords.flashcards.io.WordlistUnionTaker;
 
+import javax.inject.Singleton;
 import java.io.Writer;
 import java.lang.annotation.Annotation;
 import java.util.*;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 /**
  * Created by tim on 8/24/14.
@@ -42,11 +47,16 @@ public class GuiceModule extends AbstractModule {
                 .implement(AnnotatedInflectionEntry.class, AnnotatedInflectionEntryImpl.class)
                 .build(AnnotatedEntryFactory.class));
         install(factoryModuleBuilder
-                .implement(new TypeLiteral<Map<String, Entry>>(){}, new TypeLiteral<HashMap<String, Entry>>(){})
+                .implement(new TypeLiteral<Map<String, Entry>>() {
+                }, new TypeLiteral<HashMap<String, Entry>>() {
+                })
                 .build(DictionaryFactory.class));
         install(factoryModuleBuilder
-                .implement(new TypeLiteral<SortedSet<String>>(){}, new TypeLiteral<TreeSet<String>>(){})
-                .build(StringSortedSetFactory.class));
+                .implement(WordListEntriesCombiner.class, WordListEntriesCombiner.class)
+                .build(WordListEntriesCombinerFactory.class));
+
+        bind(new TypeLiteral<SortedMap<String, AnnotatedEntry>>(){}).annotatedWith(UnionNonSowpods.class).toInstance(new TreeMap<String, AnnotatedEntry>());
+        bind(ExecutorService.class).toInstance(Executors.newFixedThreadPool(ThreadDelegator.THREAD_POOL_SIZE));
 
         installWordList(Enable1.class, "../wordlists/enable1.txt");
         installWordList(WordsWithFriends4.class, "../wordlists/greenworm_dot_net_wwf_v4point0.txt");
@@ -63,17 +73,17 @@ public class GuiceModule extends AbstractModule {
 
     private void installOutputWriter(String filename) {
         bindConstant().annotatedWith(OutputFileName.class).to(filename);
-        bind(Writer.class).toProvider(BufferedFileWriterFactory.class);
+        bind(Writer.class).toProvider(BufferedFileWriterFactory.class).in(Singleton.class);
     }
 
     private void installUnionWordList() {
-        bind(new TypeLiteral<SortedSet<String>>(){}).annotatedWith(UnionNonSowpods.class).toProvider(WordlistUnionTaker.class);
+        bind(new TypeLiteral<Iterator<String>>(){}).annotatedWith(UnionNonSowpods.class).toProvider(WordlistUnionTaker.class).in(Singleton.class);
     }
 
     private void installDictionary(String filename) {
         bindConstant().annotatedWith(SowpodsDictionaryFileName.class).to(filename);
         bind(new TypeLiteral<Map<String, Entry>>() {
-        }).toProvider(SowpodsFileToDomainObjectMapper.class);
+        }).toProvider(SowpodsFileToDomainObjectMapper.class).in(Singleton.class);
     }
 
     private void installWordList(final Class<? extends Annotation> annotationClass, final String fileName) {

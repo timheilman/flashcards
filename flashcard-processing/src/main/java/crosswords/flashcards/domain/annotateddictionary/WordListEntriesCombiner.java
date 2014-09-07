@@ -1,68 +1,74 @@
 package crosswords.flashcards.domain.annotateddictionary;
 
 import com.google.inject.Inject;
+import crosswords.flashcards.domain.AnnotatedEntry;
 import crosswords.flashcards.domain.Entry;
 import crosswords.flashcards.factories.AnnotatedEntryFactory;
 import crosswords.flashcards.factories.EntryFactory;
 import crosswords.flashcards.factories.bindingannotations.*;
 
 import java.io.IOException;
-import java.io.Writer;
+import java.util.Iterator;
 import java.util.Map;
-import java.util.Set;
+import java.util.SortedMap;
 import java.util.SortedSet;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Created by tim on 8/25/14.
  */
-public class WordListEntriesCombiner {
+public class WordListEntriesCombiner implements Runnable {
     private final AnnotatedEntryFactory annotatedEntryFactory;
     private final EntryFactory entryFactory;
     private final Map<String, Entry> sowpodsEntryWordOrInflectionToEntry;
-    private final Set<String> unionNonSowpods;
-    private final Writer writer;
+    private final Iterator<String> nonThreadSafeIteratorForUnionNonSowpods;
+    private final SortedMap<String, AnnotatedEntry> outputDictionary;
+    private static final AtomicInteger recordsProcessed = new AtomicInteger(0);
 
     @Inject
     public WordListEntriesCombiner(Map<String, Entry> sowpodsEntryWordOrInflectionToEntry,
                                    AnnotatedEntryFactory annotatedEntryFactory,
                                    EntryFactory entryFactory,
-                                   @UnionNonSowpods SortedSet<String> unionNonSowpods,
-                                   Writer writer) {
+                                   @UnionNonSowpods Iterator<String> nonThreadSafeIteratorForUnionNonSowpods,
+                                   @UnionNonSowpods SortedMap<String, AnnotatedEntry> outputDictionary) {
         this.sowpodsEntryWordOrInflectionToEntry = sowpodsEntryWordOrInflectionToEntry;
         this.annotatedEntryFactory = annotatedEntryFactory;
         this.entryFactory = entryFactory;
-        this.unionNonSowpods = unionNonSowpods;
-        this.writer = writer;
+        this.nonThreadSafeIteratorForUnionNonSowpods = nonThreadSafeIteratorForUnionNonSowpods;
+        this.outputDictionary = outputDictionary;
     }
 
-    public void loadFilesAndInvokeCombination() {
-        try {
-            int i = 0;
-            for (String word : unionNonSowpods) {
-                if (word.length() > 15) continue;
-                Entry entry = sowpodsEntryWordOrInflectionToEntry.get(word);
-                if (entry == null) {
-                    entry = entryFactory.create(word, null, null, null);
+    public void pullFromIteratorAndOutputToTreeSet() {
+        while (true) {
+            String word;
+            synchronized (nonThreadSafeIteratorForUnionNonSowpods) {
+                if (!nonThreadSafeIteratorForUnionNonSowpods.hasNext()) {
+                    return;
                 }
-                String toPrint;
-                if (word.equals(entry.getEntryWord())) {
-                    toPrint = annotatedEntryFactory.createForEntryWord(entry).formatForPrinting();
-                } else {
-                    toPrint = annotatedEntryFactory.createForInflection(word, entry).formatForPrinting();
-                }
-                writer.write(toPrint + "\n");
-                if (++i % 10000 == 0) {
-                    System.out.println("Processed " + i + " records.");
+                word = nonThreadSafeIteratorForUnionNonSowpods.next();
+                if (recordsProcessed.addAndGet(1) % 10000 == 0) {
+                    System.out.println("Thread " + Thread.currentThread().getName() + " has processed the " + recordsProcessed.get() + "th record.");
                 }
             }
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        } finally {
-            try {
-                if (writer != null) writer.close();
-            } catch (IOException ex) {
-                ex.printStackTrace();
+            if (word.length() > 15) continue;
+            Entry entry = sowpodsEntryWordOrInflectionToEntry.get(word);
+            if (entry == null) {
+                entry = entryFactory.create(word, null, null, null);
+            }
+            AnnotatedEntry annotatedEntry;
+            if (word.equals(entry.getEntryWord())) {
+                annotatedEntry = annotatedEntryFactory.createForEntryWord(entry);
+            } else {
+                annotatedEntry = annotatedEntryFactory.createForInflection(word, entry);
+            }
+            synchronized (nonThreadSafeIteratorForUnionNonSowpods) {
+                outputDictionary.put(word, annotatedEntry);
             }
         }
+    }
+
+    @Override
+    public void run() {
+        pullFromIteratorAndOutputToTreeSet();
     }
 }
