@@ -26,6 +26,7 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     // todo: add sowpods?
     // todo: study at home to be able to regenerate decks quickly!
     // todo: make cloze cards for inflection categories
+    // todo: add new otcwl2014 JQXZ4-5
 
     public AnnotatedEntryImpl(@Enable1 Set<String> e,
                               @WordsWithFriends4 Set<String> w,
