@@ -14,8 +14,6 @@ amazing
 annexe
 apollo
 arenous
-armed
-arming
 arty
 baas
 bans
@@ -159,3 +157,4 @@ wive
 wost
 wych
 bedizen
+bedder
