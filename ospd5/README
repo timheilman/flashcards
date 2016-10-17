@@ -1,3 +1,0 @@
-This directory contains code to reverse-engineer a binary file to
-extract what I initially thought was the ospd5 dictionary, but which I
-later realized was in fact a sowpods dictionary.

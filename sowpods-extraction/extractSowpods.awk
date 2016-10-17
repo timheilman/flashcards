@@ -2,7 +2,7 @@
 # tr because awk doesn't handle 0x00 in input well
 # first sed handles pure-ASCII markup for italics replacement with _underscores_
 # second sed handles pure-ASCII markup for bold replacement with *asterisks*
-# cat ospd_orig_cropped.dat | LC_CTYPE=C tr '\000' '\001' | awk -f cleanseOspd.awk | sed 's/`i\([^`]*\)`n/_\1_/g' | sed 's/`b\([^`]*\)`n/*\1*/g' | sort > ./ospd5.txt
+# cat sowpods_orig_cropped.dat | LC_CTYPE=C tr '\000' '\001' | awk -f extractSowpods.awk | sed 's/`i\([^`]*\)`n/_\1_/g' | sed 's/`b\([^`]*\)`n/*\1*/g' | sort > ./sowpods.txt
 
 {
 	# replace unicode (?) apostrophes 0xE28099 that show up in entry definitions with 0x27 AKA \047 aka '
