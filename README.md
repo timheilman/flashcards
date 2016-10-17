@@ -1,3 +1,4 @@
-# flashcards
+# scrabble-flashcards
 
-Poorly named repo: these flashcards are specifically for use to memorize lists of words for use in crossword games like Scrabble and Words with Friends. 
+Code and data to generate flashcards to learn words and definitions
+for fun and crossword games like Scrabble and Words with Friends.
