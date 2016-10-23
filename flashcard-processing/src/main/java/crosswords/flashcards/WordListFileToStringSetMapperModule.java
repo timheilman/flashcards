@@ -8,9 +8,6 @@ import javax.inject.Singleton;
 import java.lang.annotation.Annotation;
 import java.util.Set;
 
-/**
- * Copyright NWEA
- */
 public abstract class WordListFileToStringSetMapperModule extends PrivateModule {
     private final Class<? extends Annotation> annotation;
 
