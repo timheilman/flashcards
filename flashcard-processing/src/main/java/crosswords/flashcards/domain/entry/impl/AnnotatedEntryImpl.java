@@ -9,16 +9,14 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class AnnotatedEntryImpl implements AnnotatedEntry {
+    public static final int MAX_LENGTH_OF_KNOWN_OTCWL2014_MEMBERSHIP = 8;
     protected String entryWord;
     protected final Entry entry;
     protected final Set<String> enable1;
     protected final Set<String> wwf4;
     protected final Set<String> o2;
-    protected final Set<String> o3_2_to_4;
+    protected final Set<String> o3_2_to_8;
 
     @Inject
     // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
@@ -26,17 +24,16 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     // todo: add sowpods?
     // todo: study at home to be able to regenerate decks quickly!
     // todo: make cloze cards for inflection categories
-    // todo: add new otcwl2014 JQXZ4-5
 
     public AnnotatedEntryImpl(@Enable1 Set<String> e,
                               @WordsWithFriends4 Set<String> w,
                               @Otcwl2 Set<String> o2,
-                              @Otcwl2014TwoToFourLetterWords Set<String> o3_2_to_4,
+                              @Otcwl2014TwoToEightLetterWords Set<String> o3_2_to_8,
                               @Assisted Entry entry) {
         enable1 = e;
         wwf4 = w;
         this.o2 = o2;
-        this.o3_2_to_4 = o3_2_to_4;
+        this.o3_2_to_8 = o3_2_to_8;
         this.entryWord = entry.getEntryWord();
         this.entry = entry;
     }
@@ -61,8 +58,8 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
             potentiallyUnknownMembershipFlags.append(String.format(" +%so2 +%so3", prefix, prefix));
         } else {
             potentiallyUnknownMembershipFlags.append(String.format(" -%so2", prefix));
-            if (perhapsMember.length() >= 2 && perhapsMember.length() <= 4) {
-                potentiallyUnknownMembershipFlags.append(String.format(" %s%so3", o3_2_to_4.contains(perhapsMember) ? "+" : "-",  prefix));
+            if (perhapsMember.length() >= 2 && perhapsMember.length() <= MAX_LENGTH_OF_KNOWN_OTCWL2014_MEMBERSHIP) {
+                potentiallyUnknownMembershipFlags.append(String.format(" %s%so3", o3_2_to_8.contains(perhapsMember) ? "+" : "-",  prefix));
             }
         }
         return String.format("%s%se1 %s%sw4%s",
@@ -82,7 +79,7 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
         for (Inflection inflection : inflections) {
             String completeInflection = inflection.getCompleteInflection();
             // INFLECTION INCLUSION DECISION:
-            if (o2.contains(completeInflection) || o3_2_to_4.contains(completeInflection)) {
+            if (o2.contains(completeInflection) || o3_2_to_8.contains(completeInflection)) {
                 if (stringBuilder.length() != 0) {
                     stringBuilder.append(", ");
                 }

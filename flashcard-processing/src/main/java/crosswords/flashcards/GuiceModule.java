@@ -61,7 +61,7 @@ public class GuiceModule extends AbstractModule {
         installWordList(Enable1.class, "../wordlists/enable1.txt");
         installWordList(WordsWithFriends4.class, "../wordlists/greenworm_dot_net_wwf_v4point0.txt");
         installWordList(Otcwl2.class, "../wordlists/otcwl2.txt");
-        installWordList(Otcwl2014TwoToFourLetterWords.class, "../wordlists/otcwl2014_2-4LW.txt");
+        installWordList(Otcwl2014TwoToEightLetterWords.class, "../wordlists/otcwl2014_2-8LW.txt");
         installUnionWordList();
 
         installDictionary("../dictionaries/sowpods_with_my_edits.txt");
