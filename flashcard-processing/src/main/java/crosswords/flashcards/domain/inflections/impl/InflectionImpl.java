@@ -14,11 +14,6 @@ public class InflectionImpl implements Inflection {
     private final String completeInflection;
     protected InflectionCategory inflectionCategory;
 
-    /**
-     *
-     * @param entryWord
-     * @param completeInflection
-     */
     @Inject
     public InflectionImpl(InflectionCategorizer inflectionCategorizer,
                           @Assisted(value = "entryWord") String entryWord,

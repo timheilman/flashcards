@@ -193,12 +193,6 @@ public class InflectionCategorizer {
             "G"
     );
 
-    /**
-     * For use on complete inflections; heuristic.
-     *
-     * @param inflection
-     * @return
-     */
     public InflectionCategory categorize(Inflection inflection) {
         String completeInflection = inflection.getCompleteInflection();
         String entryWord = inflection.getEntryWord();
@@ -231,12 +225,6 @@ public class InflectionCategorizer {
         return InflectionCategory.ALTERNATE_SPELLING;
     }
 
-    /**
-     * For use if it was a suffix inflection.
-     *
-     * @param suffix
-     * @return
-     */
     public InflectionCategory categorize(String suffix) {
         if (false
                 || "S".equals(suffix)

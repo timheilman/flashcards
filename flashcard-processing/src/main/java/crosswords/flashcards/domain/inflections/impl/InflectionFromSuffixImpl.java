@@ -7,11 +7,6 @@ import crosswords.flashcards.domain.InflectionCategory;
 import crosswords.flashcards.domain.inflections.InflectionCategorizer;
 
 public class InflectionFromSuffixImpl extends InflectionImpl implements InflectionFromSuffix {
-    /**
-     * @param entryWord
-     * @param suffixWithoutHyphen
-     * @param completeInflection
-     */
     @Inject
     public InflectionFromSuffixImpl(InflectionCategorizer inflectionCategorizer,
                                     @Assisted(value = "entryWord") String entryWord,
