@@ -1,7 +1,13 @@
 #!/bin/bash
 ORIG_FILE=$1
 NEWS_FILE=$2
+if [ -z "$NEWS_FILE" ]; then
+    NEWS_FILE=emptyfile
+fi
 OLDS_FILE=$3
+if [ -z "$OLDS_FILE" ]; then
+    OLDS_FILE=emptyfile
+fi
 
 for wordLength in {1..15}; do
     regexp="^";
