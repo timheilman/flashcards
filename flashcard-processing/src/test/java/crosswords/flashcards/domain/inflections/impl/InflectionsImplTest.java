@@ -9,9 +9,6 @@ import org.mockito.Mock;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.MockitoAnnotations.initMocks;
 
-/**
- * Created by tim on 8/24/14.
- */
 public class InflectionsImplTest {
     private Inflections inflectionsSut;
     @Mock

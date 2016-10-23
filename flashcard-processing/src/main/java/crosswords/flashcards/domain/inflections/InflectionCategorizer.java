@@ -8,9 +8,6 @@ import java.util.List;
 
 import static crosswords.flashcards.domain.InflectionCategory.*;
 
-/**
- * Created by tim on 8/24/14.
- */
 public class InflectionCategorizer {
 
     private final static List<String> descendingLengthSuffixes = Arrays.asList("LESSNESSES",

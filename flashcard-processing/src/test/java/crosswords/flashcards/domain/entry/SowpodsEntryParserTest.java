@@ -16,9 +16,6 @@ import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 import static org.mockito.MockitoAnnotations.initMocks;
 
-/**
- * Created by tim on 8/24/14.
- */
 public class SowpodsEntryParserTest {
     private SowpodsEntryParser sowpodsEntryParserSut;
     private static final String ENTRY_STRING_DUMMY =

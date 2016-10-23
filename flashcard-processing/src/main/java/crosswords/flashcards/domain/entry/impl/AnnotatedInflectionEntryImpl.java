@@ -10,9 +10,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class AnnotatedInflectionEntryImpl extends AnnotatedEntryImpl implements AnnotatedInflectionEntry {
     @Inject
     public AnnotatedInflectionEntryImpl(@Enable1 Set<String> e,

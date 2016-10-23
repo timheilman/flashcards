@@ -4,9 +4,6 @@ import com.google.inject.Inject;
 import crosswords.flashcards.domain.Inflection;
 import crosswords.flashcards.factories.InflectionFactory;
 
-/**
- * Created by tim on 8/23/14.
- */
 public class InflectionMakerFromEntryAndStringInAsterisks {
     private final InflectionFactory inflectionFactory;
 

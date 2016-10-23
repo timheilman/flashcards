@@ -8,9 +8,6 @@ import crosswords.flashcards.domain.Inflections;
 
 import javax.annotation.Nullable;
 
-/**
- * Created by tim on 8/24/14.
- */
 public class EntryImpl implements Entry {
     private final String entryWord;
     private final PartOfSpeech partOfSpeech;

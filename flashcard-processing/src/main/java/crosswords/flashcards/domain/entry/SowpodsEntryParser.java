@@ -10,9 +10,6 @@ import crosswords.flashcards.domain.inflections.InflectionsFieldFromSowpodsEntry
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by tim on 8/24/14.
- */
 public class SowpodsEntryParser {
     private static final Pattern startsWithPos = Pattern.compile("^ _([^_]*)_");
     private static final Pattern startsWithInflections = Pattern.compile("^ (\\*[-A-Z, *]*\\*)");

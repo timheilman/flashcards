@@ -16,9 +16,6 @@ import static org.mockito.Mockito.verifyNoMoreInteractions;
 import static org.mockito.Mockito.when;
 import static org.mockito.MockitoAnnotations.initMocks;
 
-/**
- * Created by tim on 8/23/14.
- */
 public class InflectionMakerFromEntryAndStringInAsterisksTest {
     public static final String ENTRY_WORD_DUMMY = "PYGMY";
     public static final String SUFFIX_DUMMY_WITH_HYPHEN_DUMMY = "-ISM";

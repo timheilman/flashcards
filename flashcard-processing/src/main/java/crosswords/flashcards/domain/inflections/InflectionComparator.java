@@ -3,9 +3,6 @@ package crosswords.flashcards.domain.inflections;
 import crosswords.flashcards.domain.Inflection;
 import crosswords.flashcards.domain.InflectionCategory;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class InflectionComparator implements java.util.Comparator<Inflection> {
 
     @Override

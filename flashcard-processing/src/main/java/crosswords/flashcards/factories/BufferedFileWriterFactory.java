@@ -8,9 +8,6 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-/**
- * Created by tim on 9/6/14.
- */
 public class BufferedFileWriterFactory implements Provider<BufferedWriter> {
 
     private final String filename;

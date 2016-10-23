@@ -13,9 +13,6 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.SortedSet;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class WordListFileToStringSetMapper implements Provider<Set<String>> {
     private final BufferedReaderFactory bufferedReaderFactory;
     private final FileReaderFactory fileReaderFactory;

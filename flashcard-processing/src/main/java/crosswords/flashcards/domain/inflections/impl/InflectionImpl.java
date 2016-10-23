@@ -8,9 +8,6 @@ import crosswords.flashcards.domain.inflections.InflectionCategorizer;
 
 import javax.inject.Inject;
 
-/**
- * Created by tim on 8/24/14.
- */
 public class InflectionImpl implements Inflection {
     protected final InflectionCategorizer inflectionCategorizer;
     private final String entryWord;

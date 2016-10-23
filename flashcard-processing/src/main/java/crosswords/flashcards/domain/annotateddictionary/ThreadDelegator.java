@@ -12,9 +12,6 @@ import java.util.SortedSet;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by tim on 9/7/14.
- */
 public class ThreadDelegator {
     public static final int THREAD_POOL_SIZE = 8;
     private final Writer writer;

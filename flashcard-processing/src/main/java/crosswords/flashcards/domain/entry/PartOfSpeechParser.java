@@ -5,9 +5,6 @@ import crosswords.flashcards.domain.PartOfSpeech;
 import java.util.HashMap;
 
 import static crosswords.flashcards.domain.PartOfSpeech.*;
-/**
- * Created by tim on 8/25/14.
- */
 public class PartOfSpeechParser {
     private final HashMap<String, PartOfSpeech> mapping;
 

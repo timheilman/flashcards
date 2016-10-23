@@ -7,9 +7,6 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Matchers.any;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class PartOfSpeechParserTest {
     private PartOfSpeechParser partOfSpeechParserSut;
     private static final String PART_OF_SPEECH_STRING_DUMMY = "vb";

@@ -15,9 +15,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.Map;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class SowpodsFileToDomainObjectMapper implements Provider<Map<String, Entry>> {
 
     private final SowpodsEntryParser sowpodsEntryParser;

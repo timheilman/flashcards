@@ -6,9 +6,6 @@ import crosswords.flashcards.domain.InflectionFromSuffix;
 import crosswords.flashcards.domain.InflectionCategory;
 import crosswords.flashcards.domain.inflections.InflectionCategorizer;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class InflectionFromSuffixImpl extends InflectionImpl implements InflectionFromSuffix {
     /**
      * @param entryWord

@@ -1,8 +1,5 @@
 package crosswords.flashcards.domain;
 
-/**
- * Created by tim on 8/24/14.
- */
 public enum InflectionCategory {
     UNUSED,
     // Box 1: S, ED, ING, and co

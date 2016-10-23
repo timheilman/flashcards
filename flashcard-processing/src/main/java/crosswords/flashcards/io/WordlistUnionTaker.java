@@ -7,9 +7,6 @@ import javax.inject.Inject;
 import javax.inject.Provider;
 import java.util.*;
 
-/**
- * Created by tim on 9/6/14.
- */
 public class WordlistUnionTaker implements Provider<Iterator<String>> {
 
     private final SortedSet<String> unionNonSowpods = new TreeSet<String>();

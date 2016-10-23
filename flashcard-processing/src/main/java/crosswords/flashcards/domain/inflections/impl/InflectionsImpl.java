@@ -7,9 +7,6 @@ import crosswords.flashcards.domain.inflections.InflectionComparator;
 
 import java.util.TreeSet;
 
-/**
- * Created by tim on 8/24/14.
- */
 public class InflectionsImpl extends TreeSet<Inflection> implements Inflections {
 
 

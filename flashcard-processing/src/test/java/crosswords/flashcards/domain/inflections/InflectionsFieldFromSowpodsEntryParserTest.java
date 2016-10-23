@@ -13,9 +13,6 @@ import java.util.*;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.*;
 
-/**
- * Created by tim on 8/23/14.
- */
 public class InflectionsFieldFromSowpodsEntryParserTest {
 
     public static final String ENTRY_WORD_DUMMY = "PYGMY";

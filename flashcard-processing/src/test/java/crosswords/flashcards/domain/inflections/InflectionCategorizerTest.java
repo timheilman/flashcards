@@ -10,9 +10,6 @@ import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
 import static org.mockito.MockitoAnnotations.initMocks;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class InflectionCategorizerTest {
     public static final String SUFFIX_DUMMY = "ISM";
 

@@ -14,9 +14,6 @@ import java.util.SortedMap;
 import java.util.SortedSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by tim on 8/25/14.
- */
 public class WordListEntriesCombiner implements Runnable {
     private final AnnotatedEntryFactory annotatedEntryFactory;
     private final EntryFactory entryFactory;

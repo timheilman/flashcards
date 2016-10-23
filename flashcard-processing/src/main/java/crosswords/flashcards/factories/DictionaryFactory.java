@@ -5,9 +5,6 @@ import crosswords.flashcards.domain.Entry;
 
 import java.util.Map;
 
-/**
- * Created by tim on 8/25/14.
- */
 public interface DictionaryFactory {
     Map<String, Entry> createDictionary();
 }

@@ -24,9 +24,6 @@ import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * Created by tim on 8/24/14.
- */
 public class GuiceModule extends AbstractModule {
     @Override
     protected void configure() {
