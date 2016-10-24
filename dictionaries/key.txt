@@ -1,18 +1,15 @@
 The set of all entry words is equal to the union of all
-15-letter-or-shorter words in enable1, wwf4, otcwl2, all two letter
-additions to otcwl2 in otcwl2014, and all three-from-two additions to
-otcwl2 in otcwl2014, per
-http://www.scrabbleplayers.org/w/Official_Tournament_and_Club_Word_List
+15-letter-or-shorter words in enable1, wwf4, otcwl2, and all
+2-through-8 letter words in otcwl2014, errata corrected.
 
-Every inflection in a definition is in union(otcwl2, otcwl2014-2LW,
-otcwl2014-3F2), and all inflections in definitions in the SOWPODS
-dictionary which are in that union appear in the corresponding
-definitions here.
+Every inflection in a definition is in union(otcwl2, otcwl2014-2-8LW),
+and all inflections in definitions in the SOWPODS dictionary which are
+in that union appear in the corresponding definitions here.
 
 [+|-]e1: does or doesn't appear in enable1
 [+|-]w4: does or doesn't appear in words with friends (tm) version 4
 [+|-]o2: does or doesn't appear in otcwl2
-[+|-]o3: does or doesn't appear in otcwl2014 (sometimes missing; no electronic copy yet)
+[+|-]o3: does or doesn't appear in otcwl2014 (missing for 9+-letter words)
 [+|-]r??: SOWPODS root for this SOWPODS inflection word does or doesn't appear in corresponding word list
 
 The below are parts of speech; both grep lines give the same result
