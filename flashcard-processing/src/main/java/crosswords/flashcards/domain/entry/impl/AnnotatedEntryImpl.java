@@ -24,6 +24,11 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     // todo: add sowpods?
     // todo: study at home to be able to regenerate decks quickly!
     // todo: make cloze cards for inflection categories
+    // todo: generate todos for elimination of long lists in code
+    // todo: test coverage in build system
+    // todo: log-scale file length histogram as part of pre-commit hooks? build?
+    // todo: make it easy to configure: I don't care about enable1 but I want sowpods in output
+    // todo: heuristic to include ABAMPS in sowpods_dict_words: check other whole-word inflections for the missing S
 
     public AnnotatedEntryImpl(@Enable1 Set<String> e,
                               @WordsWithFriends4 Set<String> w,
