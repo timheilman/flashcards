@@ -19,16 +19,16 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     protected final Set<String> o3_2_to_8;
 
     @Inject
-    // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
-    // todo: add long list?
-    // todo: add sowpods?
-    // todo: study at home to be able to regenerate decks quickly!
-    // todo: make cloze cards for inflection categories
-    // todo: generate todos for elimination of long lists in code
+    // todo: comb code for IDE warnings and eliminate them systematically: go all-green
     // todo: test coverage in build system
+    // todo: get test coverage to ~100%
     // todo: log-scale file length histogram as part of pre-commit hooks? build?
-    // todo: make it easy to configure: I don't care about enable1 but I want sowpods in output
-    // todo: heuristic to include ABAMPS in sowpods_dict_words: check other whole-word inflections for the missing S
+    // todo: eliminate long data lists in code
+    // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
+    // todo: feature-make it easy to configure: I don't care about enable1 but I want sowpods in output
+    // todo: feature-add sowpods
+    // todo: feature-make cloze cards for inflection categories
+    // todo: feature-heuristic to include ABAMPS in sowpods_dict_words: check other whole-word inflections for the missing S
 
     public AnnotatedEntryImpl(@Enable1 Set<String> e,
                               @WordsWithFriends4 Set<String> w,
