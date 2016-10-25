@@ -25,7 +25,6 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     private final Set<String> o3_2_to_8;
 
     @Inject
-    // todo: comb code for IDE warnings and eliminate them systematically: go all-green
     // todo: test coverage in build system
     // todo: get test coverage to ~100%
         // todo: get sowpods out of git; have build process start from binary
