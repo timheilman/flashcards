@@ -4,7 +4,10 @@ import com.google.inject.Inject;
 import com.google.inject.assistedinject.Assisted;
 import crosswords.flashcards.domain.AnnotatedInflectionEntry;
 import crosswords.flashcards.domain.Entry;
-import crosswords.flashcards.factories.bindingannotations.*;
+import crosswords.flashcards.factories.bindingannotations.Enable1;
+import crosswords.flashcards.factories.bindingannotations.Otcwl2;
+import crosswords.flashcards.factories.bindingannotations.Otcwl2014TwoToEightLetterWords;
+import crosswords.flashcards.factories.bindingannotations.WordsWithFriends4;
 
 import java.util.Arrays;
 import java.util.List;
@@ -23,7 +26,7 @@ public class AnnotatedInflectionEntryImpl extends AnnotatedEntryImpl implements 
     }
 
     @Override
-    public List<String> getBlocksToPrint() {
+    protected List<String> getBlocksToPrint() {
         return Arrays.asList(getMembershipBlock(entryWord, ""),
                 getMembershipBlock(entry.getEntryWord(), "r"),
                 entry.getEntryWord(),
@@ -32,7 +35,7 @@ public class AnnotatedInflectionEntryImpl extends AnnotatedEntryImpl implements 
     }
 
     @Override
-    public String getInflectionsBlock() {
+    protected String getInflectionsBlock() {
         // we want them simply to be gone:
         return null;
     }
