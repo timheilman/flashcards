@@ -26,14 +26,15 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
 
     @Inject
         // todo: get sowpods out of git; have build process start from binary
+        // todo: idea-reformat all java files
         // todo: pre-commit hook caps files at 500 lines
-    // todo: get test coverage to ~100%
+        // todo: get test coverage to ~100%
         // todo: starting from largest files to smallest, get all files well under 500 lines
-    // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
-    // todo: feature-make it easy to configure: I don't care about enable1 but I want sowpods in output
-    // todo: feature-add sowpods
-    // todo: feature-make cloze cards for inflection categories
-    // todo: feature-heuristic to include ABAMPS in sowpods_dict_words: check other whole-word inflections for the missing S
+        // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
+        // todo: feature-make it easy to configure: I don't care about enable1 but I want sowpods in output
+        // todo: feature-add sowpods
+        // todo: feature-make cloze cards for inflection categories
+        // todo: feature-heuristic to include ABAMPS in sowpods_dict_words: check other whole-word inflections for the missing S
     AnnotatedEntryImpl(@Enable1 Set<String> e,
                        @WordsWithFriends4 Set<String> w,
                        @Otcwl2 Set<String> o2,
@@ -67,7 +68,7 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
         } else {
             potentiallyUnknownMembershipFlags.append(String.format(" -%so2", prefix));
             if (perhapsMember.length() >= 2 && perhapsMember.length() <= MAX_LENGTH_OF_KNOWN_OTCWL2014_MEMBERSHIP) {
-                potentiallyUnknownMembershipFlags.append(String.format(" %s%so3", o3_2_to_8.contains(perhapsMember) ? "+" : "-",  prefix));
+                potentiallyUnknownMembershipFlags.append(String.format(" %s%so3", o3_2_to_8.contains(perhapsMember) ? "+" : "-", prefix));
             }
         }
         return String.format("%s%se1 %s%sw4%s",
