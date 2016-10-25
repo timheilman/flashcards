@@ -29,12 +29,13 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
         // todo: idea-reformat all java files
         // todo: pre-commit hook caps files at 500 lines and lines at 120 characters
         // todo: improve README.md for structure of the project
-        // todo: redo to remove 2_to_8 in the token naming domain; 8 ought to be an additional parameter w/default 15
         // todo: get all compiler and IDEA warnings cleared: run 100% green
         // todo: get test coverage to ~100%
+        // todo: eliminate null passings and returns
         // todo: starting from largest files to smallest, get all files well under 500 lines and 120 characters
         // todo: wrap APIs at boundaries (like Set<>s here) as best practice & for interface segregation principle;
         // todo: upgrade crosswords.flashcards.factories.bindingannotations.* to interfaces & bind normally
+        // todo: redo to remove 2_to_8 in the token naming domain; 8 ought to be an additional parameter w/default 15
         // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
         // todo: feature-make it easy to configure: I don't care about enable1 but I want sowpods in output
         // todo: feature-add sowpods
