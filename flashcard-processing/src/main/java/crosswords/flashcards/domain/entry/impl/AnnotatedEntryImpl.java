@@ -27,10 +27,10 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     @Inject
         // todo: get sowpods out of git; have build process start from binary
         // todo: idea-reformat all java files
-        // todo: pre-commit hook caps files at 500 lines
+        // todo: pre-commit hook caps files at 500 lines and lines at 120 characters
         // todo: get all compiler and IDEA warnings cleared: run 100% green
         // todo: get test coverage to ~100%
-        // todo: starting from largest files to smallest, get all files well under 500 lines
+        // todo: starting from largest files to smallest, get all files well under 500 lines and 120 characters
         // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
         // todo: feature-make it easy to configure: I don't care about enable1 but I want sowpods in output
         // todo: feature-add sowpods
