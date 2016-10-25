@@ -25,11 +25,10 @@ public class AnnotatedEntryImpl implements AnnotatedEntry {
     private final Set<String> o3_2_to_8;
 
     @Inject
-    // todo: test coverage in build system
-    // todo: get test coverage to ~100%
         // todo: get sowpods out of git; have build process start from binary
-    // todo: log-scale file length histogram as part of pre-commit hooks? build?
-    // todo: eliminate long data lists in code
+        // todo: pre-commit hook caps files at 500 lines
+    // todo: get test coverage to ~100%
+        // todo: starting from largest files to smallest, get all files well under 500 lines
     // todo: separate value objects from service objects; what's done in formatForPrinting should be done in a factory
     // todo: feature-make it easy to configure: I don't care about enable1 but I want sowpods in output
     // todo: feature-add sowpods
