@@ -7,21 +7,18 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;
 
-import static java.lang.Thread.sleep;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 import static org.mockito.Matchers.anyString;
-import static org.mockito.Mockito.verify;
-import static org.mockito.Mockito.verifyNoMoreInteractions;
-import static org.mockito.Mockito.when;
+import static org.mockito.Mockito.*;
 import static org.mockito.MockitoAnnotations.initMocks;
 
 public class InflectionMakerFromEntryAndStringInAsterisksTest {
-    public static final String ENTRY_WORD_DUMMY = "PYGMY";
-    public static final String SUFFIX_DUMMY_WITH_HYPHEN_DUMMY = "-ISM";
-    public static final String SUFFIX_DUMMY_WITHOUT_HYPHEN_DUMMY = "ISM";
-    public static final String ENTRY_WORD_WITH_SUFFIX_DUMMY = "PYGMYISM";
-    public static final String COMPLETE_DUMMY = "PYGMAEAN";
+    private static final String ENTRY_WORD_DUMMY = "PYGMY";
+    private static final String SUFFIX_DUMMY_WITH_HYPHEN_DUMMY = "-ISM";
+    private static final String SUFFIX_DUMMY_WITHOUT_HYPHEN_DUMMY = "ISM";
+    private static final String ENTRY_WORD_WITH_SUFFIX_DUMMY = "PYGMYISM";
+    private static final String COMPLETE_DUMMY = "PYGMAEAN";
     private InflectionMakerFromEntryAndStringInAsterisks inflectionMakerFromEntryAndStringInAsterisksSut;
 
     @Mock
@@ -60,7 +57,7 @@ public class InflectionMakerFromEntryAndStringInAsterisksTest {
     @Test
     public void testImaginedHyphenEdgeCase() {
         try {
-            Inflection actualInflection = inflectionMakerFromEntryAndStringInAsterisksSut.get(ENTRY_WORD_DUMMY, "-");
+            inflectionMakerFromEntryAndStringInAsterisksSut.get(ENTRY_WORD_DUMMY, "-");
         } catch (Throwable t) {
             return;
         }

@@ -1,7 +1,6 @@
 package crosswords.flashcards.domain;
 
 public enum InflectionCategory {
-    UNUSED,
     // Box 1: S, ED, ING, and co
     PLURALIZATION_AND_CONJUGATION_WITH_S,
     ED,

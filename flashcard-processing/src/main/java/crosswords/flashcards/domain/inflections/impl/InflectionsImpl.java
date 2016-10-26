@@ -11,7 +11,7 @@ public class InflectionsImpl extends TreeSet<Inflection> implements Inflections 
 
 
     @Inject
-    public InflectionsImpl(InflectionComparator inflectionComparator) {
+    InflectionsImpl(InflectionComparator inflectionComparator) {
         super(inflectionComparator);
     }
 

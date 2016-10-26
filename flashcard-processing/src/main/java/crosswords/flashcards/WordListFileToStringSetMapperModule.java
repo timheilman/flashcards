@@ -8,10 +8,10 @@ import javax.inject.Singleton;
 import java.lang.annotation.Annotation;
 import java.util.Set;
 
-public abstract class WordListFileToStringSetMapperModule extends PrivateModule {
+abstract class WordListFileToStringSetMapperModule extends PrivateModule {
     private final Class<? extends Annotation> annotation;
 
-    public WordListFileToStringSetMapperModule(Class<? extends Annotation> annotation) {
+    WordListFileToStringSetMapperModule(Class<? extends Annotation> annotation) {
         this.annotation = annotation;
     }
 

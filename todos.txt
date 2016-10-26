@@ -1,4 +1,5 @@
 todo: idea-reformat all java files
+todo: fix IDE warning in WordListFileToStringSetMapper
 todo: pre-commit hook caps files at 500 lines and lines at 120 characters
 todo: improve README.md for structure of the project
 todo: get all compiler and IDEA warnings cleared: run 100% green

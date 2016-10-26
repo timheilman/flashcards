@@ -1,7 +1,6 @@
 package crosswords.flashcards.domain;
 
 public enum PartOfSpeech {
-    UNUSED("this is an error; an unused part of speech was displayed"),
     ADJECTIVE("adj"),
     ADVERB("adv"),
     CONJUNCTION("conj"),

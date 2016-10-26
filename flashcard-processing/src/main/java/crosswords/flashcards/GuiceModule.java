@@ -24,7 +24,7 @@ import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class GuiceModule extends AbstractModule {
+class GuiceModule extends AbstractModule {
     @Override
     protected void configure() {
         FactoryModuleBuilder factoryModuleBuilder = new FactoryModuleBuilder();

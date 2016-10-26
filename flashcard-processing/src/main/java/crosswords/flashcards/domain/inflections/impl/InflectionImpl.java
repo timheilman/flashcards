@@ -9,15 +9,15 @@ import crosswords.flashcards.domain.inflections.InflectionCategorizer;
 import javax.inject.Inject;
 
 public class InflectionImpl implements Inflection {
-    protected final InflectionCategorizer inflectionCategorizer;
+    final InflectionCategorizer inflectionCategorizer;
     private final String entryWord;
     private final String completeInflection;
-    protected InflectionCategory inflectionCategory;
+    InflectionCategory inflectionCategory;
 
     @Inject
-    public InflectionImpl(InflectionCategorizer inflectionCategorizer,
-                          @Assisted(value = "entryWord") String entryWord,
-                          @Assisted(value = "completeInflection") String completeInflection) {
+    InflectionImpl(InflectionCategorizer inflectionCategorizer,
+                   @Assisted(value = "entryWord") String entryWord,
+                   @Assisted(value = "completeInflection") String completeInflection) {
         this.inflectionCategorizer = inflectionCategorizer;
         this.entryWord = entryWord;
         this.completeInflection = completeInflection;
@@ -31,7 +31,6 @@ public class InflectionImpl implements Inflection {
         return completeInflection;
     }
 
-    @Override
     public InflectionCategory getCategory() {
         if (this.inflectionCategory == null) {
             this.inflectionCategory = inflectionCategorizer.categorize(this);
@@ -39,12 +38,10 @@ public class InflectionImpl implements Inflection {
         return inflectionCategory;
     }
 
-    @Override
     public boolean wasSpecifiedWithSuffix() {
         return false;
     }
 
-    @Override
     public String getDisplayString() {
         return completeInflection;
     }
@@ -56,8 +53,7 @@ public class InflectionImpl implements Inflection {
 
         InflectionImpl inflection = (InflectionImpl) o;
 
-        if (!completeInflection.equals(inflection.completeInflection)) return false;
-        return entryWord.equals(inflection.entryWord);
+        return completeInflection.equals(inflection.completeInflection) && entryWord.equals(inflection.entryWord);
 
     }
 

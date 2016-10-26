@@ -3,8 +3,8 @@ package crosswords.flashcards.domain.entry.impl;
 import com.google.inject.Inject;
 import com.google.inject.assistedinject.Assisted;
 import crosswords.flashcards.domain.Entry;
-import crosswords.flashcards.domain.PartOfSpeech;
 import crosswords.flashcards.domain.Inflections;
+import crosswords.flashcards.domain.PartOfSpeech;
 
 import javax.annotation.Nullable;
 
@@ -48,12 +48,25 @@ public class EntryImpl implements Entry {
 
         EntryImpl entry = (EntryImpl) o;
 
-        if (definition != null ? !definition.equals(entry.definition) : entry.definition != null) return false;
-        if (!entryWord.equals(entry.entryWord)) return false;
-        if (partOfSpeech != entry.partOfSpeech) return false;
-        if (inflections != null ? !inflections.equals(entry.inflections) : entry.inflections != null) return false;
+        return entryEqual(entry) && entryWordEqual(entry)
+                && partOfSpeechEqual(entry) && inflectionsEqual(entry);
 
-        return true;
+    }
+
+    private boolean partOfSpeechEqual(EntryImpl entry) {
+        return partOfSpeech == entry.partOfSpeech;
+    }
+
+    private boolean entryWordEqual(EntryImpl entry) {
+        return entryWord.equals(entry.entryWord);
+    }
+
+    private boolean inflectionsEqual(EntryImpl entry) {
+        return inflections != null ? inflections.equals(entry.inflections) : entry.inflections == null;
+    }
+
+    private boolean entryEqual(EntryImpl entry) {
+        return definition != null ? definition.equals(entry.definition) : entry.definition == null;
     }
 
     @Override

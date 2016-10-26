@@ -4,11 +4,11 @@ import com.google.inject.Inject;
 import crosswords.flashcards.domain.Inflection;
 import crosswords.flashcards.factories.InflectionFactory;
 
-public class InflectionMakerFromEntryAndStringInAsterisks {
+class InflectionMakerFromEntryAndStringInAsterisks {
     private final InflectionFactory inflectionFactory;
 
     @Inject
-    public InflectionMakerFromEntryAndStringInAsterisks(InflectionFactory inflectionFactory) {
+    InflectionMakerFromEntryAndStringInAsterisks(InflectionFactory inflectionFactory) {
         this.inflectionFactory = inflectionFactory;
     }
 

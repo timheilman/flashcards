@@ -1,11 +1,17 @@
 package crosswords.flashcards.io;
 
 
-import crosswords.flashcards.factories.bindingannotations.*;
+import crosswords.flashcards.factories.bindingannotations.Enable1;
+import crosswords.flashcards.factories.bindingannotations.Otcwl2;
+import crosswords.flashcards.factories.bindingannotations.Otcwl2014TwoToEightLetterWords;
+import crosswords.flashcards.factories.bindingannotations.WordsWithFriends4;
 
 import javax.inject.Inject;
 import javax.inject.Provider;
-import java.util.*;
+import java.util.Iterator;
+import java.util.Set;
+import java.util.SortedSet;
+import java.util.TreeSet;
 
 public class WordlistUnionTaker implements Provider<Iterator<String>> {
 
@@ -22,7 +28,6 @@ public class WordlistUnionTaker implements Provider<Iterator<String>> {
         unionNonSowpods.addAll(otcwl2014_2_to_8lw);
     }
 
-    @Override
     public Iterator<String> get() {
         return unionNonSowpods.iterator();
     }

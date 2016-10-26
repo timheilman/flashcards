@@ -11,7 +11,7 @@ import static org.mockito.Mockito.when;
 import static org.mockito.MockitoAnnotations.initMocks;
 
 public class InflectionCategorizerTest {
-    public static final String SUFFIX_DUMMY = "ISM";
+    private static final String SUFFIX_DUMMY = "ISM";
 
 //    *PIGMY*, *PYGMAEAN*, *PYGMEAN*, *PYGMIES*, *-ISH*, *-ISM*, *-ISMS*
 

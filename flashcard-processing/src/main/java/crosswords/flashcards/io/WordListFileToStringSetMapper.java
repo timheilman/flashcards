@@ -3,7 +3,6 @@ package crosswords.flashcards.io;
 import com.google.inject.Inject;
 import crosswords.flashcards.factories.BufferedReaderFactory;
 import crosswords.flashcards.factories.FileReaderFactory;
-import crosswords.flashcards.factories.StringSortedSetFactory;
 import crosswords.flashcards.factories.bindingannotations.WordListFileName;
 
 import javax.inject.Provider;
@@ -11,7 +10,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.SortedSet;
 
 public class WordListFileToStringSetMapper implements Provider<Set<String>> {
     private final BufferedReaderFactory bufferedReaderFactory;
@@ -28,7 +26,7 @@ public class WordListFileToStringSetMapper implements Provider<Set<String>> {
         this.fileName = fileName;
     }
 
-    public Set<String> getPerformantSet(String fileName) {
+    private Set<String> getPerformantSet(String fileName) {
         return fillSet(fileName, output);
     }
 
@@ -55,7 +53,6 @@ public class WordListFileToStringSetMapper implements Provider<Set<String>> {
         return wordList;
     }
 
-    @Override
     public Set<String> get() {
         // because this Provider is bound in singleton scope, it must be thread-safe:
         synchronized (output) {

@@ -2,10 +2,10 @@ package crosswords.flashcards.domain.entry;
 
 import com.google.inject.Inject;
 import crosswords.flashcards.domain.Entry;
-import crosswords.flashcards.domain.PartOfSpeech;
 import crosswords.flashcards.domain.Inflections;
-import crosswords.flashcards.factories.EntryFactory;
+import crosswords.flashcards.domain.PartOfSpeech;
 import crosswords.flashcards.domain.inflections.InflectionsFieldFromSowpodsEntryParser;
+import crosswords.flashcards.factories.EntryFactory;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -20,9 +20,9 @@ public class SowpodsEntryParser {
     private final PartOfSpeechParser partOfSpeechParser;
 
     @Inject
-    public SowpodsEntryParser(EntryFactory entryFactory,
-                              InflectionsFieldFromSowpodsEntryParser inflectionsFieldFromSowpodsEntryParser,
-                              PartOfSpeechParser partOfSpeechParser) {
+    SowpodsEntryParser(EntryFactory entryFactory,
+                       InflectionsFieldFromSowpodsEntryParser inflectionsFieldFromSowpodsEntryParser,
+                       PartOfSpeechParser partOfSpeechParser) {
         this.entryFactory = entryFactory;
         this.inflectionsFieldFromSowpodsEntryParser = inflectionsFieldFromSowpodsEntryParser;
         this.partOfSpeechParser = partOfSpeechParser;

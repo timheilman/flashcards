@@ -9,8 +9,8 @@ public class InflectionsFieldFromSowpodsEntryParser {
     private final InflectionsFactory inflectionsFactory;
 
     @Inject
-    public InflectionsFieldFromSowpodsEntryParser(InflectionMakerFromEntryAndStringInAsterisks inflectionMakerFromEntryAndStringInAsterisks,
-                                                  InflectionsFactory inflectionsFactory) {
+    InflectionsFieldFromSowpodsEntryParser(InflectionMakerFromEntryAndStringInAsterisks inflectionMakerFromEntryAndStringInAsterisks,
+                                           InflectionsFactory inflectionsFactory) {
         this.inflectionMakerFromEntryAndStringInAsterisks = inflectionMakerFromEntryAndStringInAsterisks;
         this.inflectionsFactory = inflectionsFactory;
     }

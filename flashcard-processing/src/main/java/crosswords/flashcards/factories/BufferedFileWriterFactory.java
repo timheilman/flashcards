@@ -17,7 +17,6 @@ public class BufferedFileWriterFactory implements Provider<BufferedWriter> {
         this.filename = filename;
     }
 
-    @Override
     public BufferedWriter get() {
         try {
             return new BufferedWriter(new FileWriter(filename));

@@ -16,9 +16,9 @@ import static org.mockito.Mockito.*;
 
 public class InflectionsFieldFromSowpodsEntryParserTest {
 
-    public static final String ENTRY_WORD_DUMMY = "PYGMY";
-    public static final String INFLECTIONS_FIELD_DUMMY = "*PIGMY*, *PYGMAEAN*, *PYGMEAN*, *PYGMIES*, *-ISH*, *-ISM*, *-ISMS*";
-    public static final String INFLECTIONS_FIELD_DUMMY_LEADTRAIL_WHITESPACE = " *PIGMY*, *PYGMAEAN*, *PYGMEAN*, *PYGMIES*, *-ISH*, *-ISM*, *-ISMS* ";
+    private static final String ENTRY_WORD_DUMMY = "PYGMY";
+    private static final String INFLECTIONS_FIELD_DUMMY = "*PIGMY*, *PYGMAEAN*, *PYGMEAN*, *PYGMIES*, *-ISH*, *-ISM*, *-ISMS*";
+    private static final String INFLECTIONS_FIELD_DUMMY_LEADTRAIL_WHITESPACE = " *PIGMY*, *PYGMAEAN*, *PYGMEAN*, *PYGMIES*, *-ISH*, *-ISM*, *-ISMS* ";
 
     @Mock
     private InflectionMakerFromEntryAndStringInAsterisks inflectionMakerFromEntryAndStringInAsterisksMock;

@@ -5,7 +5,6 @@ import crosswords.flashcards.domain.InflectionCategory;
 
 public class InflectionComparator implements java.util.Comparator<Inflection> {
 
-    @Override
     public int compare(Inflection inflection, Inflection inflection2) {
         InflectionCategory inflectionCategory = inflection.getCategory();
         InflectionCategory inflectionCategory2 = inflection2.getCategory();

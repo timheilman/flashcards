@@ -481,7 +481,7 @@ public class InflectionCategorizer {
         private final String suffix;
         private final InflectionCategory inflectionCategory;
 
-        public SuffixAndCategory(String suffix, InflectionCategory inflectionCategory) {
+        SuffixAndCategory(String suffix, InflectionCategory inflectionCategory) {
             this.suffix = suffix;
             this.inflectionCategory = inflectionCategory;
         }

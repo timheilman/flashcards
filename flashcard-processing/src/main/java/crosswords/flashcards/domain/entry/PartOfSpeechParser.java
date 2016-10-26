@@ -6,10 +6,10 @@ import java.util.HashMap;
 
 import static crosswords.flashcards.domain.PartOfSpeech.*;
 
-public class PartOfSpeechParser {
+class PartOfSpeechParser {
     private final HashMap<String, PartOfSpeech> mapping;
 
-    public PartOfSpeechParser() {
+    PartOfSpeechParser() {
         mapping = new HashMap<String, PartOfSpeech>();
         mapping.put("adj", ADJECTIVE);
         mapping.put("adv", ADVERB);

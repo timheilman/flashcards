@@ -5,13 +5,11 @@ import crosswords.flashcards.domain.AnnotatedEntry;
 import crosswords.flashcards.domain.Entry;
 import crosswords.flashcards.factories.AnnotatedEntryFactory;
 import crosswords.flashcards.factories.EntryFactory;
-import crosswords.flashcards.factories.bindingannotations.*;
+import crosswords.flashcards.factories.bindingannotations.UnionNonSowpods;
 
-import java.io.IOException;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.SortedMap;
-import java.util.SortedSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class WordListEntriesCombiner implements Runnable {
@@ -35,7 +33,7 @@ public class WordListEntriesCombiner implements Runnable {
         this.outputDictionary = outputDictionary;
     }
 
-    public void pullFromIteratorAndOutputToTreeSet() {
+    private void pullFromIteratorAndOutputToTreeSet() {
         while (true) {
             String word;
             synchronized (nonThreadSafeIteratorForUnionNonSowpods) {
@@ -64,7 +62,6 @@ public class WordListEntriesCombiner implements Runnable {
         }
     }
 
-    @Override
     public void run() {
         pullFromIteratorAndOutputToTreeSet();
     }
