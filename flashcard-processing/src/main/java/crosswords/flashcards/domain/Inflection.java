@@ -1,10 +1,13 @@
 package crosswords.flashcards.domain;
 
 public interface Inflection {
-    public String getEntryWord();
-    public String getCompleteInflection();
-    public InflectionCategory getCategory();
-    public boolean wasSpecifiedWithSuffix();
+    String getEntryWord();
+
+    String getCompleteInflection();
+
+    InflectionCategory getCategory();
+
+    boolean wasSpecifiedWithSuffix();
 
     String getDisplayString();
 }

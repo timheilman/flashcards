@@ -5,10 +5,9 @@ import crosswords.flashcards.domain.AnnotatedEntry;
 import crosswords.flashcards.domain.AnnotatedInflectionEntry;
 import crosswords.flashcards.domain.Entry;
 
-import java.util.Set;
-
 public interface AnnotatedEntryFactory {
-    public AnnotatedEntry createForEntryWord(@Assisted Entry entry);
-    public AnnotatedInflectionEntry createForInflection(@Assisted String inflection,
-                                                        @Assisted Entry entry);
+    AnnotatedEntry createForEntryWord(@Assisted Entry entry);
+
+    AnnotatedInflectionEntry createForInflection(@Assisted String inflection,
+                                                 @Assisted Entry entry);
 }

@@ -45,7 +45,9 @@ public class InflectionImpl implements Inflection {
     }
 
     @Override
-    public  String getDisplayString() { return completeInflection; }
+    public String getDisplayString() {
+        return completeInflection;
+    }
 
     @Override
     public boolean equals(Object o) {
@@ -55,9 +57,8 @@ public class InflectionImpl implements Inflection {
         InflectionImpl inflection = (InflectionImpl) o;
 
         if (!completeInflection.equals(inflection.completeInflection)) return false;
-        if (!entryWord.equals(inflection.entryWord)) return false;
+        return entryWord.equals(inflection.entryWord);
 
-        return true;
     }
 
     @Override

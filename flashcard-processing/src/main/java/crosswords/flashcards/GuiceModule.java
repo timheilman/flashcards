@@ -52,7 +52,8 @@ public class GuiceModule extends AbstractModule {
                 .implement(WordListEntriesCombiner.class, WordListEntriesCombiner.class)
                 .build(WordListEntriesCombinerFactory.class));
 
-        bind(new TypeLiteral<SortedMap<String, AnnotatedEntry>>(){}).annotatedWith(UnionNonSowpods.class).toInstance(new TreeMap<String, AnnotatedEntry>());
+        bind(new TypeLiteral<SortedMap<String, AnnotatedEntry>>() {
+        }).annotatedWith(UnionNonSowpods.class).toInstance(new TreeMap<String, AnnotatedEntry>());
         bind(ExecutorService.class).toInstance(Executors.newFixedThreadPool(ThreadDelegator.THREAD_POOL_SIZE));
 
         installWordList(Enable1.class, "../wordlists/enable1.txt");
@@ -73,7 +74,8 @@ public class GuiceModule extends AbstractModule {
     }
 
     private void installUnionWordList() {
-        bind(new TypeLiteral<Iterator<String>>(){}).annotatedWith(UnionNonSowpods.class).toProvider(WordlistUnionTaker.class).in(Singleton.class);
+        bind(new TypeLiteral<Iterator<String>>() {
+        }).annotatedWith(UnionNonSowpods.class).toProvider(WordlistUnionTaker.class).in(Singleton.class);
     }
 
     private void installDictionary(String filename) {

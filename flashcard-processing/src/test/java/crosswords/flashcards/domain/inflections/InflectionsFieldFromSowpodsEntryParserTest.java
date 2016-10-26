@@ -8,7 +8,8 @@ import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.*;
@@ -69,7 +70,7 @@ public class InflectionsFieldFromSowpodsEntryParserTest {
 
     private List<Inflection> makeExpectedInflectionDummies() {
         List<Inflection> expectedInflectionDummies = new ArrayList<Inflection>();
-        for (int i = 0; i<7; ++i) {
+        for (int i = 0; i < 7; ++i) {
             Inflection inflectionDummy = mock(Inflection.class);
             expectedInflectionDummies.add(inflectionDummy);
         }

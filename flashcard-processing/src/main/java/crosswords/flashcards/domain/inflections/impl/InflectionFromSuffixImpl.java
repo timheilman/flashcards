@@ -2,8 +2,8 @@ package crosswords.flashcards.domain.inflections.impl;
 
 import com.google.inject.Inject;
 import com.google.inject.assistedinject.Assisted;
-import crosswords.flashcards.domain.InflectionFromSuffix;
 import crosswords.flashcards.domain.InflectionCategory;
+import crosswords.flashcards.domain.InflectionFromSuffix;
 import crosswords.flashcards.domain.inflections.InflectionCategorizer;
 
 public class InflectionFromSuffixImpl extends InflectionImpl implements InflectionFromSuffix {
@@ -36,7 +36,9 @@ public class InflectionFromSuffixImpl extends InflectionImpl implements Inflecti
     }
 
     @Override
-    public  String getDisplayString() { return "-" + suffixWithoutHyphen; }
+    public String getDisplayString() {
+        return "-" + suffixWithoutHyphen;
+    }
 
     @Override
     public boolean equals(Object o) {
@@ -46,9 +48,8 @@ public class InflectionFromSuffixImpl extends InflectionImpl implements Inflecti
 
         InflectionFromSuffixImpl that = (InflectionFromSuffixImpl) o;
 
-        if (!suffixWithoutHyphen.equals(that.suffixWithoutHyphen)) return false;
+        return suffixWithoutHyphen.equals(that.suffixWithoutHyphen);
 
-        return true;
     }
 
     @Override

@@ -17,7 +17,8 @@ public abstract class WordListFileToStringSetMapperModule extends PrivateModule 
 
     @Override
     protected void configure() {
-        TypeLiteral<Set<String>> typeLiteral = new TypeLiteral<Set<String>>(){};
+        TypeLiteral<Set<String>> typeLiteral = new TypeLiteral<Set<String>>() {
+        };
         bind(typeLiteral).annotatedWith(annotation).toProvider(WordListFileToStringSetMapper.class).in(Singleton.class);
         expose(typeLiteral).annotatedWith(annotation);
 

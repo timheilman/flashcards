@@ -6,9 +6,9 @@ import crosswords.flashcards.domain.InflectionFromSuffix;
 
 public interface InflectionFactory {
     InflectionFromSuffix create(@Assisted(value = "entryWord") String entryWord,
-                @Assisted(value = "suffixWithoutHyphen") String suffixWithoutHyphen,
-                @Assisted(value = "completeInflection") String completeInflection);
+                                @Assisted(value = "suffixWithoutHyphen") String suffixWithoutHyphen,
+                                @Assisted(value = "completeInflection") String completeInflection);
 
     Inflection create(@Assisted(value = "entryWord") String entryWord,
-                @Assisted(value = "completeInflection") String completeInflection);
+                      @Assisted(value = "completeInflection") String completeInflection);
 }
