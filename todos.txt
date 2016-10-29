@@ -1,4 +1,3 @@
-todo: pre-commit hook caps files at 500 lines and lines at 120 characters
 todo: improve README.md for structure of the project
 todo: get test coverage to ~100%
 todo: eliminate null passings and returns
